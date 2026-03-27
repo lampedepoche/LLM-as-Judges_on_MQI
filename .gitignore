@@ -1,0 +1,15 @@
+# Ignore all
+*
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Authorize folder access
+!*/
+
+# Keep only
+!Kripp_balanced-subsets_short-reasoning_2.5-flash-lite.ipynb
+
+# utils to keep
+!.gitignore
+!README.md
