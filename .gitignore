@@ -17,6 +17,8 @@ qualitative_analysis_project/qualitative_analysis/metrics/krippendorff.py
 qualitative_analysis_project/qualitative_analysis/metrics/utils.py
 qualitative_analysis_project/qualitative_analysis/metrics/gwet.py           # My Gwets file
 
-# utils to keep
+# Keep utility files at root
 !.gitignore
 !README.md
+
+#git add qualitative_analysis_project/qualitative_analysis/metrics/krippendorff.py qualitative_analysis_project/qualitative_analysis/metrics/utils.py qualitative_analysis_project/qualitative_analysis/metrics/gwet.py 
