@@ -19,23 +19,120 @@ qualitative_analysis_project/README.md
 !prepare_dataset.py
 !test_prepare_dataset.ipynb
 !concatenate_utt_per_chapter.py
-!test_concatenate_utt_per_chapter.ipynb
+!data/datasets/
+!data/datasets/writting_CSVs.py
+# high-human-agreement dataset
+!data/balanced_subsets/
+!data/balanced_subsets/create_best_subsample.py
+!data/balanced_subsets/test_create_best_subsample.ipynb
+# teacher dataset
+!data/teacher_subsets/create_teacher_subsample.ipynb
 # NCTE
 !Kripp_human.ipynb
-!ICPSR_36095\2 Mathematical Quality of Instruction\MQI 4-Point.pdf
+!ICPSR_36095/2 Mathematical Quality of Instruction/MQI 4-Point.pdf
 # Generations preparations
 !create_examples.py
 !generations/
-!generations\APLPROB\codebook preparation
-!generations\APLPROB\examples_LLM.txt
-!generations\CWCM\codebook preparation
-!generations\CWCM\examples_LLM.txt
-!generations\DIFFINST\codebook preparation
-!generations\DIFFINST\examples_LLM.txt
+!generations/APLPROB/codebook preparation
+!generations/APLPROB/examples_LLM.txt
+!generations/CWCM/codebook preparation
+!generations/CWCM/examples_LLM.txt
+!generations/DIFFINST/codebook preparation
+!generations/DIFFINST/examples_LLM.txt
+!generations/DIRINST/codebook preparation
+!generations/DIRINST/examples_LLM.txt
+!generations/ETCA/codebook preparation
+!generations/ETCA/examples_LLM.txt
+!generations/EXPL/codebook preparation
+!generations/EXPL/examples_LLM.txt
+!generations/LANGIMP/codebook preparation
+!generations/LANGIMP/examples_LLM.txt
+!generations/LCP/codebook preparation
+!generations/LCP/codebook preparation_no-reasoning
+!generations/LCP/codebook preparation_no-scale
+!generations/LCP/codebook preparation_simplest
+!generations/LCP/codebook preparation_simplified
+!generations/LCP/examples_LLM_no-reasoning.txt
+!generations/LCP/examples_LLM.txt
+!generations/LESSEFFIC/codebook preparation
+!generations/LESSEFFIC/examples_LLM.txt
+!generations/LINK/codebook preparation
+!generations/LINK/examples_LLM.txt
+!generations/LLC/codebook preparation
+!generations/LLC/examples_LLM.txt
+!generations/MAJERR/codebook preparation
+!generations/MAJERR/examples_LLM.txt
+!generations/MATCON/codebook preparation
+!generations/MATCON/examples_LLM.txt
+!generations/MGEN/codebook preparation
+!generations/MGEN/codebook preparation_no-reasoning
+!generations/MGEN/codebook preparation_no-scale
+!generations/MGEN/codebook preparation_simplest
+!generations/MGEN/examples_LLM_no-reasoning.txt
+!generations/MGEN/examples_LLM.txt
+!generations/MLANG/codebook preparation
+!generations/MLANG/codebook preparation_no-reasoning
+!generations/MLANG/codebook preparation_no-scale
+!generations/MLANG/codebook preparation_simplest
+!generations/MLANG/codebook preparation_simplified
+!generations/MLANG/examples_LLM_no-reasoning.txt
+!generations/MLANG/examples_LLM.txt
+!generations/MMETH/codebook preparation
+!generations/MMETH/examples_LLM.txt
+!generations/MMSM/codebook preparation
+!generations/MMSM/examples_LLM.txt
+!generations/MQI_CHECK/codebook preparation
+!generations/MQI_CHECK/examples_LLM.txt
+!generations/MQI3/codebook preparation
+!generations/MQI3/examples_LLM.txt
+!generations/MQI5/codebook preparation
+!generations/MQI5/examples_LLM.txt
+!generations/OERR/codebook preparation
+!generations/OERR/examples_LLM.txt
+!generations/OERR4/codebook preparation
+!generations/OERR4/examples_LLM.txt
+!generations/ORICH/codebook preparation
+!generations/ORICH/examples_LLM.txt
+!generations/ORICH4/codebook preparation
+!generations/ORICH4/examples_LLM.txt
+!generations/ORIENT/codebook preparation
+!generations/ORIENT/examples_LLM.txt
+!generations/OSPMMR4/codebook preparation
+!generations/OSPMMR4/examples_LLM.txt
+!generations/OWWS/codebook preparation
+!generations/OWWS/examples_LLM.txt
+!generations/OWWS4/codebook preparation
+!generations/OWWS4/examples_LLM.txt
+!generations/REMED/codebook preparation
+!generations/REMED/examples_LLM.txt
+!generations/SMALDIS/codebook preparation
+!generations/SMALDIS/examples_LLM.txt
+!generations/SMQR/codebook preparation
+!generations/SMQR/examples_LLM.txt
+!generations/STEXPL/codebook preparation
+!generations/STEXPL/examples_LLM.txt
+!generations/STUCON/codebook preparation
+!generations/STUCON/codebook preparation_no-reasoning
+!generations/STUCON/codebook preparation_no-scale
+!generations/STUCON/codebook preparation_simplest
+!generations/STUCON/codebook preparation_simplified
+!generations/STUCON/examples_LLM_no-reasoning.txt
+!generations/STUCON/examples_LLM.txt
+!generations/SUMM/codebook preparation
+!generations/SUMM/examples_LLM.txt
+!generations/TASKDEVMAT/codebook preparation
+!generations/TASKDEVMAT/examples_LLM.txt
+!generations/TSTUDEA/codebook preparation
+!generations/TSTUDEA/examples_LLM.txt
+!generations/USEPROD/codebook preparation
+!generations/USEPROD/examples_LLM.txt
+!generations/WCDISS/codebook preparation
+!generations/WCDISS/examples_LLM.txt
+
 # Generations script
 !VertexAI
-!VertexAI\script.py
-!VertexAI\utils.py
+!VertexAI/script.py
+!VertexAI/utils.py
 # 1st Run
 !Kripp_balanced-subsets_short-reasoning_2.5-flash-lite.ipynb
 # Three Dimensions Tests
@@ -47,12 +144,6 @@ qualitative_analysis_project/README.md
 !Kripp_balanced-subsets_2.5-flash_best-config.ipynb
 # Teachers
 !Kripp_teachers-subsets_2.5-flash_best-config.ipynb
-
-
-
-
 # Keep utility files at root
 !.gitignore
 !README.md
-
-# git add

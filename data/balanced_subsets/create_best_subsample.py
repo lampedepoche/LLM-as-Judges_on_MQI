@@ -3,7 +3,6 @@ import itertools
 import numpy as np
 import krippendorff
 from pathlib import Path
-import os
 
 # *** Download and read the files ***
 
