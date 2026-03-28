@@ -1,0 +1,13 @@
+INSTRUCTIONS
+
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Differentiated Instruction" which evaluates, on a binary scale (Not present, Present), whether the teacher differentiates their instruction based on the students' needs.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+
+**Here is the scale:**
+- 0 = Not present
+- 1 = Present
+
+Provide a very concise reasoning and the integer corresponding to the score (0-1)

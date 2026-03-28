@@ -1,0 +1,109 @@
+teacher: 2, thank you. So now we have the bottom row.  The first row has 4.  We were able to do another row in the back, but we couldn't do any more because we’re almost full.  How many packages are on the bottom row, student R?
+student: 8.
+teacher: 8 packages, very good.  On the bottom row how tall are those packages, who remembers, or you can look on the board. Student C, how tall is package A?
+student: 5 feet.
+teacher: Box 1 is 5 feet, but I asked you how tall package A was.
+student: How tall?  I don’t know.
+teacher: Student Y?
+student: 3 feet.
+teacher: 3 feet, thank you.  Student C, here it is right here, 3 feet. Okay?  The box is 5 feet tall.  Can I stack another package on the top, Student C?
+student: No, because then it will be 6 feet, won’t it?
+teacher: How do you know that?
+student: Because 3 x 2 equals 6.
+teacher: Okay, so if I had my packages and I put it on top, it would be too tall now because the box is only 5 feet or 5 cubes, and now I have 6 cubes tall.  So if I ask you how many package A can I fit in this box altogether, what would you say? How many package A fit?  And we’re going to stop, because I wanted to review one more thing, and this is taking a lot time.  Student J?
+student: One.
+teacher: One package?  One of these fits in there?
+student: Eight.
+teacher: Eight of them fit.  So a lot of math is involved.  You need to do math to figure out how many of each size divides into it or multiplies into it, just like you were doing.  Okay? We’re going to review it one more time later on, because this is a big step for when you can actually just explore and prove it, okay?  Questions.  Student S?
+student: Can you put it sideways?
+teacher: That is an excellent question.  So if we had these stacked in the box, what about putting then other boxes on top like that, then would it fit into the box?  Student S?
+student: Yes.
+{
+    "your_reasoning": "The entire exchange is a teacher-led discussion about heights, stacking, and simple multiplication. Students answer short numerical questions posed by the teacher. No one is *working on applied problems* themselves: there is no task, no problem-solving activity, no application scenario assigned to students to work through. All mathematical work is done verbally by the teacher, with students giving brief answers. Students are not engaged in solving applied problems independently or collaboratively.",
+    "rating": 1
+}
+
+
+teacher: All right, so we’re gonna switch it up.  We’re gonna do math today first.  We’re gonna continue talking about – well, what have we been talking about in math?  Student J?
+student: Patterns.
+teacher: Patterns, right?  Finding the pattern.  What are the easiest patterns to find?  And, I mean, that’s a little opinionated, but usually – how can you tell the pattern’s gonna be an easy one to find?
+student: When it’s steady.
+teacher: When it’s steady.  How do you know when it’s steady?  When you’re looking at a graph.  Which is what you’re gonna do on that blue paper.  Student T?
+student: When it keeps adding by the same number.
+teacher: Yes, but when you’re looking at a graph.  So, if I drew a graph on the board.  What would a steady line look like?  So, if this was zero, this was 10 --
+student: It would be straight.
+teacher: It would be straight, right?  So, if I have a straight increase, it’ll look something like this.  Right? [Draws on board]  If I wanted to make it like this, or even like this.  Which line -- we’ll label them A, B, C – so, let’s talk about the flicker bell.  Let’s use the flicker bell. Which lines shows a rate growing fastest?  The fastest growth, and how do you know?   Student R?
+student: Because, it’s the same part of the --
+teacher: What do you mean?
+student: Like, it’s increasing faster.
+teacher: How do you know that?  You’re right, A is increasing faster. How do you know that, though?
+student: Because --
+teacher: Think about what goes down here.  So, we can number them.  That helps.   One, two, three, four, five, six.
+student: At some ages it’s taller than all the other.  Like, all the A’s are taller than all the other.
+teacher: Okay, so it’s gonna be taller at certain ages.  But, what if you didn’t have these numbers like I had had before – if you were just looking at the line?
+student: The steady line, it’s --
+teacher: They’re all steady.  Right?  So, how do you know this one’s increasing at a faster rate than this one or this one?
+student: Because, it’s steeper?
+teacher: There we go!  That’s the word we’re looking for – steeper. Steepness of this line.  Although, we don’t know exactly what it is, you can see that this line, the slope is a lot sleeper, than the other three.  Today, we’re gonna be looking at graphs that resemble steady growth patterns, but we’re also gonna be looking at graphs that don’t resemble steady growth patterns.  Who knows what those lines would look like?  We haven’t really worked with them, because we’ve always been able to find a ruler or a pattern, and figure it out.  Student T?
+student: It looks like it’s steady.
+teacher: What does that look like, though?
+student: Like, it would go up and down.
+teacher: So, you think it’d increase and decrease?
+student: Yeah.
+teacher: Okay.   Anyone else, Student R?  This is a, “What do you think?”  You don’t know yet, this is our first time doing it.  Student R?
+student: Bumpy.
+teacher: Bumpy, is that what you said?  So, you were saying the same as Thomas, a little increase and decrease?
+student: It depends.
+teacher: Okay.
+student: It’s not always gonna look the same.
+teacher: I’m glad two people in my class are thinking.  Anyone else thinking?   So, we know what a steady line looks like.  I’m thinking, “What would a line that wasn’t steady look like?” Student J?
+student: It would be growing slow, and then --
+teacher: Okay, say that a little louder.
+student: It would be growing slow, and then --
+teacher: So, what would change?  The what of the growth would change? The what – so, first we were talking about the flicker bell, and that even now we’re gonna get into something different.  What would change?
+student: The pace.
+teacher: What do we call that?  It’s a term we’ve already used.  What do we call the “what’s” changing?  Tone?
+student: The growth.
+teacher: The growth “what”?  You’re right.  The growth what?  Student T?
+student: The growth pattern.
+teacher: Or?
+student: Speed.
+teacher: The speed or rate, right?  The speed of the growth is changing. It’s not steady.  Okay?  So, let’s look at this chart I put up here.  For your participation today, you will be able to get a ticket, correct?
+{
+    "your_reasoning": "Students are not doing an applied task themselves, but they are engaged in partial analysis of graphs and discussing real-world growth patterns. The teacher repeatedly asks them to interpret lines, compare growth rates, and predict what non-steady patterns might look like. This involves some applied reasoning (interpreting graphs, thinking about rates), but the work remains mostly oral and teacher-guided rather than students actively solving applied problems. Students contribute to applied interpretations but do not carry out full applied problem-solving.",
+    "rating": 2
+}
+
+
+teacher: All right, I think everything’s go for the cameras.  We’re going to start off today just by doing our daily word problems.  I’m going to pass these out real quick, and what I want you to do, if you would, is try to solve these problems.  Remember just to try to use everyday kind of logic. Don’t try to think about it too much, just try your best on these, Okay?  What I want you to do is probably just – why don’t we just stick with the second one where it says “Thursday Week Seven.”  You don’t have to do the first one right now; we’ll come back to that. Let me just read this real quick while you’re kind of working on it. It says, “Miss W’s class read for a total of 450 hours this month.  Mr. G’s class read two-thirds the number of hours read by Miss W’s class.  Miss R’s class read twice the number of hours read by Mr. G’s class.  If there were a total of 90 students in these three classrooms, what was the average number of hours read per student?” What was the average?  Remember we were doing a little bit of averaging yesterday?  So what you need to do is find the total of hours and divide that by the number of students. That will give you the average that each student read. So we have 450 hours this month that these 90 students read, right? So what is the average?  They’re asking you, what is the average amount?  Maybe they had one super student that read all 450 hours, right?  And then the 89 other students didn't read at all.  But they’re looking for the average. Go ahead.
+student: The answer?
+teacher: Go ahead, what do you think?
+student: I think the answer is five hours per student.
+teacher: Five hours per student.  And how did you figure that out?
+student: Because I just thought about it without the zeroes at the end, I thought about 9 times 5 equals 45, so that means 90 times 5 must be 450.
+teacher: Okay, so you see, you figured it out just kind of by thinking about it.  Right?  You said 9 times 5 is 45, so you knew – what was the next comment you said?  You knew…
+student: That helped me figure out 90 times 5.
+teacher: 90 times 5 equals 450.  So getting back to the question, what’s the average?  What is the average?
+student: 450?
+teacher: Is it 450?  Is it 90?  Or is it 5?
+student: 5.
+teacher: 5 hours.   So you’re saying each student read 5.
+student: Right.
+teacher: Okay?  So if we did that in this classroom, we have 14 students in this classroom, and if each student read for 5 hours a night. 14 students in our class.  5 hours.  5 hours for the month.
+student: 5 times 14.
+teacher: 5 times 14 is how much?
+student: There’s 14 students so, if five times 10 is…
+student: 70.
+student: If 5 times 10 is 50 then you have five times 4, and 70.
+teacher: 4 times 5. common, the 7 equals the 14, and then the 14 minuses the 7, and that makes it 7.
+teacher: All right, and so what’s 4 times 5?
+student: 4 times 5 is 20.
+teacher: And then we can add the 50 and the 20 together and what do we get?
+student: Then we get 70.
+teacher: Excellent job.  Did anybody else get that or kind of understood that?  Because we haven’t done a whole lot of averaging. That’s good.  We just kind of did it yesterday, we started with it, so I’m glad to see that you guys picked it up a little bit. So here’s our table of contents.  Take out your math notebooks please.   And today we’re going to be talking about symmetry, fractions on a number line.  So we’re going to continue our fractions.  We’re going to talk a little bit about symmetry.  Symmetry.  Symmetry, what is symmetry? Hold on, hold on.  Did I spell that wrong?  I did spell that wrong.  You guys.  S-Y-M-M-E-T-R-Y.  Symmetry.  My bad. And does anybody know what symmetry is?  It’s one of those math terms, it’s one of those words that is real, real specific to math.  Well, not really I guess.  What do you think, Student L?
+student: I think it’s like if you cut the class in half, and then like put a mirror in front, and put the class together on the other side.
+{
+    "your_reasoning": "Students are actively solving an applied word problem independently. The teacher distributes a real-world scenario, instructs students to work through it using everyday logic, and asks them to compute totals, averages, and multiplications. Students carry out the steps (interpreting the situation, calculating hours, checking reasoning) rather than only discussing concepts. Most of the segment involves students doing the applied work themselves, with the teacher guiding but not dominating the mathematical process. This constitutes sustained engagement with applied problems."
+    "rating": 3
+}
+

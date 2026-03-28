@@ -9,16 +9,50 @@ qualitative_analysis_project/README.md
 # Authorize folder access
 !*/
 
-# Keep only
-!Kripp_balanced-subsets_short-reasoning_2.5-flash-lite.ipynb
-!Kripp_teachers-subsets_2.5-flash_best-config.ipynb
+##### Keep only #####
 # LLM4Humanities repo
-qualitative_analysis_project/qualitative_analysis/metrics/krippendorff.py
-qualitative_analysis_project/qualitative_analysis/metrics/utils.py
-qualitative_analysis_project/qualitative_analysis/metrics/gwet.py           # My Gwets file
+!qualitative_analysis_project/qualitative_analysis/metrics/krippendorff.py
+!qualitative_analysis_project/qualitative_analysis/metrics/utils.py
+!qualitative_analysis_project/qualitative_analysis/metrics/gwet.py           # My Gwets file
+# Data preparation
+!transcript_issues.txt
+!prepare_dataset.py
+!test_prepare_dataset.ipynb
+!concatenate_utt_per_chapter.py
+!test_concatenate_utt_per_chapter.ipynb
+# NCTE
+!Kripp_human.ipynb
+!ICPSR_36095\2 Mathematical Quality of Instruction\MQI 4-Point.pdf
+# Generations preparations
+!create_examples.py
+!generations/
+!generations\APLPROB\codebook preparation
+!generations\APLPROB\examples_LLM.txt
+!generations\CWCM\codebook preparation
+!generations\CWCM\examples_LLM.txt
+!generations\DIFFINST\codebook preparation
+!generations\DIFFINST\examples_LLM.txt
+# Generations script
+!VertexAI
+!VertexAI\script.py
+!VertexAI\utils.py
+# 1st Run
+!Kripp_balanced-subsets_short-reasoning_2.5-flash-lite.ipynb
+# Three Dimensions Tests
+!Kripp_balanced-subsets_STUCON_tests.ipynb
+!Kripp_balanced-subsets_MLANG_tests.ipynb
+!Kripp_balanced-subsets_LCP_tests.ipynb
+!Find_best_configuration.ipynb
+# 2nd Run
+!Kripp_balanced-subsets_2.5-flash_best-config.ipynb
+# Teachers
+!Kripp_teachers-subsets_2.5-flash_best-config.ipynb
+
+
+
 
 # Keep utility files at root
 !.gitignore
 !README.md
 
-#git add qualitative_analysis_project/qualitative_analysis/metrics/krippendorff.py qualitative_analysis_project/qualitative_analysis/metrics/utils.py qualitative_analysis_project/qualitative_analysis/metrics/gwet.py 
+# git add
