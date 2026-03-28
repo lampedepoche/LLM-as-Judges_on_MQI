@@ -1,0 +1,30 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Multiple Procedures or Solution Methods" which captures, on a three-point scale (Low, Mid, High), to what extent multiple procedures or solution methods occur or are discussed in the segment:
+- Multiple solution methods for a single problem (including shortcuts)
+- Multiple procedures for a given problem type
+
+Multiple procedures or solution methods are defined as, e.g.:
+- Taking different mathematical approaches to solving a problem (e.g., comparing fractions by finding a common denominator AND comparing fractions by finding a common numerator)
+- Solving or discussing how to solve a word problem using two different strategies.
+
+If the initial strategy or strategies occurred in a prior segment, score Multiple Procedures here.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+- Do NOT count incorrect procedures or solution methods.
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Low
+  - Teacher or student briefly mentions a second procedure or method, but the method is not discussed at length or enacted (“we also showed yesterday that you can do it XYZ”).
+- 2 = Mid
+  - Multiple procedures or solution methods occur or are discussed in the segment (e.g., solving division problems in two ways), but does not include the special features listed in High, or feature these only momentarily (e.g., “this method is easier than the other” without explicit discussion of why).
+- 3 = High
+  - Multiple procedures or solution methods occur or are discussed in the segment, and include special features:
+    - Explicit comparison of multiple procedures or solution methods for efficiency, appropriateness, ease of use, or other advantages and disadvantages
+    - Explicit discussion of features of a problem that cues the selection of a particular procedure
+    - Explicit connections between multiple procedures or solution methods (e.g., how one is like or unlike the other)
+
+__Scoring help__
+You will need to use some judgment when deciding whether to count two methods as distinct from one another. We consider methods distinct when they feature two different mathematical paths to the solution. For instance, in the case of comparing fractions, we would NOT consider it distinct if student A compares 3/5 and 7/10 by finding a common denominator of 10, and student B finds a common denominator of 50. However, we would consider finding common numerators and finding common denominators to be distinct methods.
+
+Provide a very concise reasoning and the integer corresponding to the score (1-3)

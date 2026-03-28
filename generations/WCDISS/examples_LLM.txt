@@ -1,0 +1,72 @@
+teacher: Okay.  We are going to be doing popcorn fractions today.  What I want you to do first is you should have a napkin at your desk.  Go ahead and unfold your napkin so it is completely out.  Okay.  Student M and Student S are bringing you a bag of popcorn.  What we’re going to do with this popcorn is have to imagine a little bit, have to pretend, okay?  Now realistically when you pop a bag of popcorn you have more popcorn in your bag than this, right?  But we’re going to have to use our imaginations and pretend this is a bag of popcorn you just took out of the microwave.  What I want you to do is at your table, pick a partner.  It has to be somebody sitting across from you or next to you, okay?  So we have a partnership here, here, an here, and my three ladies here, can you be a group of three?  So what’s going to happen is we’re going to practice adding fractions with unlike denominators. What I want you to do first is open up your bag of popcorn onto your napkin.  You may not eat it yet.  I promise you’ll get to eat it, but not yet.  What I’d like you to do is go ahead and count how many you have.  I will tell you when you can eat and what you can eat, nothing yet.  Okay.  Sometimes popcorn is kind of fragile and it breaks.  Everyone should have 24.  Raise your hand if you have 24.  Okay.  Raise your hand if you have more than 24.  If you have more than 24, I want you to eat as many pieces as you have to so you have 24.  Double check and make sure you have 24 pieces.  So you have exactly 24, yes?  You just counted them.  You’re trying to cheat and eat a piece.  I heard you.  You have 24.  How many do you have, Student K?  Oh my goodness.  Come on.  Okay. 1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Seriously?  1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Okay.  So how many pieces are there in all?
+multiple students: 24.
+teacher: So what is our denominator for how many we have here?
+multiple students: 24.
+teacher: Because our denominator is always what?  How many we have in all.  Now with your partner we’re going to practice adding fractions with unlike denominators.  Okay.  So what I want you to do is decide who is person A and person B in your group.  In my group over here, one of you is going to have to sit out for this one. Okay.  So establish who is person A and person B. Okay.  Person A, what I would like you to do is split your popcorn into groups of 8.  Okay.  So each group should have 8 kernels in them.  Person A, you’re splitting it so each person has 8 kernels in a group. See how everyone else has their napkins unfolded? Just person A.  Okay.  So my people that split them into groups of 8, you have how many groups in all? Three groups in all.  Everybody see that?  What I want you to do is put two of those groups back into your Ziploc bag.  Okay.  Person B, I would like you to split yours so you have 6 pieces of popcorn in each group.  6 in each group.  If you have 24 kernels, you should have 6 in each group.  Okay.  You did something wrong.  You don’t have 24 kernels. Okay.  My person B, if you’re a B person, I asked you to split it so you have 6 popcorn kernels in each group.  How many groups do you have?
+multiple students: Four.
+teacher: I would like you to put two of those groups into your bag, so you have two groups left out.  My A people, look up here.  So you had how many groups in all?
+multiple students: Three.
+{
+    "your_reasoning": "The segment is dominated by step-by-step directions for a hands-on activity carried out in pairs. The teacher controls all talk, asks only brief check-in questions with choral responses, and does not facilitate mathematical discussion among the whole class. Students do not exchange mathematical ideas publicly; they follow procedural instructions in small groups. Instruction occurs through management of the activity rather than whole-class mathematical discussion."
+    "rating": 1
+}
+
+
+student: Five times one hundred equals to five hundred.
+teacher: Say it nice and loud.  Say it a little louder.
+student: Five times a hundred equals to five hundred.
+teacher: Okay, thank you.  Student J?
+student: I respectfully disagree with Student A about the 100 times 2 equals to 1,000 because that equals to 200.
+student: I know that.  I said I thought I heard that.
+teacher: Okay.  Student A?
+student: Another way you can land onto another landmark number that could get you to 1,000 is 50 because 50 times – would you come back to me?  I'm thinking about 50 times something.
+teacher: Okay.  Someone want to help Student A out a little bit? Student F?
+student: A hundred.
+student: Fifty times –
+teacher: Go ahead.
+student: I was going to say 50 times 20, oh, yeah.
+teacher: Fifty times what?  Nice and loud.
+student: Fifty times twenty.
+teacher: Fifty times twenty equals what?
+student: A thousand.
+teacher: Equals a thousand.  Student J?
+student: I respectfully disagree with Student F.  I think it's – wait, seven –
+student: Five times twenty.
+student: I think it will be 700.
+teacher: Okay, why do you think it would be 700?  You think 50 times 20 is equal to 700 is what you're saying?  Okay, why do you think so?
+student: I say that because five times two equals seven, and then all you have to do is add the zero, place a zero at the end.
+teacher: Okay.  Student M?
+student: I respectfully disagree with Student J.
+student: Me too.
+student: I think he was thinking five plus two equals – I think he was thinking five plus two because five times two equals ten.
+teacher: So do people agree with Student F that 50 times 20 equals 1,000?
+student: Yeah.
+teacher: Because we're going back to talking about what Student A said about counting by 50s and using 50s as landmark number to count by.
+student: Count by 100.
+teacher: Well, different people – I'm going to back up a little bit. Different people said different landmark numbers that they think would be comfortable to count by in their thousands book.  Somebody said we can count by two.  Somebody said we can count by 25s.  Student A said we can count by 50s. Okay?  Now we're trying to figure out someone – Student A said – I'm sorry.  Student F said 50 times 20 equals 1,000. Do people agree with that?
+multiple students: Yes.
+teacher: Okay.  Student J?
+student: I disagree with Student F that – never mind, never mind.
+teacher: All right.  So let's move on, okay?  I'm glad we had that discussion.  What I would like to know now, my next question is that so we're gonna make our thousands book, and our thousands book will have one blank 100 chart. You’ve seen these 100 charts before, but usually they're filled in.  I'm sorry.  Where you going?
+student: To get a tissue.
+teacher: Okay.  Usually they're filled in.  Usually your 100 charts are filled in.  Grab a couple tissues and bring them inside, okay?  They're usually filled in.  These are blank.  We have to fill them in ourselves, okay?  If each of these pages has 100 squares, okay?  Each of these pages has 100 squares, how many of these pages do you think we will need to make our 1,000 book?  Turn and talk to a partner.  Tell your partner.
+teacher: Student J, join Student J and M, please.  Thank you.  All right, bring it back.  Bring it back.  Bring it back.  What did your partner say?  Tell us what your partner said. Student S?
+student: Well, my partner said 10 because –
+teacher: Who was your partner, Student S?
+student: Student J.
+teacher: Okay.
+student: He said that 10 because he thinks that 10 is an easy number to get to 1,000.
+teacher: Okay, he said, your partner, Student J, said that you need 10 pages because 10 is an easy number to get 1,000.  Our question is how many of these 100 blank charts do we need to reach 1,000 to make our 1,000 book.  What did you say, Student J?
+student: I said that you would need ten 100 charts.
+teacher: Ten 100 charts?  How do you know?
+student: Because 10 times 10 – I mean…
+teacher: Would you like a little extra help?  Choose somebody.
+student: Because if you skip count by 100 ten times that will get you to end up at 1,000.
+{
+    "your_reasoning": "Students frequently share claims, disagree, justify, and respond to one another in front of the whole class. The teacher prompts public reasoning, invites peers to help, and sustains a shared conversation about landmark numbers and multiplication. Although some directions and partner talk occur, substantial portions of the segment rely on whole-class mathematical discussion with multiple students contributing ideas."
+    "rating": 2
+}

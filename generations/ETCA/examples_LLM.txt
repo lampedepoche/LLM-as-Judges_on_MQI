@@ -1,0 +1,100 @@
+teacher: Okay.  We are going to be doing popcorn fractions today.  What I want you to do first is you should have a napkin at your desk.  Go ahead and unfold your napkin so it is completely out.  Okay.  Student M and Student S are bringing you a bag of popcorn.  What we’re going to do with this popcorn is have to imagine a little bit, have to pretend, okay?  Now realistically when you pop a bag of popcorn you have more popcorn in your bag than this, right?  But we’re going to have to use our imaginations and pretend this is a bag of popcorn you just took out of the microwave.  What I want you to do is at your table, pick a partner.  It has to be somebody sitting across from you or next to you, okay?  So we have a partnership here, here, an here, and my three ladies here, can you be a group of three?  So what’s going to happen is we’re going to practice adding fractions with unlike denominators. What I want you to do first is open up your bag of popcorn onto your napkin.  You may not eat it yet.  I promise you’ll get to eat it, but not yet.  What I’d like you to do is go ahead and count how many you have.  I will tell you when you can eat and what you can eat, nothing yet.  Okay.  Sometimes popcorn is kind of fragile and it breaks.  Everyone should have 24.  Raise your hand if you have 24.  Okay.  Raise your hand if you have more than 24.  If you have more than 24, I want you to eat as many pieces as you have to so you have 24.  Double check and make sure you have 24 pieces.  So you have exactly 24, yes?  You just counted them.  You’re trying to cheat and eat a piece.  I heard you.  You have 24.  How many do you have, Student K?  Oh my goodness.  Come on.  Okay. 1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Seriously?  1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Okay.  So how many pieces are there in all?
+multiple students: 24.
+teacher: So what is our denominator for how many we have here?
+multiple students: 24.
+teacher: Because our denominator is always what?  How many we have in all.  Now with your partner we’re going to practice adding fractions with unlike denominators.  Okay.  So what I want you to do is decide who is person A and person B in your group.  In my group over here, one of you is going to have to sit out for this one. Okay.  So establish who is person A and person B. Okay.  Person A, what I would like you to do is split your popcorn into groups of 8.  Okay.  So each group should have 8 kernels in them.  Person A, you’re splitting it so each person has 8 kernels in a group. See how everyone else has their napkins unfolded? Just person A.  Okay.  So my people that split them into groups of 8, you have how many groups in all? Three groups in all.  Everybody see that?  What I want you to do is put two of those groups back into your Ziploc bag.  Okay.  Person B, I would like you to split yours so you have 6 pieces of popcorn in each group.  6 in each group.  If you have 24 kernels, you should have 6 in each group.  Okay.  You did something wrong.  You don’t have 24 kernels. Okay.  My person B, if you’re a B person, I asked you to split it so you have 6 popcorn kernels in each group.  How many groups do you have?
+multiple students: Four.
+teacher: I would like you to put two of those groups into your bag, so you have two groups left out.  My A people, look up here.  So you had how many groups in all?
+multiple students: Three.
+{
+    "your_reasoning": "Students follow a fully scaffolded, procedural activity: counting popcorn, forming fixed-size groups, and following step-by-step directions. They do not reason about fraction relationships, make conjectures, or connect representations. All mathematical structure is supplied by the teacher, leaving no space for genuine cognitive work beyond carrying out instructions."
+    "rating": 1
+}
+
+
+teacher: Your eyes need to be over here.  This is nice and clean. Okay guys.  Today we’re going to be working with angles and looking at more specifically, right angles. Identifying angles and just identifying right angles using the power of polygons.  Okay.  So everybody knows this shape right here?
+multiple students: Yes.
+teacher: So in this shape we’re going to be examining a right angle.  So if I – can someone come up and show me, do you see any right angles in this shape?  Student T?
+student: Yes.
+teacher: Can you come and trace where you see a right angle?  Okay.  So that’s 1, 2, 3, okay, 4.  Does everyone agree that they see four right angles?
+multiple students: Yes.
+teacher: Can you hold up your power polygon like that and can you just count the angles?  Every time you reach an angle, 1, 2, 3, 4.  Okay.  Put it down.  Now I’m going to take two other pieces, two other power polygons.  I have – and you may have to work with a partner.  I’m going to use these two power polygons.  I’m going to put them together.  Okay.  And do you see any right angles when I put those two power polygons together?
+multiple students: Yes.
+teacher: Student M?
+student: Yes, I do.
+teacher: Can you show me?  It seems simple, not hard.
+student: Here.
+teacher: One.
+student: Here.
+teacher: Two.
+student: Here.
+teacher: Three.
+student: Here.
+teacher: Four.  Okay.  So every time you see a right angle, a right angle makes a square corner, right?  This is a right angle.  And a right angle measures 90 degrees.  One angle, two angles, three angles, four angles.  One angle, one right angle, second right angle, third right angle, fourth right angle, and a right angle measures 90 degrees.  So a right angle forms a square corner, right?
+multiple students: Yes.
+teacher: A right angle measures 90 degrees, correct?
+multiple students: Yes.
+teacher: Can you find two power polygons, put them together, and form a right angle?  Anybody have two power polygons that they can put together to form a right angle?  Student K, come up.  Show us.  I should have said two different shapes, but that’s okay.  Press them down. Okay.  All right.  Can you show the – let’s push it down some more so we can see.  Can you show the class where the right angles are?  It’s not straight, is it?  Okay.  Okay.  Student K, she showed us the angles by using the angle sign, but let’s do this. Let’s plan out.  Let’s remember it’s a square corner, so let’s do this.  1, 2, 3, 4.  What Student K did, she made the sign like this, which is how you indicate there’s an angle there.  Good.  Can someone else – here, Student K.  Can someone else come up with two different shapes?  Let’s see.  Student M? Let’s see if he’s correct.  Let’s pay attention to what he’s doing.  You put it down.  You put it down the way you want us to see it.  Is that how you want us to see it?  Is that how you want it to be?
+student: Yes.
+teacher: Can you show us the right angle in that shape?  Is there more than one?  Are there more than one right angles?  Do you have any right angles in that shape?  Does he have any right angles in that shape, guys?
+multiple students: Yes.
+teacher: Okay.  Do you agree?
+multiple students: Yes.
+teacher: Somebody else, even though I couldn’t hear you, Student M.  You need to speak up.  Good job.  Thank you.  Student T, two different shapes.  I know.  It’s kind of hard to make it appear straight on this thing, sometimes. Can you show us the right angle in this shape?
+student: The right angles are right there.
+teacher: One.  What’s the one in the middle?  Okay.  Do you guys agree?
+multiple students: Yes.
+teacher: Show me another two pieces, Student M.
+student: So I have a right angle right here, right here, right here, and that’s it.
+{
+    "your_reasoning": "Students repeatedly identify right angles in teacher-selected and student-selected polygon combinations, requiring some observation and decision-making rather than mere execution. However, the work remains bounded: students locate predetermined features, do not justify or generalize, and do not engage in deeper reasoning about angle relationships. The segment mixes brief moments of student reasoning with mostly low-demand identification tasks."
+    "rating": 2
+}
+
+
+teacher: Okay so for today’s lesson we’re still doing our geometry unit. Okay last week we did a lot around triangles. The different types of triangles the angles and so forth so today we’re going to move on to quadrilaterals and I know last year you did some work around quadrilaterals. Can anyone give me the definition of what they remember a quadrilateral to be? Student J?
+student: Four.
+teacher: What means four?
+student: Four sides.
+teacher: What means four though in that word anyone know?
+student: Four angles?
+teacher: Quad means four just like in Spanish uno, dos, tres, quatro. Quad means four. Okay so that’s good you remembered four. Lateral anyone know what that means?
+student: Equal
+teacher: Nope.
+student: Equilateral?
+teacher: Sides. Okay, so quad meaning four lateral sides, so four sides. Okay so a quadrilateral would be a four sided shape.
+student: Oh I get it now.
+teacher: Okay today, today’s lesson is heavy on vocabulary that you’ve learned in the past. Part of today’s lesson is not just about the characteristics of quadrilaterals. It’s also using a lot of vocabulary that you’ve had in the past okay. What you’re going to do today is you’re going to group. When we’re done with the smart board part of the lesson you’re going to work with a partner and you’re going to group quadrilaterals by their characteristics. So hopefully this mini-lesson on the smart board gives you some definitions and it’s also interactive in that hopefully it’ll give you a solid background before you do the cutting and pasting afterwards. So what I wanna see is we’ll go through these you’re gonna do some grouping on the smart board as a whole class and then you’ll work with your partners and then we’ll share back. Do you remember doing that with the triangles with the cutting and pasting?
+student: Yeah
+teacher: Okay so let’s take a look up here and we have quadrilateral quest one. Which shapes below have all of these properties. The opposite sides are congruent. What does congruent mean?
+student: Equal sides.
+student: They call it like, they’re equal length, um, same.
+teacher: Same okay, we know congruency means same size same shape. So congruent would mean the same here. Opposite sides are parallel what does parallel mean? What does parallel mean? Student B?
+student: Lines that never intersect.
+teacher: Never intersect, same distance remember we discussed that before. Opposite angles are congruent. So can you find a shape up there one of the, one of the quadrilaterals that fits all of those properties? The opposite sides are congruent, the opposite sides are parallel and the opposite angles are congruent. If you can find one then I want you to come up to the board and I want you to drop it in the little blue box Student A. just one.
+student: Just one, is there more than one though?
+teacher: On this particular one there is yeah.
+student: I only see two.
+teacher: Shh, keep your comments to yourselves. [BING] Green light means you did good so the opposite sides were congruent they were parallel and the angles were congruent. Student D? [BING] Student B? [CLUNK] Okay why did he get the red light?
+student: Oh this one this one this one.
+teacher: Okay but why did, why did you get the red light on that? Tell me what didn’t fit?
+student: This one.
+teacher: Right, Right the opposite angles were not congruent. Were the sides?
+student: No.
+teacher: That’s right, that’s why right one was shorter? Okay are there anymore Student N? [BING] Student A.
+student: Are we being recorded?
+teacher: Yes. You’ve moved all the shapes with the properties listed above okay. We’re gonna do one more than I’m gonna ask you a few questions after we do this one. Which shapes below have all of these properties: the quadrilateral has 4 sides but only 2 sides are parallel Student M? [CLUNK]
+teacher: Okay why did you get the red light on that? Do you know? Can anyone help him out? Student A why did he get the red light on that?
+student: It just says only 2 sides are parallel.
+teacher: How many sides are parallel on that one?
+student: 4
+teacher: 4, wanna try another one?
+student: Oh my gosh, right.
+{
+    "your_reasoning": "Students actively analyze multiple quadrilaterals against sets of properties, requiring them to interpret definitions (congruent, parallel), evaluate conditions, and justify why shapes do or do not satisfy those constraints. They compare representations, check combinations of attributes, and correct each other’s reasoning. The task centers on making determinations based on relational properties, not following procedures, resulting in sustained high-level reasoning."
+    "rating": 3
+}

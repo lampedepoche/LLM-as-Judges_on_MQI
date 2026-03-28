@@ -1,0 +1,103 @@
+teacher: Okay, boys and girls, make sure that you are listening, you can hear me, you can see me.  If you cannot hear me or see me, if your back is towards me you need to just flip your chair around so that you can see me.  The first thing that we’re gonna be using in our math class is our math notebook.  So we’re gonna talk about we just started a new unit called Landmarks and Large Numbers, and you guys remember that we started talking about how we’re gonna use our thousand book to be able to read, to write and sequence numbers.
+teacher: In order to be a good mathematician, you need good math language.  So in your notebooks please, you put your name and the date on a clean page.  And we’re just gonna set this up and we’re gonna use this page at the end of the class.  I’m gonna give you the math language.  I’m not gonna take a long time to give the list to you, but I want you to listen to the words that you’ll be using in this math time.  Student J, could you turn around?  Student G, could you listen to the words?  I’m gonna read them: order, number line, place value, digits, value of the digit, ones, tens, hundreds, thousands, ten-thousands, hundred- thousands, millions, landmark number, multiple, multiples, multiples of ten, multiples of a hundred, multiples of a thousand.  What is multiples of ten?  Could that be a landmark number in our thousand booklet?
+multiple students: Yes.
+teacher: 10, 20, 30, 40, 50, 50, 60, 70, 80, 90, 100.  Multiples of 100 could be a multiple that we list in our thousand booklet, some add-ins and there’s lots more.  So I’m gonna give you those lists and mathematical terms later on.  So just put your notebooks to one side.  All right, as a review from the other day, we started our math notebook and we started on the first page.  We had 1 to 100.  On the second page we had 101 to 200, third page 201 to 300, fourth page 301 to 400.  Remember, the goal of this lesson so far, these first four pages is to be able to read, write and sequence numbers to 1,000.  Student D, what does the word sequence mean?
+student: Put them in order.
+teacher: Put the numbers in order.  And as part of this work, in partners you chose a way to put some numbers already in your book.  Student M, you and your partner, what numbers did you decide to put in your thousand booklet?
+student: Me and my partner decided to do –
+teacher: Could you speak up, Student M?  I can’t hear you.
+student: Me and my partner decided to do 5, because when you have 5 then it’s easier to find the other numbers around it.
+teacher: Okay.  Are you saying that you decided just to put five numbers?  What are you telling me?  As a mathematician, what are you telling me?
+student: We put 5, 10, 15, 20, 25, 30, 35, 40, 45, 50.
+teacher: Okay, Student M, what do we call those numbers?
+student: Landmark numbers.
+teacher: Landmark numbers.  What else can we call them?
+student: Multiples of 5.
+teacher: Multiples of 5, good.  That’s a nice strategy.  Somebody else tell me how they put numbers in your book, you and your partner.  Student D.
+student: Me and my partner put 1, 11, 21, 31, 41, 51, 61.
+teacher: Can you speak up a little louder and look at me, Student D?
+student: Me and my partner put 1, 11, 21, 31, 41 and so on, and we also put 5, 15, 25, 35, 45 and so on, and the reason I put those for the first column of ones is so that you would know which row your number would be in.  If you try to find 54, you would know that it would be in 51.  And the reason that I put the fives is that you would know which side of your paper to read on, because the fives are in the middle.
+teacher: Okay.
+student: And for the 50 which side they are on.
+teacher: Okay.
+student: Top to the bottom.
+teacher: All right.  So he’s using a strategy, a particular way he put the numbers in his book so it would be easier for him to find where to place other numbers.
+teacher: Student J, excuse me.  We’re recording today, so you can just join a group.  Just pull up a chair and join a group.  You can just participate with us.  Just jump into the math conversation.  Student J, you can your partner, how did you put the – what numbers did you put in your book and why did you put them in your book that way?
+{
+    "your_reasoning": "The interaction stays at the level of students reporting predetermined strategies and the teacher acknowledging them without probing, extending, or using the ideas to advance mathematical understanding. Exchanges remain procedural and organizational. Student contributions are not mathematically developed, and the teacher’s responses do not work with student thinking to build concepts."
+    "rating": 1
+}
+
+teacher: Okay, good.  Okay, so let me slip away from the homework page and we'll get started.  Okay, so just like yesterday to warm us up a little bit before we go, a little mental math estimation.  Can somebody solve for me, in your head, 35 times 4?  Student A, what are you thinking, 35 times 4?
+student: Hundred forty?
+teacher: How'd you get 140?
+student: Because I did 2 times 35 is 70 and then – okay, 2 times 35 equals 70.  So I added 70 plus 70 or 2 times 70 and took away the 0.
+teacher: Seven and seven is?
+student: Two times seven is fourteen and I added the zero.
+teacher: Excellent.  So she used doubles, right?  She doubled 35 and got 70 and doubled it again.  Is there a different way you could've done 35 times 4 in your head?  Student C, what else could you have done?
+student: Thirty times four equals a hundred and twenty.  Five times four equals twenty.  A hundred twenty plus twenty equals one forty.
+teacher: Okay, really good mental math.  Two different strategies.  What if you do 55 times 3?  Student E?
+student: One hundred sixty-five.
+teacher: And where'd the 165 come from?
+student: I know that 50 times 3 equals 150 and 3 times 5 equals 15.  So 150 plus 15 equals 165.
+teacher: Excellent.  Gosh, your mental math is really, really, really amazing compared to the beginning of the year when we were still working on, like, 6 times 7 and now we're doing 55 times 3, 45 times 4.  All right, one more.  Can you do – let's make a larger number – can you do 75 times 4? Student S, can you do 75 times 4?
+student: I'm not sure it's right but –
+teacher: What would you think in your head for 75 times 4?
+student: Five times four.  Four times five which is twenty and then seventy times four is twenty-eight.  Add the zeros, it's 280.
+teacher: So you did 280 and you have the 20?
+student: Two hundred eight plus twenty is three hundred.
+teacher: Who agrees with that?  Three hundred?
+student: Me.
+teacher: For 75 times 4, breaking it up, multiplying the tens, multiplying the ones, and then combining it make for some good mental math.  Good work.  Okay, so yesterday we did some estimating, right?  And we worked on estimating and comparing.  Let me make this bigger.  A number to an equation.  And we used estimation to see which is bigger. We didn’t solve it exactly, but we estimated to see which would be the larger number.  We compared them.  If you look at 250 and we're comparing that to 5 times 48, I don't want you to solve it exactly.  I want you to think.
+student: I see which one's bigger.
+teacher: Which is bigger?  Without solving exactly, do you know in your head a way to figure this out mentally?  One, two, three, four, five, six, seven – seven people have an idea.  What are you thinking in your head, Student C?  I see you looking at it.  What are you thinking about?
+student: I can split the 48 up to explain.
+teacher: So you're thinking you could split the 48 and do some mental math.  Mm-hmm, one way would be to do like we were just practicing, some mental math with the 5 times 48.  Can you do it without having to solve 5 times 48?  What do you think, Student J?
+student: You could estimate 48 to 50 and then multiply 5 times 50 which would get you to a friendly.  And 5 times 50 –
+teacher: You said 5 times 50 is a friendly estimation.  You rounded it?
+student: Yeah, and 5 times 5 equals 25 and then put the 0 on the back would give you 250, but that's not the exact equation that we're using.  The number is a little bit lower so we know that 250 has to be larger.
+teacher: Excellent.  So can somebody repeat what Student J just said and make sure this makes sense to us?  He told us that the 250 is going to be larger and why was that, Student C?
+student: Because 40 is lower than 50.
+teacher: Forty is less than fifty or our forty-eight is less than the fifty?
+student: Our 48 is less than the 50.
+teacher: Okay, Student J, can you explain that again?  That's true, Student C.
+student: Two things.  One that he said that 48 rounded to 50 will make a close estimate.  He said 5 times 5 is 25; add the 0 is 250. Since it's lower because the actual equation is lower, that he knows that 250 is greater.  Another thing I was going to say is like we could 5 times 40 and try to figure out with just 250 and then you could sort of do 5 times 8 which is easier.  I think it's a little bit easier.
+teacher: Okay, that'd be solving it exactly, right?  But I like what you said about Student J noticed this friendly fact.  He kind of did a mental estimate and said, wait a minute, 5 times 50 is 250.  So I know that this is 5 times 50.  And like you said, the real problem is lower, right?  This was an overestimate.  So we know that 5 times 48 will be less.  So we need to have the sign eating the larger number, right? Two hundred fifty is greater than five times forty-eight.
+student: How come –
+teacher: Will you close the window for me, please?
+student: How come that's a plus instead of an equals?
+teacher: Great question.  It should’ve been an equals sign, right? Okay.  Last one like this, 3 times 27 or 90?  Which one would be larger, the 90 or the 3 times 27?  That's good. Thank you.  All set.  Student X, what are you thinking?
+student: You can estimate the 27 to the 30.  So 3 times 30 is 90.
+teacher: You said 3 times 30 is?
+student: Ninety.
+teacher: Interesting.
+student: So that one wasn’t bad because if you round it up, it was going –
+teacher: So you know 3 times 30 is 90.  This is like equivalent – equal to 3 times 30 over here.  That would be equal to 90.  So 3 times 27?
+{
+    "your_reasoning": "The teacher consistently elicits student strategies, asks for explanations, and has students restate one another’s reasoning. Student ideas are used to clarify estimation methods and connect approaches (doubling, decomposing, rounding). Although some exchanges remain procedural and the teacher occasionally steers rather than builds deeply on the mathematics, there is clear engagement with student thinking beyond pro forma interaction and some conceptual remediation around estimation."
+    "rating": 2
+}
+
+
+teacher: Okay, so we have been working with mostly these larger numbers, and so today we are going to aim to solve this final problem, 13 x 8.  How we’re going to do that is we’re going to work in clusters.  So clusters are a few sets of number equations that are related, but they’re not really related to each other.  Because is 3 x 8 related to 13 x 4?
+student: No.
+teacher: Not really.  But both of these equations are related to our final problem.  You are going to be solving multiplication clusters after we do this activity.  So we’re going to do it together as a class with this example, then you’re going to go back to your seats or your groups, your partners, and you’re going to work together to solve your own sets, and then you’re going to make a poster.  So that’s the whole big picture.  And we’re going to figure out how to solve this equation. What’s 13 x 2, Student M?
+student: 26.
+teacher: 13 x 4? Student K?
+student: 52.
+teacher: 3 x 8, Student K or A?
+student: 24.
+teacher: What’s a way you could solve this in your head quickly? What’s one of the strategies we’ve been using, or you’ve used in third grade maybe? What could you do?
+student: Skip count.
+teacher: That’s a great suggestion.  You could skip count.  So Student K or A, skip count in your head.
+student: 24.
+teacher: 24, good girl.  And then we have this one, 12 x 8.  Student F?
+student: 98?
+teacher: 96.  So now what we have are these four equations solved. They’re our clusters.  So how can we use these clusters, each one of these, to help us solve 13 x 8? We could use them as what, Student L?
+student: You could double 13 x 4.
+teacher: 13 x 4, we could double it, why?
+student: Because 4 + 4 = 8.
+{
+    "your_reasoning": "The teacher elicits multiple strategies, presses students to justify why strategies work, and directly uses student contributions to build the reasoning leading to 13×8. When a student proposes doubling 13×4, the teacher has the student explain the mathematical basis, integrating that idea into solving the target problem. Student thinking is actively taken up, connected, and used to advance the mathematics with conceptual clarity."
+    "rating": 3
+}

@@ -1,0 +1,69 @@
+teacher: Okay.  We are going to be doing popcorn fractions today.  What I want you to do first is you should have a napkin at your desk.  Go ahead and unfold your napkin so it is completely out.  Okay.  Student M and Student S are bringing you a bag of popcorn.  What we’re going to do with this popcorn is have to imagine a little bit, have to pretend, okay?  Now realistically when you pop a bag of popcorn you have more popcorn in your bag than this, right?  But we’re going to have to use our imaginations and pretend this is a bag of popcorn you just took out of the microwave.  What I want you to do is at your table, pick a partner.  It has to be somebody sitting across from you or next to you, okay?  So we have a partnership here, here, an here, and my three ladies here, can you be a group of three?  So what’s going to happen is we’re going to practice adding fractions with unlike denominators. What I want you to do first is open up your bag of popcorn onto your napkin.  You may not eat it yet.  I promise you’ll get to eat it, but not yet.  What I’d like you to do is go ahead and count how many you have.  I will tell you when you can eat and what you can eat, nothing yet.  Okay.  Sometimes popcorn is kind of fragile and it breaks.  Everyone should have 24.  Raise your hand if you have 24.  Okay.  Raise your hand if you have more than 24.  If you have more than 24, I want you to eat as many pieces as you have to so you have 24.  Double check and make sure you have 24 pieces.  So you have exactly 24, yes?  You just counted them.  You’re trying to cheat and eat a piece.  I heard you.  You have 24.  How many do you have, Student K?  Oh my goodness.  Come on.  Okay. 1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Seriously?  1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Okay.  So how many pieces are there in all?
+multiple students: 24.
+teacher: So what is our denominator for how many we have here?
+multiple students: 24.
+teacher: Because our denominator is always what?  How many we have in all.  Now with your partner we’re going to practice adding fractions with unlike denominators.  Okay.  So what I want you to do is decide who is person A and person B in your group.  In my group over here, one of you is going to have to sit out for this one. Okay.  So establish who is person A and person B. Okay.  Person A, what I would like you to do is split your popcorn into groups of 8.  Okay.  So each group should have 8 kernels in them.  Person A, you’re splitting it so each person has 8 kernels in a group. See how everyone else has their napkins unfolded? Just person A.  Okay.  So my people that split them into groups of 8, you have how many groups in all? Three groups in all.  Everybody see that?  What I want you to do is put two of those groups back into your Ziploc bag.  Okay.  Person B, I would like you to split yours so you have 6 pieces of popcorn in each group.  6 in each group.  If you have 24 kernels, you should have 6 in each group.  Okay.  You did something wrong.  You don’t have 24 kernels. Okay.  My person B, if you’re a B person, I asked you to split it so you have 6 popcorn kernels in each group.  How many groups do you have?
+multiple students: Four.
+teacher: I would like you to put two of those groups into your bag, so you have two groups left out.  My A people, look up here.  So you had how many groups in all?
+multiple students: Three.
+{
+    "your_reasoning": "No second mathematical procedure or solution method is introduced or discussed. The entire segment focuses on a single concrete procedure: grouping sets of popcorn kernels to represent fractions with a fixed denominator of 24. Students carry out only this one grouping method, and there is no alternative strategy, comparison of strategies, or discussion of different ways to add fractions."
+    "rating": 1
+}
+
+
+student: Oh, three.
+teacher: How many is in your second number?
+student: Two.
+teacher: What’s three times two?
+student: Three times two is nine.
+teacher: Nine?  Try again.
+student: Eighteen.
+teacher: Three times two?
+student: Oh, three times two.  Six.
+teacher: If you count your boxes you should have six of them.  That’s how you remember to do that.
+{
+    "your_reasoning": "Two distinct procedures for multiplication are present: the teacher prompts the student to compute the product numerically (“three times two”) and also references verifying the result by counting boxes in an array model. Both the abstract multiplication fact and the concrete box-counting method are used, but they are not compared or connected beyond noting that the box count matches the product."
+    "rating": 2
+}
+
+
+student: You take down the 0 because that represents 20.
+teacher: So the 0 is telling me now I’m multiplying by 2 that’s really worth 20.  Does that make sense?  Why did we put the 0 down?
+student: Because the 2 would equal the 20.
+teacher: Okay.  We know if we multiplied by 10, any multiple of 10, that number ends up with a 0 on it, right?  Give me an example, Student E.
+student: Like if you—
+teacher: Multiply something by 10, or 20, or 30.
+student: Like 8 times 10, first you do 8 times 1, then that equals 8 then you add 0 which equals 80.
+teacher: Excellent.  How about 30 times 5?  Student H?
+student: You would do 5 times 3, then put the 0 down.
+teacher: 5 times 3 equals—
+student: 15.
+teacher: And add the 0.  So 5 times 30, the answer ends up with a 0 in it, doesn’t it?  So when we put a 0 in the end here, we’re multiplying by 20.  We’re multiplying by a multiple of 10.  Any time you multiply by a multiple of 10, the number is going to end up with a 0 in it, okay?  So we just put it down first.  This is like a shortcut.  It’s a bookkeeping strategy from the old days.  Now what do we do?  We put the 0 down—
+student: Then you times 2 times 20 which is – 2 times 8 and you get 16, bring down the 6, then add the 1, and you times 2 times 3 and you get 6 plus 1 and you get 7.  Then you add 228 and 760, and you get 988.
+teacher: Nice job, Student C.  Thank you very much.  Give me that marker back.  How many of you thumbs up or thumbs down feel confident with the standard algorithm?  It’s okay if you don’t.  Okay.  Of you people, put your hands down again, who prefers partial product?  If you prefer partial product, or area model – who likes area model?  A couple of people.  Who likes lattice?  Not a lot of you.  Okay.  Very good.  Student D, could you come up and could you show us partial product, what it means up there?  So partial product, what do those words mean, Student T?
+student: Partial product means that—
+teacher: Well what are the words?  Partial.  What does that mean?
+student: It means a little bit of something.
+teacher: A piece of something, a part of something.  And what is the product of – an answer to a—
+student: Multiplication.
+teacher: A multiplication problem.  So partial product, piece of an answer, is that what it is?  The product is an answer, correct?  Partial is part of, you said.  So partial product, what does that mean?  If you look at it – let’s listen to Student D, and see if we understand that, why they call it partial product. Right?  It’s not the whole answer.  It’s not the whole product.  It’s partial product.  It’s part of the product.  Go ahead, sweetheart.  This is another strategy.  Go ahead.
+student: You take 6 and multiply it by 8, and here you write the answer, and then you take 6 and multiply it by 30, and right here—
+teacher: Isn’t that what Student C did?  How come it looks different?
+student: Because you’re breaking up the numbers by tens and ones.
+teacher: You’re breaking up the numbers by tens and ones?  What does she mean by that?  Yes?
+student: You’re breaking like 30 into 30, and putting the 8 and timesing it by another number, then taking away 6 from 20 and just having it be 20, and you’re just timesing 20 by 8, then 6 times 8, and you just keep on adding.
+teacher: Okay.  So we’re separating the numbers by the value of each number, aren’t we?  28 is worth – or 38 is worth three tens, which is 30, and eight ones?  Is that correct, Student M?  What, Student C?
+student: It’s the same thing as doing it the regular way, but you’re just breaking it apart the same way because 6 times 8, you’re just doing that out actually so it will be easier to add.
+teacher: So Student C is saying 6 times 8, look, we have the 40 there, is 48, and that’s what that says, 6 times 8 is 48, right?  Okay.  They’re separating it out by each individual product, aren’t they?  6 times 8 and 6 times 30, 6 times 38, go ahead, Student D.  Finish for us.  What do you notice, Student D, about these two numbers?
+student: That it’s—
+teacher: You can write on it.
+student: 6 times 30, if you add the products together, then it equals 220.
+{
+    "your_reasoning": "The segment contains several distinct multiplication procedures: the standard algorithm, partial products, area model, and lattice. The teacher explicitly labels these as different strategies, invites students to express preferences, and has a student demonstrate partial products. The discussion highlights how the methods differ (e.g., breaking numbers into tens and ones) and how they relate to each other, including noting equivalence between standard algorithm steps and partial products. This includes explicit comparisons and connections across methods."
+    "rating": 3
+}

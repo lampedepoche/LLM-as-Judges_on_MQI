@@ -1,0 +1,101 @@
+teacher: Okay.  We are going to be doing popcorn fractions today.  What I want you to do first is you should have a napkin at your desk.  Go ahead and unfold your napkin so it is completely out.  Okay.  Student M and Student S are bringing you a bag of popcorn.  What we’re going to do with this popcorn is have to imagine a little bit, have to pretend, okay?  Now realistically when you pop a bag of popcorn you have more popcorn in your bag than this, right?  But we’re going to have to use our imaginations and pretend this is a bag of popcorn you just took out of the microwave.  What I want you to do is at your table, pick a partner.  It has to be somebody sitting across from you or next to you, okay?  So we have a partnership here, here, an here, and my three ladies here, can you be a group of three?  So what’s going to happen is we’re going to practice adding fractions with unlike denominators. What I want you to do first is open up your bag of popcorn onto your napkin.  You may not eat it yet.  I promise you’ll get to eat it, but not yet.  What I’d like you to do is go ahead and count how many you have.  I will tell you when you can eat and what you can eat, nothing yet.  Okay.  Sometimes popcorn is kind of fragile and it breaks.  Everyone should have 24.  Raise your hand if you have 24.  Okay.  Raise your hand if you have more than 24.  If you have more than 24, I want you to eat as many pieces as you have to so you have 24.  Double check and make sure you have 24 pieces.  So you have exactly 24, yes?  You just counted them.  You’re trying to cheat and eat a piece.  I heard you.  You have 24.  How many do you have, Student K?  Oh my goodness.  Come on.  Okay. 1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Seriously?  1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Okay.  So how many pieces are there in all?
+multiple students: 24.
+teacher: So what is our denominator for how many we have here?
+multiple students: 24.
+teacher: Because our denominator is always what?  How many we have in all.  Now with your partner we’re going to practice adding fractions with unlike denominators.  Okay.  So what I want you to do is decide who is person A and person B in your group.  In my group over here, one of you is going to have to sit out for this one. Okay.  So establish who is person A and person B. Okay.  Person A, what I would like you to do is split your popcorn into groups of 8.  Okay.  So each group should have 8 kernels in them.  Person A, you’re splitting it so each person has 8 kernels in a group. See how everyone else has their napkins unfolded? Just person A.  Okay.  So my people that split them into groups of 8, you have how many groups in all? Three groups in all.  Everybody see that?  What I want you to do is put two of those groups back into your Ziploc bag.  Okay.  Person B, I would like you to split yours so you have 6 pieces of popcorn in each group.  6 in each group.  If you have 24 kernels, you should have 6 in each group.  Okay.  You did something wrong.  You don’t have 24 kernels. Okay.  My person B, if you’re a B person, I asked you to split it so you have 6 popcorn kernels in each group.  How many groups do you have?
+multiple students: Four.
+teacher: I would like you to put two of those groups into your bag, so you have two groups left out.  My A people, look up here.  So you had how many groups in all?
+multiple students: Three.
+{
+    "your_reasoning": "The only representations used are the physical popcorn kernels and the verbal/symbolic talk about fractions. The teacher never makes an explicit, meaning-focused connection between these two representational families (e.g., pointing to groups on the napkin and connecting them to numerator/denominator structure). The popcorn is used solely as a manipulative for counting and grouping, not as a representation that is linked to symbolic fraction notation. No explicit correspondence is pointed out, so no valid linking occurs."
+    "rating": 1
+}
+
+
+teacher: Okay.  So today we’re going to continue our discussion with Student L?  So if I’m trying to find an equivalent fraction, what do you Please come back to your seat.  Thank you.  If I’m trying to find the
+student: Find an equal fraction.
+teacher: We’re going to talk about what the means and how to do that mathematically today, okay?  I’m going to put up – all right.  So this is a word problem for today.  It says Mr. H bought a box of Girl Scout cookies.  He thought it would be best if he only ate three sixths of the box of Thin Mints.  When I asked why he ate so much, he replied, “Hey, I only ate half.”  Was Mr. H correct?  Turn and talk while I get myself ready. All right.  That does look hard.  See if you have one equal to A.  Is that A?  That’s better.  Okay.  Put them right there.  All right.  Later on today when you’re not in group, you’re going to have an opportunity to answer this question and use a picture to backup your statement.  So while we’re working today, I want you to be thinking about that question. Did he only eat half of the cookies?  I want you to think about it while we work today.  I want you to come sit in front of your spaces by the whiteboard. Can you push back?  You’re supposed to sit in your space.  Thank you, Student J.  Excuse me.  Equivalent fractions.  I want you to take a look at that.  Is it working?  All right.  Quiet.  If this apple were cut along the bottom line and you got one piece, what fraction would you have?  Student D?
+student: One half.
+teacher: Is that a unit fraction, one half?
+multiple students: Yes.
+teacher: It is a unit fraction, 1 over 2.  What does the unit represent? Raise your hand and I’ll call on you.
+student: It represents the numerator and the denominator.
+teacher: Which one does it represent?  The denominator or the numerator? Which one?
+student: The numerator.
+teacher: The bottom number is the denominator.  Why is the denominator important?  Why is it important, Student J?
+student: Tells you how many pieces there are.
+teacher: Exactly, tells you how many groups, how many pieces, and how many pieces are in this apple?
+student: 2.
+teacher: How many pieces did I get?
+multiple students: 1.
+teacher: Raise your hand.
+student: It was trying to figure out what’s half of the half.
+teacher: That might come up later.  Maybe you and Student P can draw the half and see what that is.  If you do the half and the half you might come up with something.  Later on this thing might help you.  All right.  My computer is not working.  If the apple were cut along the dotted lines and you got two pieces, what fraction of the apple would you have?  Can everybody see that apple?  Can you see it?  Calm down.  Excuse me.  Can everybody see that apple?  So what – I’m asking you a question and you’re not listening.  If this apple were cut in half, cut along the dotted lines and you got two pieces, what fraction of the apple would you have?  Student C?
+student: One fourth.
+teacher: If you got two pieces, you would have one fourth.  What does the denominator say in this fraction?
+student: Four pieces.
+teacher: There are four pieces.  Are there four pieces of this apple?
+multiple students: Yes.
+teacher: But what did the word problem say?
+student: Two pieces.
+teacher: I need two pieces.  Now is that a unit fraction if I put the 2 on top?
+multiple students: No.
+teacher: No, it’s not a unit fraction.  It’s one fourth plus one fourth that equals two fourths.  Now I have two fourths. What did you say, Student S?
+student: You want to know the half?
+teacher: Is it a half?  Did I get half of the apple?
+multiple students: Yes.
+teacher: Student S figured out that hey, Mrs. H, you have half of both apples.  Look here.  Two pieces, this is the first piece.  Here’s my second piece.  How much of that apple have I eaten?  Two.  In both cases you have a half of an apple.  That means because you’ve eaten half of an apple, you have found two equivalent fractions.  We’re going to talk about the math behind it.  Everybody understand what I just said?
+multiple students: Yes.
+teacher: Student D, you have a question?
+{
+    "your_reasoning": "The teacher uses a visual apple diagram and symbolic fractions (e.g., 1/2, 1/4, 2/4) simultaneously, and explicitly points to how the number of pieces in the picture corresponds to the denominator and how the counted pieces correspond to the numerator. These explicit meaning-focused links occur, but only as a small, isolated instance rather than a sustained instructional focus."
+    "rating": 2
+}
+
+
+student: 2.
+teacher: 2 so what is gonna be my answer?
+student: 2 lollipops.
+teacher: 2 lollipops okay questions? Now let’s say I’ll take your lollipops back thank you Student M and K can go sit, go sit. Student A take that black marker and write our answer please. So we said 8 divided by 4 was what?
+student: 2.
+teacher: 2 good. Put the marker down so the paper doesn’t blow away thank you. Now let’s say I wanna switch up to the new problem and I want to do 10 divided by 2. 10 divided by 2. Okay so I have 2 Students up here. Actually you know what you guys can sit I’ll have 2 more, 2 new people come on up.
+teacher: Student T and A. So now I have let’s pretend these are I don’t know—
+student: Cookies.
+teacher: Cookies oh I like cookies, what kind of cookies?
+student: Chocolate chip.
+teacher: Okay easy enough. I have 10 chocolate chip cookies, now really hard not to be selfish but I will share. Now is it fair now I know Student T loves chocolate chip cookies so is it fair if I give her 8 and then give Student A 2?
+multiple students: No.
+teacher: Why is that not fair?
+student: Because Student T has more.
+teacher: Student T has more okay it’s not fair. Raise your hand and tell me how is it fair to split up these cookies? How will I split them up if it’s fair Student J?
+student: Split them equally.
+teacher: Equally okay split them up equally. Okay how am I gonna pass them out? 3 for you, 4 for you, oh hold on? How do I split them up what’s the best way to split them up so I don’t get confused?
+student: One by one.
+teacher: One by one okay. 1 for you, 1 for you, don’t eat them now, 1 for you, 1 for you, another 1 for you, another 1 for you, 1 for me I’m just kidding. 1 for you, 1 for you, 1 for you, and 1 for you. I’m all out, all gone. Student T could you slide back a little bit.
+teacher: Are they equal? Yes they each got the same number. Student A how many cookies do you have?
+student: 5.
+teacher: Student T how many do you have?
+student: 5.
+teacher: 5 cookies each okay? So stand right here. So I started with how many cookies?
+multiple students: 10.
+teacher: 10 I started with 10 cookies. How many students or groups did I split them up?
+multiple students: 2.
+teacher: Okay so this first number is what I started with okay. And the second number is what? Raise your hand. What does the second number represent what was 2? Student T what was 2?
+student: 2 groups.
+teacher: The group’s good job. Okay two was the number of groups. What was our answer?
+multiple students: 5.
+teacher: But what does 5 mean?
+multiple students: Cookies.
+teacher: Cookies okay but what does the 5 stand for?
+student: It’s the answer.
+teacher: It’s the answer but it’s what?
+student: How many—
+teacher: How many they each got so how many in each group okay? So each number in a division problem means something okay I’m not just gonna fire division problems at you. Each number means something thank you okay. So what we’re gonna do okay we’re gonna work together to do some division problems okay and you’re gonna have to use manipulatives to show me that you understand okay? We’ll start easy. Take your manipulatives; take your manipulatives—Student M and M could you each pass out white boards to everybody?
+{
+    "your_reasoning": "The teacher consistently and explicitly links the physical manipulatives (cookies distributed to students) with the symbolic division equation. She repeatedly identifies what each number in the equation corresponds to in the concrete model: the total cookies, the number of groups, and the number in each group. These correspondences are pointed out carefully, with meaning, and this linking is a central, sustained focus of the segment."
+    "rating": 3
+}

@@ -1,0 +1,85 @@
+teacher: Okay.  We are going to be doing popcorn fractions today.  What I want you to do first is you should have a napkin at your desk.  Go ahead and unfold your napkin so it is completely out.  Okay.  Student M and Student S are bringing you a bag of popcorn.  What we’re going to do with this popcorn is have to imagine a little bit, have to pretend, okay?  Now realistically when you pop a bag of popcorn you have more popcorn in your bag than this, right?  But we’re going to have to use our imaginations and pretend this is a bag of popcorn you just took out of the microwave.  What I want you to do is at your table, pick a partner.  It has to be somebody sitting across from you or next to you, okay?  So we have a partnership here, here, an here, and my three ladies here, can you be a group of three?  So what’s going to happen is we’re going to practice adding fractions with unlike denominators. What I want you to do first is open up your bag of popcorn onto your napkin.  You may not eat it yet.  I promise you’ll get to eat it, but not yet.  What I’d like you to do is go ahead and count how many you have.  I will tell you when you can eat and what you can eat, nothing yet.  Okay.  Sometimes popcorn is kind of fragile and it breaks.  Everyone should have 24.  Raise your hand if you have 24.  Okay.  Raise your hand if you have more than 24.  If you have more than 24, I want you to eat as many pieces as you have to so you have 24.  Double check and make sure you have 24 pieces.  So you have exactly 24, yes?  You just counted them.  You’re trying to cheat and eat a piece.  I heard you.  You have 24.  How many do you have, Student K?  Oh my goodness.  Come on.  Okay. 1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Seriously?  1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Okay.  So how many pieces are there in all?
+multiple students: 24.
+teacher: So what is our denominator for how many we have here?
+multiple students: 24.
+teacher: Because our denominator is always what?  How many we have in all.  Now with your partner we’re going to practice adding fractions with unlike denominators.  Okay.  So what I want you to do is decide who is person A and person B in your group.  In my group over here, one of you is going to have to sit out for this one. Okay.  So establish who is person A and person B. Okay.  Person A, what I would like you to do is split your popcorn into groups of 8.  Okay.  So each group should have 8 kernels in them.  Person A, you’re splitting it so each person has 8 kernels in a group. See how everyone else has their napkins unfolded? Just person A.  Okay.  So my people that split them into groups of 8, you have how many groups in all? Three groups in all.  Everybody see that?  What I want you to do is put two of those groups back into your Ziploc bag.  Okay.  Person B, I would like you to split yours so you have 6 pieces of popcorn in each group.  6 in each group.  If you have 24 kernels, you should have 6 in each group.  Okay.  You did something wrong.  You don’t have 24 kernels. Okay.  My person B, if you’re a B person, I asked you to split it so you have 6 popcorn kernels in each group.  How many groups do you have?
+multiple students: Four.
+teacher: I would like you to put two of those groups into your bag, so you have two groups left out.  My A people, look up here.  So you had how many groups in all?
+multiple students: Three.
+{
+    "your_reasoning": "The teacher’s explanations are consistently clear about the mathematical goal: using 24 popcorn kernels to define a whole and creating groups to support adding fractions with unlike denominators. All instructions (establishing 24 as the denominator, forming groups of 8 or 6, identifying the number of groups) are explicit, sequential, and mathematically coherent. Any brief confusions (students miscounting) are immediately corrected without obscuring the underlying mathematics. There is no point at which the mathematical content becomes muddled or difficult to follow."
+    "rating": 1
+}
+
+
+teacher: Give it a minute, Student T.  Give it a minute, Student T.  All right, remember when we talked about volume?  Yes?
+student: It's length, width –
+teacher: That's the calculation, but when we talked about – when we were discussing volume – remember when we did volume?  What was the unit of measurement?  It wasn't square units.  It was what?
+student: Cubic units.
+teacher: Cubic units.  Where with area, it's square units.  And notice this has changed.  Does everyone see that?  It is not a three anymore.  It is a two.  Does anybody know why?  Does anybody know why?  Student A?
+student: Because it's a two-dimensional shape.
+teacher: When we talk about – very good.  When we talk about area, we are talking about two-dimensional objects or two- dimensional shapes.  Volume, we're talking about three- dimensional, okay?  This is our formula – excuse me – for calculating area.  Formula for calculating area.  Add it into your notes please.  Thank you.  I'm going to write it on the board for you.  Our formula for calculating area is length times width.  Okay?  Length times width. On this particular clip, they're going to ask you a couple of questions.  I'm sorry I didn't – let me step out of the way.  They're going to ask you a couple of questions about a tennis court and about a baseball field, all right? Would you like to move Student G because there's an empty desk right next to Student J.  Would you like to move up so you can see?  Are you sure?  Okay.  There's two questions they're going to ask you about a tennis court and about a baseball field, all right?  So I need everyone to be paying attention.  We're going to do a little activity on the Envisions afterwards, and then I'm going to have you break up into large group/small groups and we're going to go over some problems with area, okay?  So everybody understand what we're doing?
+multiple students: Mm-hmm.
+teacher: Yes.
+student: When are we going to start doing things with the cubes?
+teacher: We're not going to do that today.  We're actually going to do that on Monday, okay?  Can everybody hear this?  I'm just going to turn it up a little bit because I don't know how loud it's going to be.
+teacher: So that's going to be the question that you are going to focus on.  Remember those focus questions that we talked about in discovery ed?  Yes?
+multiple students: Yes.
+teacher: It was also on focus questions, essential questions?  This is a question that you are going to continue to think about throughout this lesson.
+teacher: So it's the amount of surface, the amount that is covered.  How is that different from volume?  How's that different from volume?  Student L?
+student: Volume you're calculating – you're counting each spot in cubic units.
+teacher: Right, but you're trying to fill in space inside a box, all right?  Area you're just doing the surface.  So remember I said to you that when we were talking about building boxes, I said that bottom, the bottom of your box, just that first bottom of your box is technically your area.  You don't have any height yet, all right?  So the bottom portion of your box is your area.  Once you start adding layers and layers and layers on top of it, then you run into volume. Okay?
+teacher: That's a great question.  How is area different from perimeter? How is area different from perimeter?  What do you think, Student L?
+student: I think perimeter is different from area because perimeter is based on distance around a shape and area is length times width.
+teacher: Right.  There's another component with that.  Yes, Student J?
+student: Perimeter is when you're measuring the distance outside of the shape.  Area is when you're measuring the distance inside the shape.
+teacher: Not inside as in a box, but more that surface area.  Perimeter you're using the measurements – it's the amount of distance around the outside of a figure, all right?  And they're both calculated very differently.
+teacher: Make sense?  Everyone with me?
+teacher: All right, so my question to you – I'll make it a little bit simpler, out in the real world, outside of the school, what situations or what – yeah, situations would you need to find area?  What do you think?  What do you think, Student G?
+student: A tape measure.
+teacher: You might use a tape measure, all right.  But what might you use a tape measure for?
+student: To count how long it is, how long like the perimeter is.
+teacher: You would use it for perimeter.  What other real world situations, Student L?
+student: A carpet, a rug, or a football field.
+teacher: Explain.  Keep explaining.
+{
+    "your_reasoning": "Explanations of area, volume, and perimeter are mostly accurate, but several points become muddled. The teacher shifts between definitions, examples, and side comments in a way that occasionally blurs distinctions (e.g., “inside” vs. “surface,” linking area to “distance,” mixing surface area language with area). The mathematical ideas remain discernible, yet portions of the segment contain imprecise or partially conflicting phrasing that creates intermittent ambiguity about the concepts."
+    "rating": 2
+}
+
+
+student: What about the [line]?
+teacher: So let's think about this bar here.  This bar, there are ten little pieces in it.  There's ten little pieces in this bar.  In this square, how many of these do you think are in here?  Student G?
+student: 100.
+teacher: 100.  So here would be your tenth.  Here would be your hundredths.  If we had a cube, how many of these do you think it would take to make this?
+student: 1,000.
+teacher: 1,000.  So here are your three sizes.  Here's your tenths, because it takes 10 of them.  Here's your one-hundredths, because it takes 100 of them or 10 tenths.
+student: I don't get the cube.  Isn't there 100 blocks on one side, but there's six sides on a cube.
+teacher: There's 100 of these.  We're not making sides; we're filling it.  It would take 10 of these to make this.
+student: Oh.
+teacher: Okay.  Does that make sense now?  Okay.  You would need 10 of these, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 of these to make one of those.  So you would need 1,000 of these or 100 of these to make this.  Does that make sense?
+student: It does.
+teacher: So that's why this is my thousandths.  Yes?  Are we good?  So if you're talking money, and we're talking decimals, and if I say to you, "I have $1.50," the dollar is gonna go in the ones spot.  The question then becomes I have 50 – if I have 50 cents, so it means I'm gonna have 50 of these, to have 50 of these do I need 5 of these or 5 of these?  Do I need 5 tenths or do I need 5 hundredths to have 50 cents? Student S.
+student: 5 tenths.
+teacher: 5 tenths.  So when I want to say 50 cents, the 5 has to go in the tenths column.  Now the zero in the hundredths column is just a place holder.  I don't need it because it's saying that I don't have any of these.  It says I have 5 of these, but none of these. 5 cents.  What would show 5 cents?  Would I need tenths to show 5 cents or hundredths to show 5 cents?  Student J.
+student: You'd need [one of them].
+teacher: Student H.
+student: You'll need neither.  You need the small one cube.
+teacher: Right, but which is this gonna fit?  Am I gonna be able to fill – do I have any tenths in 5 cents?  No.  If I don't have any tenths in 5 cents then I'm gonna have to use my – to make – Student D – I'd have 100, 100 of these.  Right?
+student: Yes.
+teacher: To make 5 cents I'd have 5 of them.  Is that gonna equal one of these?
+multiple students: No.
+teacher: No.  So I don't have any 10 cents yet.  I want to use the hundredths.  And how many of them am I gonna use?  5 of them, because remember, there's 100 of these that make up this.  Okay.  So if I'm gonna do that, do I have any tenths?  No.  Then how many hundredths do I have?  Student A.
+student: 5.
+teacher: 5.  I now need to put the zero here.  Wherever your last number beside a zero is, you have to have zeros in front of it, but you don’t have to have it behind it.  So this, 1.50, you can also write it 1.5 and it means the same thing.  But if I wanted to say $1.05, I have to put the zero first. Student N.
+student: But if you just want 5 cents, how come there's a 1?  How come it can't just be a zero, if you just want 5 cents?
+{
+    "your_reasoning": "The teacher’s explanations frequently become confusing: the relationship between the blocks, tenths/hundredths/thousandths, and the cube is inconsistently described; the student’s question about cube faces is not clearly addressed; the teacher alternates between “filling,” “sides,” and counting blocks without a consistent model; the transitions from place-value blocks to money introduce further ambiguity about why digits are placed in particular columns. These shifting explanations obscure the mathematical structure of place value and decimals across most of the segment."
+    "rating": 3
+}
+
+

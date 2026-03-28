@@ -1,0 +1,29 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Tasks and Activities Develop Mathematics" which describes, on a five point scale (from Not at all true of this lesson to Very true of this lesson), the extent to which the tasks and activities done by the class contribute to the development of the mathematics of the lesson. In other words, this code refers to the architecture of the lesson, i.e., whether the tasks/activities help move the mathematics along. More generally, does the lesson have directionality, in the sense that it is appropriately developing mathematical ideas?
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+- We are defining “tasks and activities” very broadly here, including class discussions, teacher presentation of new content, etc.
+- Do not score here for other problems with the lesson, such as slow pacing or minor to moderate mathematical errors.
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Not at all true of this lesson
+    - Lesson architecture hinders development of the mathematics. For instance:
+        - Tasks are so convoluted that they do not elucidate mathematical ideas
+        - Poor examples (e.g., introducing slope and intercept with the equation y=x+1) obscure important points
+        - Mathematical distortions are severe enough to significantly hinder the development of the math
+- 2
+- 3 = (Default Score)
+    - Mathematics happens in the lesson.
+    - The lesson does not include the special features of a 5, and the lesson architecture does not hinder the development of the math.
+    - OR There is a mix of strong and weak features.
+- 4
+- 5 = Very true of this lesson
+    - Tasks and activities are carefully designed to contribute to key mathematical points. Lesson includes both:
+        - Tasks that build sequentially
+        - Implementation of tasks that leads to an overarching mathematical point
+    - Lesson may also include:
+        - Teacher making connections to larger mathematical ideas
+        - Teacher drawing important points of the lesson together
+
+Provide a very concise reasoning and the integer corresponding to the score (1-5)

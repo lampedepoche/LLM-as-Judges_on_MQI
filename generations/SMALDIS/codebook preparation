@@ -1,0 +1,15 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Small Group/Pair Discussion" which records, on a four-point scale (Not Present, Low, Mid, High), cases in which students are working in pairs or small groups.
+Code substantive student contributions when you can a) "hear" them (e.g., a student and teacher are talking as teacher circulates, or you can "overhear" pairs of students) or b) the teacher’s directions are very clear, and we can reasonably expect students to be having a substantive exchange for the duration of the small group work (e.g., a turn and talk). However, if it is not clear what students are talking about in small groups/pair work, score as Not Present.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Not Present
+   - Not present or minimally present.
+- 2 = Low
+- 3 = Mid
+- 4 = High
+
+Provide a very concise reasoning and the integer corresponding to the score (1-4)

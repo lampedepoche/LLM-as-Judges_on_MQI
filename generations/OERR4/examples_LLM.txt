@@ -1,0 +1,150 @@
+teacher: Okay.  We are going to be doing popcorn fractions today.  What I want you to do first is you should have a napkin at your desk.  Go ahead and unfold your napkin so it is completely out.  Okay.  Student M and Student S are bringing you a bag of popcorn.  What we’re going to do with this popcorn is have to imagine a little bit, have to pretend, okay?  Now realistically when you pop a bag of popcorn you have more popcorn in your bag than this, right?  But we’re going to have to use our imaginations and pretend this is a bag of popcorn you just took out of the microwave.  What I want you to do is at your table, pick a partner.  It has to be somebody sitting across from you or next to you, okay?  So we have a partnership here, here, an here, and my three ladies here, can you be a group of three?  So what’s going to happen is we’re going to practice adding fractions with unlike denominators. What I want you to do first is open up your bag of popcorn onto your napkin.  You may not eat it yet.  I promise you’ll get to eat it, but not yet.  What I’d like you to do is go ahead and count how many you have.  I will tell you when you can eat and what you can eat, nothing yet.  Okay.  Sometimes popcorn is kind of fragile and it breaks.  Everyone should have 24.  Raise your hand if you have 24.  Okay.  Raise your hand if you have more than 24.  If you have more than 24, I want you to eat as many pieces as you have to so you have 24.  Double check and make sure you have 24 pieces.  So you have exactly 24, yes?  You just counted them.  You’re trying to cheat and eat a piece.  I heard you.  You have 24.  How many do you have, Student K?  Oh my goodness.  Come on.  Okay. 1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Seriously?  1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Okay.  So how many pieces are there in all?
+multiple students: 24.
+teacher: So what is our denominator for how many we have here?
+multiple students: 24.
+teacher: Because our denominator is always what?  How many we have in all.  Now with your partner we’re going to practice adding fractions with unlike denominators.  Okay.  So what I want you to do is decide who is person A and person B in your group.  In my group over here, one of you is going to have to sit out for this one. Okay.  So establish who is person A and person B. Okay.  Person A, what I would like you to do is split your popcorn into groups of 8.  Okay.  So each group should have 8 kernels in them.  Person A, you’re splitting it so each person has 8 kernels in a group. See how everyone else has their napkins unfolded? Just person A.  Okay.  So my people that split them into groups of 8, you have how many groups in all? Three groups in all.  Everybody see that?  What I want you to do is put two of those groups back into your Ziploc bag.  Okay.  Person B, I would like you to split yours so you have 6 pieces of popcorn in each group.  6 in each group.  If you have 24 kernels, you should have 6 in each group.  Okay.  You did something wrong.  You don’t have 24 kernels. Okay.  My person B, if you’re a B person, I asked you to split it so you have 6 popcorn kernels in each group.  How many groups do you have?
+multiple students: Four.
+teacher: I would like you to put two of those groups into your bag, so you have two groups left out.  My A people, look up here.  So you had how many groups in all?
+multiple students: Three.
+{
+    "your_reasoning": "The only issues present are minor slips in classroom management and informal phrasing, none of which distort or misstate the mathematics. All mathematical statements—24 as the whole, the denominator as the total number, grouping into 8s and 6s, and the resulting group counts—are correct and clearly conveyed. There is no misuse of mathematical language, no computational errors, and no sustained ambiguity that would obscure the mathematics."
+    "rating": 1
+}
+
+
+teacher: So today, class, I want to talk about how to solve division word problems with remainders today which we haven’t done. So we're going to do remainders today.  And we're going to do that by looking at divisors using them to help us solve a problem and drawing pictures, okay?  So the first thing I want to show you guys is – and I know it's going to be hard for you two to see, so what you guys can do is sit right there.  And you guys can look up on the board.  This is sort of the big idea of the whole division stuff.  So over there I – and I know some of you can't see because it's blocked, but you can look at it maybe later. What we have is the total.  We have the total amount of something, and we're going to break it apart, and we're going to divide it.  So that's what divide it means.  It means breaking apart groups.  So you have total divided by number in each groups equals groups, okay?  So at the very top you have dividend divided by quotient equals divisor.  Okay? So dividend means total.  And number in each group means quotient.  And groups means divisors.  So today what we're going to work on is we're going to use the groups to help us solve the problems so we understand remainders. So you have – you can also do the opposite.  You can flip it around and you have groups and numbers in each group.  So Student C and I think Student N picked it up when Ms. K was talking.  You guys picked up the commutative property where you just flip it around.  So you have totals divided by groups.  So total up there says total divided by – so dividend divided by divisor equals the quotient, okay? You might see it written like this, friends, where you have inside of the house, you have the total which I'm gonna just call – what's in orange up there, the dividend.  Okay?  So you might see the total, the dividend inside of the house. Outside of the house you're going to see the divisor.  So today we're going to use this, the divisor, the groups to help us solve for remainders so we can understand that. And at the top you'll have quotient. I know Mrs. C has taught some of you this already but I just thought I'd review it because some of you see the house sometimes and you're like, what's the house?  I don't get that.  It's the same thing as the total divided by number in each group except the total is inside of the house.  Okay?  So you sometimes have to find out what the quotient is.  In other words, you have to find out what the number is in each group.  So take a look.  Here's what I'm going to do. Question, Student N?
+student: What's the difference between dividend and divisor?
+teacher: Dividend means the total.  Divisor means the groups.  Okay?  So for instance, I have 14 students in the class and want to put them into two groups.  Answer is seven, right, because I want to figure out groups.  But we want to figure out remainders today so I'm going to show you how to do that. So first I'm just going to show you how to do the first problem, and then you guys are going to try the first one in your notebooks.  So Cheyenne and her father baked 56 cookies.  You circle your numbers, right?  You guys remember this?
+multiple students: Yes.
+teacher: Okay, and then you look for the word many.  So I'm gonna reread it.  So Cheyenne and her father baked 56 cookies.  They plan to put them in bags of four cookies each.  So I want to think to myself, 56 the total and which is the 4?  Which is that, the groups or the number in each group?  I'm going to think to myself.  I'm just modeling.  I'm going to think to myself, hm, the four is in each group.  So it's asking how many groups, how many bags of cookies can they fill. So I have to figure out groups today.  Okay? So here's what you can do, and you guys can do this in just a second so you want to watch.  I'm gonna underline the word after many because that's going to go on my S, where my sentence goes, my solution.  So my T is my thought.  Today we're working on division.  We're going to look for I 56 and 4. Sorry, 56 and 4.  Okay? Now if I were you, I know that today I told you that the answer to T is division; but if I were you, I would draw out, remember? So you draw 56.  So I'm going to draw 56, and I want you guys to practice this.  I know that I told you today the answer for T is division, but in the future, you're just going to have to learn to draw. We've got 56 and I want to put them in – it says that they plan to put them in four bags.  So watch what I'm gonna do.  I'm gonna sip count by fours because I want to find out how many groups I have.  I want to figure out what the divisor is.  So I've got four and four and four, and I'm going to keep skip counting by fours until I get to what?  Until get to?  Fifty-six.  Okay?  That's going to be a lot of fours, and I'm going to have to make a lot of groups, but then all I have to do is I'm going to count all of my circles.  So let's see, 4, 8, 4 times 3 is 12, 16, 20, 24 –
+{
+    "your_reasoning": "The teacher repeatedly confuses or reverses key division terminology: stating “dividend divided by quotient equals divisor,” defining “quotient” as “number in each group,” and defining “divisor” as “groups.” These misstatements recur across the segment and are mathematically incorrect, creating partial conceptual confusion even as the teacher continues the lesson. The frequency and persistence of these language errors introduce noticeable imprecision without fully derailing the mathematics."
+    "rating": 2
+}
+
+
+teacher: I’m glad that you guys all know how to read this number.  Look
+student: There are nine people.
+teacher: That’s how many we’re supposed to have.
+student: It’s not even.
+teacher: We’re going to break up into three groups of three, okay? Student B, can you put that away for me, please?  Thank you.  All right.  Now somebody read the content objective for me.  Student J.
+student: Students will be able to find the area and parameter of an—
+teacher: Irregular.
+student: Irregular polygons.
+teacher: Put your hands down for a second.  I’ve got a couple of words. We want to review some vocabulary here.  Students will be able to find area.  What’s area?  If I have this – let’s call it a square, and these are the dimensions, what is the area of this shape?
+student: The outside of it.
+teacher: The outside?  Raise your hand.  Student J?
+student: It’s inside.
+teacher: The area is what’s inside, right? If I were to draw my gridline so it’s a 2 by 2, 1, 2, 3, 4.  The area is what’s inside. So it’s the inside, right?  We always do area in what? Feet, inches, do we remember?  When we have parameter, we say the parameter is 6 inches.  The parameter is 15 feet. The parameter is 2 miles.  When we say area we always use square, right?  Whatever it is, squared, right?  So feet, squared.  Inches, squared.  Remember, we’re doing 2 – we’ll call this inches.  2 inches times 2 inches.  We’re saying 2 times 2 is 4, and feet times feet is feet squared.  Good. All right.  Area is what’s inside.  Parameter is what? Outside, or the distance around, right?  So what is the parameter of our square up here?  Student T?
+student: Since it’s 2 inches on the top and 2 inches on the side, and the square is equal in length and width, it would be also equal on the sides which means 2 is on both sides, which means it’s an even number.  So instead of giving random answers, it would be 2 plus 2 which would equal 4 and 4 plus 4 which would equal 8 inches.
+teacher: Remember that parameter, we just leave it alone, right?  Area is squared.  We’re not doing inches times inches here, right?  It’s just adding.  We’re not doing multiplication. We’re just adding.  2 feet plus 2 feet is 4 feet.  4 feet plus 2 feet is 6 feet.  6 feet plus 2 feet is 8 feet. We’re talking about inches here, and I just said feet, but you get the idea.  So what does the word irregular mean? Not what?
+student: Not regular.
+teacher: Your name is not Student R.  So wait until I say Student D. Then you can talk.  Student R?
+student: Not like a real shape.
+teacher: Not that it’s not a real shape, but it’s a what shape?  Now is your turn to talk, Student D.  It’s not regular.  It’s not a regular polygon, okay?  When we talk about a regular polygon we’re talking about our rhombuses, and our trapezoids, and our squares, and our rectangles, and all of our quadrilaterals, and talking about hexagons, octagons, triangles.  Those are polygons, right?  Do you remember what we said the characteristics of polygons were?  I know this is going back, and this is why we’re reviewing.
+student: All have four sides.
+teacher: No.  That’s a quadrilateral, which is a type of polygon. Student T?
+student: A polygon always has six sides.
+teacher: No, that is a hexagon, which is a type of polygon.  A polygon is a bigger category.  Go ahead.
+student: It only has eight sides.
+teacher: No.  That’s an octagon which is a type of – let me give you the first one.  We’re going to have straight lines.  So in order to be a polygon, this is not a polygon, okay?
+{
+    "your_reasoning": "The teacher makes several mathematical slips: repeatedly saying “parameter” instead of “perimeter,” incorrectly naming standard polygons (“rhombuses…and our trapezoids…and our squares…are regular polygons”), and momentarily switching units (inches vs. feet) while explaining perimeter. These imprecisions accumulate and obscure parts of the mathematical discussion, even though the core ideas are eventually clarified."
+    "rating": 3
+}
+
+teacher: Awesome, thank you.  I’ll see you.  An hour?  So 11:05?  Sounds good.  We're ready.  Good morning, everyone.  Thank you, Student D.  Who would like to read the objectives with me? Student A, go ahead.  Just run it down.  A little louder, Student A, okay?
+student: Math grade 4 and 5.  Date and time.
+teacher: Date.
+student: Objectives.  I will be reviewing three-dimensional shapes and their attributes.  Reviewing 3-D shapes and their silhouettes.  The student will be determining elapsed time from start to finish on a number line.  Counting back to determine the start time when the end and elapsed times are given.
+teacher: Beautiful, Student M.  Nice job.  All right, so your objectives for today, you will be reviewing 3-D shapes and their attributes.  You are also going to review the 3-D shapes and their silhouettes.  Students will be determining elapsed time from start to finish on a number line.  And also students will be counting back to determine the start time when the end and elapsed times are given.  Good?
+student: Yes.
+teacher: All right, before we begin our lesson, why don’t we just review our 3-D shapes?  Very nicely you're going to tell me what the shape is.  Who knows the name of this shape?  Student N?
+student: This shape is a cylinder.
+teacher: This is a cylinder.  Very nice.  Who can describe the attributes of the cylinder?  Cylinder.  Student S?
+student: It has two faces.
+teacher: It has two faces.  You're correct.  Face one.  Face two.  What else?
+student: It doesn’t have any points.
+teacher: No points.  No points on the top.  No points.  No points.  Mm- hmm.
+student: It doesn’t have no edges.
+teacher: It doesn’t have any edges.  No edges.  Very nice.  So cylinder, two faces, there ain't no edges, no angles, no vertices. What would happen if I laid it down like this?  What's going to happen to it?  What's happening to it, Student K?
+student: It would turn.
+teacher: Is it turning?  What's the verb that it's doing?
+student: Rotating.
+teacher: It is?  What's the verb?  What's happening right now?  Student M?
+student: Rolling.
+teacher: It's rolling.  But what if I put it on this face?
+student: It sits.
+teacher: It will stand up straight.  Very nice.  Okay.  Next shape. Nice.  Who knows the name of this shape?  Make it a little bigger.  See that?
+student: It's a rectangular prism.
+teacher: Okay, she said it's a rectangular prism.  Okay, what else could it be?
+student: It could be a rectangular prism.
+teacher: Or a?
+multiple students: Triangular prism.
+teacher: Triangular prism.  Question for you?  How many sides does it have?
+student: Sides?
+teacher: How many sides?  How many faces?
+student: Five faces.
+teacher: It has five faces.  One, two, three, four, five.
+multiple students: One, two, three, four, five.
+teacher: What's another name for faces?  It has how many?  Student D? How many, besides faces, we said it has how many?
+student: Bases.
+teacher: We have five bases.  How many edges?  Edge.  Edges.  We're going to look at edge.  Edges.  Edge.  Edge.  How many edges?  Student C?
+student: It has nine edges.
+teacher: Nine edges.  Good for you.  [French]  Nine edges.  Good.  How many faces?  [French]
+student: Three.
+teacher: It has three faces?  [French]
+student: No.  Six.
+teacher: You're guessing.  It has how many?
+student: Eleven.
+teacher: Mademoiselle?  [French]
+student: Five.
+teacher: Five.  Five faces.  Awesome.  How many angles?  [French] What's another name for angles?
+student: Vertices.
+teacher: Vertices.  How many angles, Student M?  How many angles?  How many vertices?  Student D?
+student: Six.
+teacher: Six vertices.  [French]  Three plus three is six.  Good.  Very nice.  Let's go on with this one.  My favorite.  What is the name of this shape?  Student I?
+student: Hemisphere.
+teacher: It's a hemisphere.  Good.  Describe it.
+student: It has one faces.
+teacher: One face or a base, right?
+student: No vertices.
+teacher: No vertices.
+student: No edges.
+teacher: No edges.
+student: And no points.
+teacher: No points.  Beautiful.  And we know that a hemisphere is half of what?
+multiple students: Half of a sphere.
+teacher: Half of a sphere.  Nice.  Who can describe the sphere?  Ooh, it's rolling.  Student W?  A sphere.
+student: A sphere have no faces.
+teacher: No faces.
+student: No edges.
+teacher: No edges.
+student: No vertices.
+teacher: No vertices.
+student: No points.
+teacher: No points.  Awesome.  Very nice.  Ooh, my.  Student M?
+student: It's a cube.
+teacher: This one is a cube.  Good for you.  It is a cube.  What would be another name for this cube?  Student C?
+student: A square.
+teacher: Well, it makes a square.  A 2-D shape would be a square, right? But what else could it be?
+student: Square prism.
+teacher: It is a square prism.  Good for you.  It is a cube.  It would make a square prism.  Now who can describe it?
+student: One, two, three, four, five, six.
+teacher: Student C?
+student: It has six faces.
+teacher: Six faces, six bases.
+student: Six bases and eight points.
+teacher: Is it points?
+student: No, edges.
+student: Edges.
+teacher: Eight edges.  Like this?
+student: No, points, vertices.
+{
+    "your_reasoning": "The segment contains numerous and persistent mathematical inaccuracies: repeatedly using “bases” as a synonym for “faces,” giving incorrect face/edge/vertex counts, accepting or repeating incorrect counts before correcting them, and inconsistently naming shapes (e.g., rectangular vs. triangular prism) without clarifying orientation. These sustained errors and imprecisions occur across much of the discussion and regularly obscure the underlying geometric ideas."
+    "rating": 4
+}

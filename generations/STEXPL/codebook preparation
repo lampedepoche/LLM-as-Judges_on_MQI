@@ -1,0 +1,26 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Students Provide Explanation" which evaluates, on a three-point scale (Low, Mid, High), the extent to which students provide mathematical explanations for an idea, procedure, or solution.
+
+Examples:
+- Students explain why a procedure works
+- Students explain the procedure they used to solve a particular problem by attending to the meaning of the steps involved in this procedure rather than simply listing those steps
+- Students explain what an answer means
+- Students explain why a solution method is suitable or better than another method
+- Students explain an answer based on an estimate or other number-sense reasoning
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+- Students’ contributions do not have to be complete or correct
+- Explanations can be initiated by the teacher or self-initiated
+- Explanations can be co-constructed with the teacher or constructed individually
+- Explanations do not have to be complete or correct
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Low
+    - One or two brief student explanations are present
+- 2 = Mid
+    - Student explanations are more sustained or more frequent, but they are not characteristic of the segment
+- 3 = High
+    - Student explanations characterize much of the segment
+
+Provide a very concise reasoning and the integer corresponding to the score (1-3)

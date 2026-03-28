@@ -1,0 +1,54 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Imprecision in Language or Notation" which captures, on a three-point scale (Low, Mid, High), problematic uses of mathematical language or notation. For example:
+- Errors in notation (mathematical symbols)
+- Errors in mathematical language
+- Errors in general language
+
+__Definitions__
+- **Notation** includes conventional mathematical symbols (such as +, -, =) or symbols for fractions and decimals, square roots, angle notation, functions, probabilities, exponents, etc. Errors in notation might include inaccurate use of the equals sign, parentheses, or division symbol. By “conventional notation,” we do not mean use of numerals or mathematical terms.
+- **Mathematical language** includes technical mathematical terms, such as “angle,” “equation,” “perimeter,” and “capacity.” If the teacher uses these terms incorrectly, record as an error. When the focus is on a particular term or definition, also score errors in spelling or grammar.
+- Teachers often use **“general language”** to convey mathematical concepts (i.e., explaining mathematical ideas or procedures in non-technical terms). General language also includes analogies, metaphors, and stories. Appropriate use of terms includes care in distinguishing everyday meanings different from their mathematical meanings. If the teacher is unclear in his/her general talk about mathematical ideas, terms, concepts, or procedures, record as an error.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Low
+  - Brief instance of imprecision. Does not obscure the mathematics of the segment.
+  - Examples:
+    1. The teacher misuses “expression” or “equation” once or twice in a lesson on representing patterns.
+    2. Teacher uses term like “reduce” instead of “simplify”, and this does not obscure the mathematics being taught.
+- 2 = Mid
+  - Imprecision occurs in part(s) of the segment.
+  - OR Imprecision obscures the mathematics, but for only part of the segment.
+  - Examples:
+    1. The teacher uses the word "expression" instead of "equation" one or two times during a segment specifically about equations or the nature of equality
+    2. The teacher uses terms like "reduce" and tells students that reducing makes fractions smaller. 
+- 3 = High
+  - Imprecision occurs in most or all of the segment.
+  - OR Imprecision obscures the mathematics of the segment.
+  - Example: The teacher's language and notation is sloppy throughout the segment
+
+__Scoring Help__
+We have specifically identified some commonly used imprecise terms and phrases that raters should be on the lookout for. These fall into two categories: phrases whose usage automatically results in a score of (at least) a Low, and “gray area” phrases. If gray area phrases occur once or twice, we typically ignore them. However, if they occur repeatedly, or if they occur in combination with other linguistic or notational imprecision, we do consider them when scoring Imprecision.
+
+Note that the following are not exhaustive lists of all phrases that might count:
+- *Automatically score as an imprecision:*
+  - referring to “bigger” or “smaller” equivalent fractions
+  - different variations on “you can’t subtract a bigger number from a smaller”
+  - different variations on “multiplication makes a number bigger”
+  - misuse of “expression” and “equation”
+  - misuse of equals sign
+  - “reducing” fractions (instead of simplifying)
+
+- *“Gray area” phrases:*
+  - “timesing”, “minusing”
+  - “top” and “bottom” for numerator and denominator
+  - “alligator mouth” for greater-than and less-than symbols
+  - “carrying”
+  - “canceling”
+  - “borrowing” (instead of regrouping)
+  - “line” instead of line segment
+  - brief reference that pi is 3.14 without mentioning this is an approximation.
+
+Provide a very concise reasoning and the integer corresponding to the score (1-3)

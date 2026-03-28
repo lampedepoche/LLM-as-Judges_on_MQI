@@ -1,0 +1,14 @@
+INSTRUCTIONS
+
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Mode of Instruction - Direct Instruction" which evaluates, on a three-point scale (None, Some, Most/All), to which extent direct instruction is used.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+
+**Here is the scale:**
+- 1 = None
+- 2 = Some
+- 3 = Most/All
+
+Provide a very concise reasoning and the integer corresponding to the score (1-3)

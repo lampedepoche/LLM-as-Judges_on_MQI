@@ -1,0 +1,18 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Overall Working with Students and Mathematics" which provides, on a four-point scale (Low, Low/Mid, High), an overall evaluation of the teacher-student interactions around the content.
+If some portion of the response to students or remediation muddles the mathematics, the score may be adjusted downward.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Low
+  - Teacher and students interact over content, but teacher responses are pro forma – moving instruction along with limited input from students.
+  - AND/OR There may be brief remediation.
+- 2 = Low/Mid
+- 3 = Mid
+  - Teacher and student interaction goes beyond pro forma exchanges to feature some use of student ideas, moderate conceptual remediation or extended procedural remediation. Portions of the clip may also feature a mix of strong and weak elements, or less-than-skillful use of student ideas.
+- 4 = High
+  - Teacher weaves student ideas into the development of the mathematics and/or conceptually addresses misconceptions for clip. This must be done with some level of teacher skill at “hearing,” understanding, and appropriately responding to student contributions or difficulties.
+
+Provide a very concise reasoning and the integer corresponding to the score (1-4)

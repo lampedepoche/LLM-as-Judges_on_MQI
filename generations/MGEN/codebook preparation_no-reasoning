@@ -1,0 +1,27 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Patterns and Generalizations" which is meant to capture, on a three-point scale (Low, Mid, High), instruction during which the class first examines instances or examples, then uses this information to develop or work on a mathematical generalization; to notice, extend or generalize a mathematical pattern; to derive a mathematical property; or to build and test definitions.
+Examples of this activity include:
+- Examining particular cases and then noticing and extending a pattern (e.g., looking at the sum of the angles in 3, 4, 5, and 6-sided regular polygons and extending the pattern or generalizing to an n-sided regular polygon)
+- Saying whether mathematical procedures work in all cases
+- “Building up” a mathematical definition or deriving a mathematical property (e.g., defining “polygons” after considering different examples and non-examples of polygons)
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+- Patterns, generalizations and definitions must be based on at least two examples (either explicitly worked on or
+referred to)
+- Do NOT count incorrect generalizations, incorrect pattern noticing, or incorrect definition building
+- Do NOT count when teachers and/or students state generalizations, patterns, or definitions without first developing them from examples
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Low
+  - There is brief work on developing a generalization or building a definition, but this work is undeveloped and/or is not the primary focus of the segment.
+  - OR Teachers and/or students engage in pattern-noticing and/or extending. This is done in a pro forma way (e.g. red, blue, blue, red, blue, blue, ??, blue, blue)
+- 2 = Mid
+  - There is work on developing a generalization, extending a pattern or building a definition, but the work is not finalized.
+  - For instance, a pattern may be noticed, extended, or reasoned about but not codified (“it looks like when we increase the coefficient, the line might get steeper”).
+  - OR Teachers and/or students develop a generalization, extend a pattern, or build a definition, but the work is not complete, clear or detailed.
+- 3 = High
+  - The pattern or generalization is codified, AND the work is complete, clear and detailed.
+  - For instance, the teacher and/or students may carefully develop a generalization from examples in detail; or summarize and codify a pattern by describing how the pattern is generated.
+
+Provide the integer corresponding to the score (1-3)

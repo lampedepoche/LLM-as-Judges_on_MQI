@@ -1,0 +1,174 @@
+teacher: Okay.  We are going to be doing popcorn fractions today.  What I want you to do first is you should have a napkin at your desk.  Go ahead and unfold your napkin so it is completely out.  Okay.  Student M and Student S are bringing you a bag of popcorn.  What we’re going to do with this popcorn is have to imagine a little bit, have to pretend, okay?  Now realistically when you pop a bag of popcorn you have more popcorn in your bag than this, right?  But we’re going to have to use our imaginations and pretend this is a bag of popcorn you just took out of the microwave.  What I want you to do is at your table, pick a partner.  It has to be somebody sitting across from you or next to you, okay?  So we have a partnership here, here, an here, and my three ladies here, can you be a group of three?  So what’s going to happen is we’re going to practice adding fractions with unlike denominators. What I want you to do first is open up your bag of popcorn onto your napkin.  You may not eat it yet.  I promise you’ll get to eat it, but not yet.  What I’d like you to do is go ahead and count how many you have.  I will tell you when you can eat and what you can eat, nothing yet.  Okay.  Sometimes popcorn is kind of fragile and it breaks.  Everyone should have 24.  Raise your hand if you have 24.  Okay.  Raise your hand if you have more than 24.  If you have more than 24, I want you to eat as many pieces as you have to so you have 24.  Double check and make sure you have 24 pieces.  So you have exactly 24, yes?  You just counted them.  You’re trying to cheat and eat a piece.  I heard you.  You have 24.  How many do you have, Student K?  Oh my goodness.  Come on.  Okay. 1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Seriously?  1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Okay.  So how many pieces are there in all?
+multiple students: 24.
+teacher: So what is our denominator for how many we have here?
+multiple students: 24.
+teacher: Because our denominator is always what?  How many we have in all.  Now with your partner we’re going to practice adding fractions with unlike denominators.  Okay.  So what I want you to do is decide who is person A and person B in your group.  In my group over here, one of you is going to have to sit out for this one. Okay.  So establish who is person A and person B. Okay.  Person A, what I would like you to do is split your popcorn into groups of 8.  Okay.  So each group should have 8 kernels in them.  Person A, you’re splitting it so each person has 8 kernels in a group. See how everyone else has their napkins unfolded? Just person A.  Okay.  So my people that split them into groups of 8, you have how many groups in all? Three groups in all.  Everybody see that?  What I want you to do is put two of those groups back into your Ziploc bag.  Okay.  Person B, I would like you to split yours so you have 6 pieces of popcorn in each group.  6 in each group.  If you have 24 kernels, you should have 6 in each group.  Okay.  You did something wrong.  You don’t have 24 kernels. Okay.  My person B, if you’re a B person, I asked you to split it so you have 6 popcorn kernels in each group.  How many groups do you have?
+multiple students: Four.
+teacher: I would like you to put two of those groups into your bag, so you have two groups left out.  My A people, look up here.  So you had how many groups in all?
+multiple students: Three.
+{
+    "your_reasoning": "Student contributions are limited to short, choral responses (e.g., “24,” “four,” “three”) to teacher-directed, answer-bounded questions. The teacher does not take up, interpret, or build on any student mathematical ideas; responses are used only to confirm procedural steps already determined by the teacher. Instruction is dominated by teacher talk and directions, with no substantive uptake of student thinking to advance the mathematics."
+    "rating": 1
+}
+
+
+teacher: So you had three groups and out of all the groups you had three in all, and before I told you to put anything away, you had 3 out of 3 on your napkin, right?  Then I asked you to what?  Take away how many?  2.  So what do you have left on your napkin?
+multiple students: One third.
+teacher: You have one third left, right?
+multiple students: Yes.
+teacher: Okay.  So person A, you have one third left on your napkin, correct?  B people, how many groups did you have in all when you sorted them out?
+multiple students: Four.
+teacher: Before I told you to do anything you had all 24 pieces, right? Four fourths.  Then I told you to take away how many?
+multiple students: Two fourths.
+teacher: Two fourths.  Then you had what leftover?  What you had, B people, left on your napkin, is two fourths, correct? My A people – how many kernels are actually in one third of your whole bag?  So basically my A people, how many do you have left on your napkin right now? 8 pieces.  I told you how many to put in there, so you should know.  So one third is equal to 8 pieces of popcorn.  Do we agree?  Give me a thumbs up if you agree to that.  Okay.  My B people, two fourths, how much is two fourths equal to?  How many kernels do you have on yours?  12, right?  How many was in one group?  6.  You have two groups there.  So you actually have 12 kernels.  Do we agree?
+multiple students: Yes.
+teacher: Now what I want you to do – B people, raise your hand.  A people raise your hands.  If your hand is up because you’re a B person, I want you to take the kernels that are on your partner’s napkin and put them onto your napkin.  Do not fight.  Follow my directions.  I did not say eat them.  I just said take them onto your napkin.  You have not followed the first directions yet, so you just messed up the problem because I told you to put two of those groups into your bag.  Pick them up.  Okay.  Both partners give me a thumbs up when that operation has been completed.  Student S and Student M, you’re done.  So B person, you have all the popcorn.  A person, you have none on your napkin.  Is that correct?  What we basically just said was one third plus two fourths, right?  Because we combined them and put them together.  Can we do this?  Can I figure out how many kernels I have now?  How many kernels should I have on here?  Without counting them, how many kernels should I have here?  I added one third plus two fourths.  I should have 20, right?  Okay.  I should have 20 kernels on that napkin.  Count them and see if you have 20 kernels on that napkin.  Actually count them.  You have 20, Student A?  We’ll do that in a second.  So how many do you have?  Are you still counting?  How many do you have?  20?  Okay.  Student L?  You have 20?  I’m a little worried that you guys messed up my math because you didn’t follow my directions.  Student R, how many do you have?
+student: 25.
+teacher: You should have 20.  Count them.  On the napkin.  Now your scientific problem, your math problem, Student R, might be off because you had a little boo boo there, didn’t you?  You spilled the popcorn.  Now we’re talking about partnerships, right?  Now you have to think about how many you had in all to start.  Now you’ve combined them.  Not 24 because you’re working with how many bags?  Two.  Your denominator would actually be 48, right?  How many pieces are on the napkin out of the 48 we started with?  20, right? Everybody see so far?  If I had – let’s say Student V and Student J are partners.  Let’s make it real world.  They’re hanging out playing video games at Student J’s house.  Student J and Student V are like, “I’m hungry.  I’m going to pop some popcorn.  I’m so hungry, I want more than one bag.”  So they pop a bag for each of them for themselves.  So Student J has 24 pieces and Student V has 24 pieces.  Everyone with me so far?  Okay.  Student J goes to the bathroom – let’s backup a little bit.  Student J and Student V pull out different amounts of popcorn onto their plates, okay?  So Student V has out – you’re B, right?
+{
+    "your_reasoning": "Students provide frequent responses (fractions, counts, yes/no confirmations), but these are tightly guided and answer-bounded. The teacher uses student answers mainly to confirm predetermined steps and calculations, not to probe, interpret, or extend student mathematical thinking. Student contributions move the activity procedurally forward, but uptake remains formulaic and teacher-directed rather than substantively building on student ideas."
+    "rating": 2
+}
+
+
+teacher: Now I gave the cashier $5.00.  So my next thing is I have to…?
+student: Subtract.
+teacher: Subtract $3.00 – remember, you’re watching me – and 96 cents from $5.00.  So I know that I can’t subtract six from zero. And I know I can’t subtract nine from zero.  So I could go over and I have to regroup.  I have to go and borrow one whole dollar from the five and then my little ten cents – or my tenth – has to give up a ten and this becomes a nine, and let me see, I’m going to get back $1.04.
+teacher: How do I know that?  Because four plus six is ten, I carry that one, I regroup, I know one and nine are ten, there’s a ten again, that’s zero, then I regrouped again.  And my one and my five become a one and three plus the one that I regrouped with is going to become a five.  Now do you see that?
+student: Yes.
+teacher: How many of you think you can do that?  Okay, let’s do one together then.  So I did one, now I want you to do it. First I looked at my information – [and] I say I went back to the store because these Jolly Rancher’s were so good – they were just fabulous – I say, “Oh my God, let me go buy some more Jolly Ranchers.  I want some more Jolly Ranchers.”  I say this time I’m going to buy – I’ll buy eight boxes, okay?  But I know for a fact that if I’m doubling it, and I already spent $3.96, $5.00 is not going to be enough.
+teacher: So I went back and I went in my piggy bank and I took out $10.00.  Okay?  Now let’s walk together.  What information – I’m going to erase this.  Can I erase this?
+multiple students: Yes.
+teacher: Okay.  We’re going to use lattice method again.  You all cool?
+multiple students: Yes.
+teacher: All right.  So let’s do it together.  Open up your books.  Draw a box.  Do your thing.  Okay.  Get a nice big area.  Make sure you have it big enough.  Make sure you have enough space to write.  Okay.  And I’m going to set my problem up. I’m going to put – oh, somebody had the sneezies – my 99 cents, because that’s what they’re still costing; they have not inflated in price yet, so the price has remained the same and it stays stagnant.
+teacher: And then I’m going to put my eight down here, right?
+multiple students: Yes.
+teacher: All right.  Are you itching?
+student: I don’t feel comfortable.
+teacher: You don’t feel comfortable?
+student: I wish I could lay down.
+teacher: Well, you can go ahead and lay down.  Just don’t nap though because you need to pay attention.  Actually I really don’t mind you all doing it, as long as you all are paying attention; do you understand that.
+student: Okay.
+teacher: Okay.  Oh, my goodness.  Everybody wants to – all right, that’s cool; I’m really serious, I don’t really mind.  Okay.  Are we cool?
+multiple students: Yes.
+teacher: Okay, so, let’s do this together.  We’re going to guide each other.  Tell me, I’ve set up my problem.  What am I doing now?  Go ahead Student J.
+student: Eight times nine.
+teacher: And what is eight times nine?
+student: Eight times nine is 72.
+teacher: Very good.  And where do I put it?  I put here?  Here?  Where do I put it?
+student: Right there beside the eight.
+teacher: Beside the eight?  Do I put eight – what do I put there?  How do I do it?  What do I do?  Tell me what to do.
+student: Put the seven right there.
+teacher: Okay.
+student: And you put a two right there.
+teacher: Cool.  Everybody agree with that?
+multiple students: Yes.
+teacher: Cool.  Okay.
+student: [Carry – carry…]
+teacher: Carry, carry.  Go ahead Student K.
+student: Then you do seven times nine again and [carry the two].
+teacher: And where do I put it?
+student: You put the seven on the top.
+teacher: Right here?
+student: Yes.  And the two at the bottom.
+teacher: All right.
+student: And then you add.
+teacher: Okay.  Tell me, what am I going to get?
+student: $7.92.
+teacher: And we just bring down the what?
+student: Decimal.
+teacher: And our answer is $7.92.  Are you keeping – are you able to keep up?  Are you following now?
+student: Now subtract.
+teacher: Are you sure?  Okay.  So how much change am I going to get back?  What’s my next step?  What do I have to do because my –
+student: Subtract.
+multiple students: Subtract.
+teacher: Oh, what am I subtracting?  What from what?
+student: You’re subtracting the [S] – 70 –
+student: $7.92 tenths – I mean cents – and $10.00.
+teacher: From $10.00?
+student: Yes.
+teacher: All right.  And you notice when I do my decimals for subtraction what am I doing with my decimals?
+multiple students: Line them up.
+teacher: I line them up.  So what would be my answer?  Not let’s walk together.  Can I subtract two from zero?
+multiple students: No.
+teacher: Can I subtract nine from zero?
+multiple students: No.
+teacher: Can I subtract seven from zero?
+multiple students: Yes.
+student: No, no, no.
+teacher: No.  But I can subtract seven from ten, right?  But I’ve got to go over here and say, “Hey ten, could you loan me a dollar?”  So – and that ten becomes a what?
+multiple students: Nine.
+teacher: Nine.  And the ten over here becomes ten cents, but I need this to become a nine and then that becomes a ten-hundredths. So, now we can subtract?  Yes or no?
+multiple students: Yes.
+teacher: So two – ten minus – ten subtracting two is what?
+multiple students: Eight.
+teacher: Nine minus nine?
+multiple students: Zero.
+teacher: What do we do with the decimal?  Bring it down.  Whoa.
+teacher: Okay, what’s nine minus seven?
+multiple students: Two.
+student: It’s $2.08 cents.
+teacher: $2.08.
+student: We’re going to [party] up.
+{
+    "your_reasoning": "Students contribute procedural steps, products, placements in the lattice, and subtraction decisions, and the teacher repeatedly solicits and uses these contributions to advance the worked example. However, uptake is mainly focused on executing a predetermined algorithm; student ideas are not explored, compared, or extended beyond confirming correct steps. Student input supports the development of the mathematics, but without sustained attention to students’ own mathematical reasoning."
+    "rating": 3
+}
+
+
+student: Yeah.
+teacher: Why is it that that makes sense?  How is it that I can get the same answer for these two different division problems?
+student: Because it has the decimal point in the 3 – it has a decimal point before the 3.  It has a decimal point before the 8, but it has it in between, so you know when you divide it you’re going to have it after the decimal point.
+teacher: How do you know that?
+student: Because it says it in there.
+teacher: I’m trying to figure out how do you know that since you missed yesterday.  How do you understand?  Are these the same problems?  Are these two the same problems?
+student: Kind of but no.
+teacher: Are they the same, Student J?
+student: Yes.
+teacher: Why are they the same?
+student: Because one and eight tenths is the same as 18, and three tenths is like the same as 3, and they both equal 6, and it’s the same as 18 divided by 3.
+teacher: Thank you.  Let’s hear what Student M says.
+student: It’s equivalent.
+teacher: So Student M is telling us – because you said kind of, right? So Student M is telling us that these are actually equivalent.  In other words, one and eight tenths divided by three tenths is equivalent to 18 divided by 3.  Is that true?
+student: Yeah.
+teacher: So let’s see if it was written like this, one and eight tenths divided by three tenths, and we are saying that is equal to 18 divided by 3.  Student J said they’re the same, but you’ve just got to eliminate the decimal. How do I get from one and eight tenths to 18?  What do I need to do to one and eight tenths to make it 18?  What do I need to do to the one and eight tenths to get it to be 18, equal to 18?
+student: Take away the decimal.
+teacher: I can’t just take it away though.  What do I do in order to change this to this?  What do I have to do to the one and eight tenths?  What did we learn back when we were studying multiplication and the multiplication of decimals.  What did we learn about when you see one decimal place right there?  What did we learn? Help out Student J.  I’m sorry, Student J.  Student J has spoken.
+student: Move the decimal place one place to the right.
+teacher: We do say that, but we also learned that the decimal point, does it ever really move?
+multiple students: No.
+teacher: How do I get from one and eight tenths to 18?  That’s the question I need somebody to be able to answer.  How do I get from one and eight tenths to 18?  Yes?  You need to sit up.
+student: I was saying like 6 times—
+teacher: 6?
+student: 3—
+teacher: Forget about the 6.
+student: 3 times—
+teacher: Do you see where this decimal point is?
+student: Yes.
+teacher: Where is the decimal point in 18?
+student: Behind the 8.
+teacher: Right here the decimal point is in front of the 8.  How do I get it to be behind the 8 when right here it’s in front of the 8?
+student: Multiply.
+teacher: By what?
+student: 6.  By 6.
+teacher: Student C is playing with fingers, so I know your mind is not thinking about that.
+student: 6 times 3.
+teacher: We’re focusing on this one and eight tenths.  Student M?
+student: It’s not like the decimal moving, but the numbers get larger by multiplying.
+teacher: Okay, multiplying by what?  She said it’s not the decimal point that’s moving really, right, but the number is getting larger because of multiplication.  What do you multiply by to get one and eight tenths to equal 18?
+student: I’m thinking 10 but—
+teacher: I’m thinking you’re right, times 10, right?  One and eight tenths times 10.  Is that going to give me 18?  We remember one zero will actually move one place to the right.  There’s one zero.  That’s our shortcut we think about, right?  Remember that?
+multiple students: Yes.
+teacher: What about three tenths?  How do I get from three tenths to 3? Now let me see if Student P knows that one.  How do I get from three tenths to 3?  Can you tell me what operation I’m going to use to get from three tenths to 3?
+student: Multiplying.
+teacher: Okay.  What am I multiplying by to get from three tenths to 3?
+student: 10.
+{
+    "your_reasoning": "The teacher explicitly takes up multiple student explanations, contrasts them, and builds the mathematical idea of equivalence from students’ reasoning. Student J’s and Student M’s contributions are named, interpreted, and connected to a general principle (scaling by 10 to eliminate decimals). The teacher presses for clarification, revoices student ideas, and uses them to advance conceptual understanding rather than merely confirming steps."
+    "rating": 4
+}

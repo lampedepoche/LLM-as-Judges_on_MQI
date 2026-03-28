@@ -1,0 +1,140 @@
+teacher: Okay.  We are going to be doing popcorn fractions today.  What I want you to do first is you should have a napkin at your desk.  Go ahead and unfold your napkin so it is completely out.  Okay.  Student M and Student S are bringing you a bag of popcorn.  What we’re going to do with this popcorn is have to imagine a little bit, have to pretend, okay?  Now realistically when you pop a bag of popcorn you have more popcorn in your bag than this, right?  But we’re going to have to use our imaginations and pretend this is a bag of popcorn you just took out of the microwave.  What I want you to do is at your table, pick a partner.  It has to be somebody sitting across from you or next to you, okay?  So we have a partnership here, here, an here, and my three ladies here, can you be a group of three?  So what’s going to happen is we’re going to practice adding fractions with unlike denominators. What I want you to do first is open up your bag of popcorn onto your napkin.  You may not eat it yet.  I promise you’ll get to eat it, but not yet.  What I’d like you to do is go ahead and count how many you have.  I will tell you when you can eat and what you can eat, nothing yet.  Okay.  Sometimes popcorn is kind of fragile and it breaks.  Everyone should have 24.  Raise your hand if you have 24.  Okay.  Raise your hand if you have more than 24.  If you have more than 24, I want you to eat as many pieces as you have to so you have 24.  Double check and make sure you have 24 pieces.  So you have exactly 24, yes?  You just counted them.  You’re trying to cheat and eat a piece.  I heard you.  You have 24.  How many do you have, Student K?  Oh my goodness.  Come on.  Okay. 1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Seriously?  1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Okay.  So how many pieces are there in all?
+multiple students: 24.
+teacher: So what is our denominator for how many we have here?
+multiple students: 24.
+teacher: Because our denominator is always what?  How many we have in all.  Now with your partner we’re going to practice adding fractions with unlike denominators.  Okay.  So what I want you to do is decide who is person A and person B in your group.  In my group over here, one of you is going to have to sit out for this one. Okay.  So establish who is person A and person B. Okay.  Person A, what I would like you to do is split your popcorn into groups of 8.  Okay.  So each group should have 8 kernels in them.  Person A, you’re splitting it so each person has 8 kernels in a group. See how everyone else has their napkins unfolded? Just person A.  Okay.  So my people that split them into groups of 8, you have how many groups in all? Three groups in all.  Everybody see that?  What I want you to do is put two of those groups back into your Ziploc bag.  Okay.  Person B, I would like you to split yours so you have 6 pieces of popcorn in each group.  6 in each group.  If you have 24 kernels, you should have 6 in each group.  Okay.  You did something wrong.  You don’t have 24 kernels. Okay.  My person B, if you’re a B person, I asked you to split it so you have 6 popcorn kernels in each group.  How many groups do you have?
+multiple students: Four.
+teacher: I would like you to put two of those groups into your bag, so you have two groups left out.  My A people, look up here.  So you had how many groups in all?
+multiple students: Three.
+{
+    "your_reasoning": "The teacher dominates the interaction with procedural directions and classroom management, giving students no meaningful role in shaping the mathematics. Student input is limited to brief numerical answers, and their ideas are neither elicited nor used to advance understanding. Although the activity involves fractions, the teacher does not engage with student reasoning or address misconceptions; the math remains entirely teacher-driven and procedural. This results in interaction that stays at a pro forma level without substantive mathematical exchange."
+    "rating": 1
+}
+
+student: Times two.
+teacher: Mm-hmm.  Mm-hmm.  So four fifths is equal to how many tenths? I asked you for a fraction bigger than four fifths, bigger than eight tenths.  What's bigger than 8 tenths, but not 10 tenths because that's a whole?
+student: Nine tenths.
+teacher: The next one is?
+student: Nine tenths.
+teacher: Okay, I had a chance to go to inspectors and I had a chance to go to detectives.  Witnesses, I'm going to ask you, what did you guys think?
+student: I think that it's nine tenths.
+teacher: Good.  We thought the same thing here, and we thought the same thing there.  Excellent.  So what did you do to come up with nine tenths?
+student: We did four fifths times two.  And four times, I mean five times two equals  ten and when I do my denominator, I do the numerator.  Four times two is eight.
+teacher: So four fifths is also equal to?
+student: Eight tenths.
+teacher: Eight tenths, right?  And I asked for a fraction that's bigger – – bigger than four fifths, but less than one whole.  Then you guys came up with?
+student: Nine tenths.
+teacher: Nine tenths.  Good.  Excellent.  So I'm going to hand you out packets.  Now, pay very close attention.  With your learning partners, I only want you to work on the page where it says number line, which is page four, okay?  Now you're working with your learning partners.  Assistants, please hand these out.  As soon as you get it, please put your name on it and don't lose this.  We're going to be using this tomorrow also. Whoops.  Dropping everything, Student T.  Okay, put your name on it and get with your learning partner.  Hang on.  Everyone get with your learning partner first.  I know we have some kids out.  Thank you.  No.  Who are you with?  Okay, Student T and Student M, can you work with Student H?  It's you three, right?  Can you guys move away from this group?
+teacher: That's fine.  That's fine.  I want you to do it that way.  Go ahead.  Continue.  Where's your number line start?  Where's your rectangle start?  I don't know why you're erasing. I'm not asking you to erase.  I just asked you a question. Can you show her where the number line starts please? Where does your representation start?  Okay, I want you draw representations to help you.  Draw a representation to help you.  I'm sorry, did you not get that I said to work on page four?  Who's your partner?  Oh.  Student E, come work with Student R.  It's your permanent partner now. Draw a representation to prove that, okay?  Student T, can you come over here?  So what's this one?  Mm-hmm.  What does this line represent?
+student: One fifth.
+teacher: Mm-hmm.  Let's go back here.  Zero to one is one rectangle. Zero to one is one whole.  Student H, I know that you're used to working independently and you too, but when I put you with a partner or with a group, you really need to work with your group, okay?  So what does G represent?  Okay, I'm going to leave you in the hands of Student F and Student T.  Good.  Now remember zero to one is one whole. Zero and stop at one.  Zero to one is one whole.  So what does G represent?  There you go.  All right.  Now one to two is another whole.  One to two is another whole.  Now I'm going back to a conversation that we had before the lesson even started of why I asked you why couldn't your answer just be a half when it was five and a half, remember that?  And what was the answer?  Hang on.  Why couldn't it be just a half?
+{
+    "your_reasoning": "The teacher briefly builds on a student’s idea (using equivalence to find nine tenths) but does not pursue the reasoning meaningfully; most exchanges revert to confirmation and directives. Mathematical conversations are interrupted and overshadowed by partner assignments, behavior redirection, and procedural instructions. Although some student reasoning appears, it is neither probed nor woven into the mathematical development, keeping the interaction at a limited depth overall."
+    "rating": 2
+}
+
+
+teacher: Okay, good.  Okay, so let me slip away from the homework page and we'll get started.  Okay, so just like yesterday to warm us up a little bit before we go, a little mental math estimation.  Can somebody solve for me, in your head, 35 times 4?  Student A, what are you thinking, 35 times 4?
+student: Hundred forty?
+teacher: How'd you get 140?
+student: Because I did 2 times 35 is 70 and then – okay, 2 times 35 equals 70.  So I added 70 plus 70 or 2 times 70 and took away the 0.
+teacher: Seven and seven is?
+student: Two times seven is fourteen and I added the zero.
+teacher: Excellent.  So she used doubles, right?  She doubled 35 and got 70 and doubled it again.  Is there a different way you could've done 35 times 4 in your head?  Student C, what else could you have done?
+student: Thirty times four equals a hundred and twenty.  Five times four equals twenty.  A hundred twenty plus twenty equals one forty.
+teacher: Okay, really good mental math.  Two different strategies.  What if you do 55 times 3?  Student E?
+student: One hundred sixty-five.
+teacher: And where'd the 165 come from?
+student: I know that 50 times 3 equals 150 and 3 times 5 equals 15.  So 150 plus 15 equals 165.
+teacher: Excellent.  Gosh, your mental math is really, really, really amazing compared to the beginning of the year when we were still working on, like, 6 times 7 and now we're doing 55 times 3, 45 times 4.  All right, one more.  Can you do – let's make a larger number – can you do 75 times 4? Student S, can you do 75 times 4?
+student: I'm not sure it's right but –
+teacher: What would you think in your head for 75 times 4?
+student: Five times four.  Four times five which is twenty and then seventy times four is twenty-eight.  Add the zeros, it's 280.
+teacher: So you did 280 and you have the 20?
+student: Two hundred eight plus twenty is three hundred.
+teacher: Who agrees with that?  Three hundred?
+student: Me.
+teacher: For 75 times 4, breaking it up, multiplying the tens, multiplying the ones, and then combining it make for some good mental math.  Good work.  Okay, so yesterday we did some estimating, right?  And we worked on estimating and comparing.  Let me make this bigger.  A number to an equation.  And we used estimation to see which is bigger. We didn’t solve it exactly, but we estimated to see which would be the larger number.  We compared them.  If you look at 250 and we're comparing that to 5 times 48, I don't want you to solve it exactly.  I want you to think.
+student: I see which one's bigger.
+teacher: Which is bigger?  Without solving exactly, do you know in your head a way to figure this out mentally?  One, two, three, four, five, six, seven – seven people have an idea.  What are you thinking in your head, Student C?  I see you looking at it.  What are you thinking about?
+student: I can split the 48 up to explain.
+teacher: So you're thinking you could split the 48 and do some mental math.  Mm-hmm, one way would be to do like we were just practicing, some mental math with the 5 times 48.  Can you do it without having to solve 5 times 48?  What do you think, Student J?
+student: You could estimate 48 to 50 and then multiply 5 times 50 which would get you to a friendly.  And 5 times 50 –
+teacher: You said 5 times 50 is a friendly estimation.  You rounded it?
+student: Yeah, and 5 times 5 equals 25 and then put the 0 on the back would give you 250, but that's not the exact equation that we're using.  The number is a little bit lower so we know that 250 has to be larger.
+teacher: Excellent.  So can somebody repeat what Student J just said and make sure this makes sense to us?  He told us that the 250 is going to be larger and why was that, Student C?
+student: Because 40 is lower than 50.
+teacher: Forty is less than fifty or our forty-eight is less than the fifty?
+student: Our 48 is less than the 50.
+teacher: Okay, Student J, can you explain that again?  That's true, Student C.
+student: Two things.  One that he said that 48 rounded to 50 will make a close estimate.  He said 5 times 5 is 25; add the 0 is 250. Since it's lower because the actual equation is lower, that he knows that 250 is greater.  Another thing I was going to say is like we could 5 times 40 and try to figure out with just 250 and then you could sort of do 5 times 8 which is easier.  I think it's a little bit easier.
+teacher: Okay, that'd be solving it exactly, right?  But I like what you said about Student J noticed this friendly fact.  He kind of did a mental estimate and said, wait a minute, 5 times 50 is 250.  So I know that this is 5 times 50.  And like you said, the real problem is lower, right?  This was an overestimate.  So we know that 5 times 48 will be less.  So we need to have the sign eating the larger number, right? Two hundred fifty is greater than five times forty-eight.
+student: How come –
+teacher: Will you close the window for me, please?
+student: How come that's a plus instead of an equals?
+teacher: Great question.  It should’ve been an equals sign, right? Okay.  Last one like this, 3 times 27 or 90?  Which one would be larger, the 90 or the 3 times 27?  That's good. Thank you.  All set.  Student X, what are you thinking?
+student: You can estimate the 27 to the 30.  So 3 times 30 is 90.
+teacher: You said 3 times 30 is?
+student: Ninety.
+teacher: Interesting.
+student: So that one wasn’t bad because if you round it up, it was going –
+teacher: So you know 3 times 30 is 90.  This is like equivalent – equal to 3 times 30 over here.  That would be equal to 90.  So 3 times 27?
+{
+    "your_reasoning": "The teacher consistently elicits students’ mental-math strategies, asks them to explain their reasoning, and has peers restate and refine one another’s ideas. Student contributions shape the discussion, and the teacher uses them to highlight estimation methods, decomposition, and rounding. At times the teacher redirects or corrects without deep follow-up, and some exchanges remain superficial, but overall the interaction features genuine use of student thinking and extended mathematical conversation."
+    "rating": 3
+}
+
+
+student: All the boards are really getting a bigger number?
+teacher: When you – no.  If you divide by a fraction, yes.
+student: And then you divide by a whole number, you get smaller.
+teacher: Smaller, right.  Is that confusing?  Is that what you're asking me?  It is confusing.  You know what?  When we do fractions, we're going to do it starting with looking at things, not just talking about them.  So you'll get to see that.  But today, I just want to talk about division, and I kind of want to see what you guys – we've been doing a lot of multiplication and I have to say – look in that closet back there – that I'm very pleased with how much you guys remember and how open you were to learning new ways to strategies to multiply. When I was little, no one said, "Well, how do you like to do things?" or "How would you solve this problem?"  They just said, "Copy this problem off the board and this is how you do it."  And so what happened was a lot of people got to be older and they hated math and they also didn't remember things because they never kind of figured it out for themselves. So we're gonna talk about division for the next few days, and I have a whole bunch of stuff today.  One of them is so hard, these division riddles, that it took me a whole – quite a while – to sit down and figure it out this morning.  So I'm gonna see.  But I bet some of you could figure them out. So what we're going to start with is who remembers anything that – I would like you to tell me anything that you know about division, anything.  Telling me something about division, Student T.  Anything.
+student: It related to multiplication.
+teacher: It's what?
+student: It related to multiplication.
+teacher: So I'm just going to put a division sign.  Whoa, what happened? There.  Division, it's related to – Student J, says it's related – re-late-ed to – and I'm just gonna – oh, you know what, I think it needs to be oriented.  Student S?
+student: If you multiply a fraction, it's still going to be the same as dividing.
+teacher: I absolutely understand what you mean.  I think we have to – let's show.  If you multiply, so you mean that – I know what you – I have to sort of give – who needs like a visual to understand?  Say it again.
+student: If you multiply that fraction, it's just like dividing.
+teacher: So in other words, say 6 divided by 2 is the same as 6 times one half.  Is that you mean?
+student: Mm-hmm.
+teacher: Okay, sometimes it helps.  It's true 'cause look, 6 divided by 2 is what?
+multiple students: 3.
+teacher: 3.  And I don't know if you guys did any of this in third grade, but if you just do this, it just equals 6 halves which equals 3.  So he's absolutely correct.  We just proved it.  Well, we didn't prove it because we'd have to do it a whole bunch of times, but it's true.  Good. Anything else about division?  Student T?
+student: It's related subtraction.
+teacher: Well, you know what, you're right.  Just like we say – I'm gonna write that, but I would like to expand on that because – and I bet if I – I bet you'll be able to do it. So it's related to subtraction.  It's not just related to subtraction.  Just like we say that multiplication is a fast way of?
+student: Adding.
+teacher: Adding.  Division –
+student: Is a fast way of subtracting.
+teacher: Yep, and we'll prove it.  Is a fast way of subtracting.  So in other words, if we did 14 divided by 2 and you guys all know that, right?  What is it?
+multiple students: 7.
+teacher: 7.  And it really means 14 and you're dividing 14 into 2 equal groups, right?
+student: Uh-huh.
+teacher: Isn't that what it is?
+multiple students: Yes.
+teacher: So we could do 14 – how many twos?  Well, that's interesting because I always get this backwards.  Maybe you're dividing it into 7 equal groups?  No, 14 divided by 2.  So if you take away 7 from 14, you get?
+multiple students: 2.
+teacher: No.
+student: Oh, 7.
+teacher: You get 7 and then you take away another 7 and you get 0 and there's nothing remaining.  So how many sevens did you have to take away?
+multiple students: 2.
+teacher: 2.  It doesn't seem much faster there, but let's say you're doing a 150 divided by 3.  You're not gonna – there's going to be a faster way than do 150 minus 3 minus 3 minus 3 minus 3 minus 3 minus 3 minus 3 minus 3 minus 3 till you get to 0.  What happens if you don't get exactly 0?
+multiple students: You have a remainder.
+teacher: Yes, you have a remainder.  You guys understand a lot.  So what are remainders?  What's a remainder?  Because you use the word remainder, but remainders can be all sorts of different things.
+student: So you could draw like an array.
+teacher: An array?
+student: Yeah, like 5 times 4.
+teacher: This might be 4 times 5 but you know.  You want me to do 5 times 4 so that – oh, yeah, is that okay?  Okay.  So this is 5 times 4.
+student: 20.
+teacher: You want me to show you how you could use this to show a remainder?  So what if I had 21 and I said we want to divide 21 into 5 groups?  You would do this, right?  But you would have this one left and that's the remainder. Student A, you have a – okay, is that right, Student C, you think?  Student A?
+student: 21 –
+teacher: Excuse me.  I'm trying to listen.
+student: When I'm doing a division problem, I look at it backwards because the answer would be – if you look at it going this way, the reverse number would be the last one and then –
+{
+    "your_reasoning": "The teacher repeatedly takes up students’ statements, interprets them, and turns them into mathematically meaningful contributions. She validates and extends ideas about division’s relationship to multiplication, fractions, subtraction, and arrays; provides visual representations to clarify student claims; and adjusts explanations in direct response to student confusion. Students’ reasoning steers the flow of the conversation, and the teacher weaves their ideas into coherent mathematical development while addressing misconceptions conceptually."
+    "rating": 4
+}

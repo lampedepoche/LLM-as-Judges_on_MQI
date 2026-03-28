@@ -1,0 +1,32 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Mathematical explanations" which evaluates, on a three-point scale (Low, Mid, High), the degree to which the mathematical explanations focus on:
+- why a procedure works (or doesn’t work)
+- why a solution method is appropriate (or inappropriate)
+- why an answer is true (or not true)
+- In geometry: the justification using a definition, why an object is symmetrical, why a second figure is a transformation of the first
+- In data analysis: why you would choose a specific graph to represent a set of data, why median is different than mode or mean of a dataset, etc.
+
+Do NOT count “how” e.g., simply providing descriptions of steps (first I did x, then I did y) or definitions unless meaning is
+also attached.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+- Do NOT count incorrect or incomplete explanations as explanations.
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Low
+  - A mathematical explanation occurs as an isolated instance in the segment.
+- 2 = Mid
+  - Two or more brief mathematical explanations occur in the segment OR an explanation is more than briefly present but not the focus of instruction.
+- 3 = High
+  - One or more mathematical explanation(s) is a focus of instruction in the segment. The explanation(s) need not be most or even a majority of the segment; what distinguishes a High is the fact that the explanation(s) are a major feature of the teacher-student work (e.g., working for 2-3 minutes to elucidate the simplifying example above).
+
+__Scoring Help__
+Examples of explanations:
+- Explaining the reason for steps in simplifying fractions (dividing by 2/2 is same as dividing by 1; anything divided by 1 is still itself)
+- Explaining why particular steps in a complex problem are justified or work to achieve the solution
+- Classifying triangles as polygons because they are closed and made up of line segments that do not cross
+- Explaining why a formula can be used to find an outcome (why l x w works to find area)
+Note that when scoring, you can count the build-up to an explanation as part of the explanation. Ask yourself: Was the point of the instruction to provide the explanation, even if it only emerged at the end? If so, you may score that clip as a High.
+
+Provide a very concise reasoning and the integer corresponding to the score (1-3)

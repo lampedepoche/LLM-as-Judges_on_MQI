@@ -1,0 +1,206 @@
+student: 4.
+teacher: Do you agree or disagree?  You disagree?  How many do you think, Student J?
+student: 8.
+teacher: So you have 12 to start with, and you’re splitting it into three groups, and you think you’re going to have 8 in each group?  How many pieces do you think?  Go ahead and split it and see.  Go ahead.  Come on.  Okay.  So how many pieces of popcorn are in each group when you split it into thirds?  There’s 3?  There should not be three.  There should be 4 pieces of popcorn in each group.  Do you agree?  Okay.  Now on the other side, your other 12, I want you to split it in half, two separate groups.  Let’s predict.  How many do you think will be in each group?
+multiple students: 6.
+teacher: You think 6?  Let’s see.  Come on.  Split it a little bit more so I can see it.  So how many do you have in each group?
+student: 6 and 6.
+teacher: And this is 4, 4, and 4?  Yours is the same way?  You should only have three groups here.  One half should have 3 groups and one half should have 2 groups.  So how many are over here?  I’m confused with what you’ve got here.  Student A, I’m going to be honest with you.  You’re not paying a whole lot of attention to me right now.  So that’s why you’re confused, because everyone else in this room is right on.  On one half of your napkin you should have 12 pieces.  On the other half you should have 12 pieces.  Split 24 in half.  Please move your clips for not following directions.  Basically on half of your napkin you have split your 24 pieces into thirds, correct?  On the other side you have split them into what? Halves, right?  This is what I want you to do, is go ahead and eat 4 pieces from this side, and from this side I want you to eat 6 pieces.  Don’t mix up your pieces.  Okay.  So you’re supposed to have 12 on one half and 12 over here.  Do you have 12 over here?  12 here, 12 here?  Good now?  On this side I want you to split these into groups of 3.  You should have 3 separate groups.  How many pieces in each group? 3, 3, and 3 is going to equal 12?
+student: Yes.
+teacher: 3 plus 3 plus 3?  No.  It’s going to be three groups.  How many kernels in each group?  A group here, here, and here. 12 divided into 3 groups.
+student: 4?
+teacher: Yeah.  So 1, 2, 3, 4, 1, 2, 3, 4, 1, 2, 3, 4.  Now you split this 12 into what?  Thirds.  That’s how we say it. Now this one you split in half, two separate groups. How many in each group?
+student: Like 2.
+teacher: Two groups that are equal, how many kernels in each group?
+student: 4 again.
+teacher: 4 plus 4 is going to equal 12?
+student: 6.
+teacher: Mm-hmm.  So 1, 2, 3, 4, 5, 6, 1, 2, 3, 4, 5, 6.  So you split these 12 into what?
+student: Half.
+teacher: Over here you eat one of the thirds, four pieces, and over here one of the halves, six pieces.  Same with you. Basically what I have done is on this half of the napkin I had three thirds in all, right?  So I had three thirds.  I took away what?  Thank you for raising your hand.  Student A?
+student: One third.
+{
+    "your_reasoning": "The work stays at a concrete, procedural level: students physically split objects, count pieces, and follow the teacher’s directives. There is no exploration of underlying fraction concepts beyond counting groups, no justification, no mathematical reasoning, and no connections among representations. The teacher controls all steps, corrects answers without probing thinking, and does not engage students in meaning-making or generalization. As a result, opportunities for rich mathematical ideas or practices are essentially absent."
+    "rating": 1
+}
+
+
+teacher: Okay.  So today we’re going to continue our discussion with Student L?  So if I’m trying to find an equivalent fraction, what do you Please come back to your seat.  Thank you.  If I’m trying to find the
+student: Find an equal fraction.
+teacher: We’re going to talk about what the means and how to do that mathematically today, okay?  I’m going to put up – all right.  So this is a word problem for today.  It says Mr. H bought a box of Girl Scout cookies.  He thought it would be best if he only ate three sixths of the box of Thin Mints.  When I asked why he ate so much, he replied, “Hey, I only ate half.”  Was Mr. H correct?  Turn and talk while I get myself ready. All right.  That does look hard.  See if you have one equal to A.  Is that A?  That’s better.  Okay.  Put them right there.  All right.  Later on today when you’re not in group, you’re going to have an opportunity to answer this question and use a picture to backup your statement.  So while we’re working today, I want you to be thinking about that question. Did he only eat half of the cookies?  I want you to think about it while we work today.  I want you to come sit in front of your spaces by the whiteboard. Can you push back?  You’re supposed to sit in your space.  Thank you, Student J.  Excuse me.  Equivalent fractions.  I want you to take a look at that.  Is it working?  All right.  Quiet.  If this apple were cut along the bottom line and you got one piece, what fraction would you have?  Student D?
+student: One half.
+teacher: Is that a unit fraction, one half?
+multiple students: Yes.
+teacher: It is a unit fraction, 1 over 2.  What does the unit represent? Raise your hand and I’ll call on you.
+student: It represents the numerator and the denominator.
+teacher: Which one does it represent?  The denominator or the numerator? Which one?
+student: The numerator.
+teacher: The bottom number is the denominator.  Why is the denominator important?  Why is it important, Student J?
+student: Tells you how many pieces there are.
+teacher: Exactly, tells you how many groups, how many pieces, and how many pieces are in this apple?
+student: 2.
+teacher: How many pieces did I get?
+multiple students: 1.
+teacher: Raise your hand.
+student: It was trying to figure out what’s half of the half.
+teacher: That might come up later.  Maybe you and Student P can draw the half and see what that is.  If you do the half and the half you might come up with something.  Later on this thing might help you.  All right.  My computer is not working.  If the apple were cut along the dotted lines and you got two pieces, what fraction of the apple would you have?  Can everybody see that apple?  Can you see it?  Calm down.  Excuse me.  Can everybody see that apple?  So what – I’m asking you a question and you’re not listening.  If this apple were cut in half, cut along the dotted lines and you got two pieces, what fraction of the apple would you have?  Student C?
+student: One fourth.
+teacher: If you got two pieces, you would have one fourth.  What does the denominator say in this fraction?
+student: Four pieces.
+teacher: There are four pieces.  Are there four pieces of this apple?
+multiple students: Yes.
+teacher: But what did the word problem say?
+student: Two pieces.
+teacher: I need two pieces.  Now is that a unit fraction if I put the 2 on top?
+multiple students: No.
+teacher: No, it’s not a unit fraction.  It’s one fourth plus one fourth that equals two fourths.  Now I have two fourths. What did you say, Student S?
+student: You want to know the half?
+teacher: Is it a half?  Did I get half of the apple?
+multiple students: Yes.
+teacher: Student S figured out that hey, Mrs. H, you have half of both apples.  Look here.  Two pieces, this is the first piece.  Here’s my second piece.  How much of that apple have I eaten?  Two.  In both cases you have a half of an apple.  That means because you’ve eaten half of an apple, you have found two equivalent fractions.  We’re going to talk about the math behind it.  Everybody understand what I just said?
+multiple students: Yes.
+teacher: Student D, you have a question?
+{
+    "your_reasoning": "The segment introduces a meaningful context (comparing 3/6 to 1/2) and uses representations to highlight equivalence, but the mathematical work remains largely at the level of identifying parts of a whole, naming unit fractions, and confirming equivalence through pictures. There is little engagement with reasoning about why the fractions are equivalent beyond visual matching, no generalization, and no extension into the underlying multiplicative structure. Some conceptual elements appear, but the instruction is mostly procedural and guided, limiting overall mathematical richness."
+    "rating": 2
+}
+
+
+teacher: Okay, good.  Okay, so let me slip away from the homework page and we'll get started.  Okay, so just like yesterday to warm us up a little bit before we go, a little mental math estimation.  Can somebody solve for me, in your head, 35 times 4?  Student A, what are you thinking, 35 times 4?
+student: Hundred forty?
+teacher: How'd you get 140?
+student: Because I did 2 times 35 is 70 and then – okay, 2 times 35 equals 70.  So I added 70 plus 70 or 2 times 70 and took away the 0.
+teacher: Seven and seven is?
+student: Two times seven is fourteen and I added the zero.
+teacher: Excellent.  So she used doubles, right?  She doubled 35 and got 70 and doubled it again.  Is there a different way you could've done 35 times 4 in your head?  Student C, what else could you have done?
+student: Thirty times four equals a hundred and twenty.  Five times four equals twenty.  A hundred twenty plus twenty equals one forty.
+teacher: Okay, really good mental math.  Two different strategies.  What if you do 55 times 3?  Student E?
+student: One hundred sixty-five.
+teacher: And where'd the 165 come from?
+student: I know that 50 times 3 equals 150 and 3 times 5 equals 15.  So 150 plus 15 equals 165.
+teacher: Excellent.  Gosh, your mental math is really, really, really amazing compared to the beginning of the year when we were still working on, like, 6 times 7 and now we're doing 55 times 3, 45 times 4.  All right, one more.  Can you do – let's make a larger number – can you do 75 times 4? Student S, can you do 75 times 4?
+student: I'm not sure it's right but –
+teacher: What would you think in your head for 75 times 4?
+student: Five times four.  Four times five which is twenty and then seventy times four is twenty-eight.  Add the zeros, it's 280.
+teacher: So you did 280 and you have the 20?
+student: Two hundred eight plus twenty is three hundred.
+teacher: Who agrees with that?  Three hundred?
+student: Me.
+teacher: For 75 times 4, breaking it up, multiplying the tens, multiplying the ones, and then combining it make for some good mental math.  Good work.  Okay, so yesterday we did some estimating, right?  And we worked on estimating and comparing.  Let me make this bigger.  A number to an equation.  And we used estimation to see which is bigger. We didn’t solve it exactly, but we estimated to see which would be the larger number.  We compared them.  If you look at 250 and we're comparing that to 5 times 48, I don't want you to solve it exactly.  I want you to think.
+student: I see which one's bigger.
+teacher: Which is bigger?  Without solving exactly, do you know in your head a way to figure this out mentally?  One, two, three, four, five, six, seven – seven people have an idea.  What are you thinking in your head, Student C?  I see you looking at it.  What are you thinking about?
+student: I can split the 48 up to explain.
+teacher: So you're thinking you could split the 48 and do some mental math.  Mm-hmm, one way would be to do like we were just practicing, some mental math with the 5 times 48.  Can you do it without having to solve 5 times 48?  What do you think, Student J?
+student: You could estimate 48 to 50 and then multiply 5 times 50 which would get you to a friendly.  And 5 times 50 –
+teacher: You said 5 times 50 is a friendly estimation.  You rounded it?
+student: Yeah, and 5 times 5 equals 25 and then put the 0 on the back would give you 250, but that's not the exact equation that we're using.  The number is a little bit lower so we know that 250 has to be larger.
+teacher: Excellent.  So can somebody repeat what Student J just said and make sure this makes sense to us?  He told us that the 250 is going to be larger and why was that, Student C?
+student: Because 40 is lower than 50.
+teacher: Forty is less than fifty or our forty-eight is less than the fifty?
+student: Our 48 is less than the 50.
+teacher: Okay, Student J, can you explain that again?  That's true, Student C.
+student: Two things.  One that he said that 48 rounded to 50 will make a close estimate.  He said 5 times 5 is 25; add the 0 is 250. Since it's lower because the actual equation is lower, that he knows that 250 is greater.  Another thing I was going to say is like we could 5 times 40 and try to figure out with just 250 and then you could sort of do 5 times 8 which is easier.  I think it's a little bit easier.
+teacher: Okay, that'd be solving it exactly, right?  But I like what you said about Student J noticed this friendly fact.  He kind of did a mental estimate and said, wait a minute, 5 times 50 is 250.  So I know that this is 5 times 50.  And like you said, the real problem is lower, right?  This was an overestimate.  So we know that 5 times 48 will be less.  So we need to have the sign eating the larger number, right? Two hundred fifty is greater than five times forty-eight.
+student: How come –
+teacher: Will you close the window for me, please?
+student: How come that's a plus instead of an equals?
+teacher: Great question.  It should’ve been an equals sign, right? Okay.  Last one like this, 3 times 27 or 90?  Which one would be larger, the 90 or the 3 times 27?  That's good. Thank you.  All set.  Student X, what are you thinking?
+student: You can estimate the 27 to the 30.  So 3 times 30 is 90.
+teacher: You said 3 times 30 is?
+student: Ninety.
+teacher: Interesting.
+student: So that one wasn’t bad because if you round it up, it was going –
+teacher: So you know 3 times 30 is 90.  This is like equivalent – equal to 3 times 30 over here.  That would be equal to 90.  So 3 times 27?
+{
+    "your_reasoning": "Students engage in multiple mental-math strategies, compare methods, justify estimates, and reason about why an estimate is an over- or underestimate. The teacher elicits explanations, asks for restatements, and encourages flexible reasoning (decomposing numbers, rounding, friendly numbers). Although the work stays within procedural multiplication and estimation, it includes genuine mathematical thinking, strategic choice, and comparative reasoning, giving it moderate richness."
+    "rating": 3
+}
+
+
+multiple students: Yes.
+teacher: Is equivalent to…?
+student: Is that supposed to be a six?
+teacher: That’s a three, sorry.  I need to recalibrate the board again. All right, Student C says that.  If you agree with Student C look at Student and say, “Yep.”
+multiple students: Yep.
+teacher: All right.  Draw me another stick, please.
+student: Teacher?
+teacher: Uh-huh?
+student: You need to [tilt] those fractions because you could just multiply three times [two-eighths] and divide six times ten.
+teacher: Exactly, it’s just multiplication.
+student: In [math] you say you’re supposed to multiply the bottom.
+teacher: Exactly.  Okay, so tell us what you matched up.
+student: I matched up 12 – 8/12ths.
+teacher: Eight-twelfths.
+student: With 4/6ths.
+teacher: Okay, so what you’re saying is – stay right there – what you’re saying is 8/12th is equivalent to 4/6ths.  Is that what you’re saying?  If you agree say, “Yep.”
+multiple students: Yep.
+teacher: All right, thank you, have a seat.  Now let’s talk about what Student M was saying.  She was talking about multiplying, right?  One times two is two and three times two is…?
+student: Six.
+teacher: Six.  And when I multiply by two over two it’s the same as multiplying by…?
+student: Four.
+multiple students: One.
+teacher: One.  Remember?  All right – put your hands downs so they can see around you – so about going from here?  I can’t multiply to get from eight to four; what’s the inverse of multiplication?
+multiple students: Division.
+teacher: So what do I do Student D?  The inverse of…?
+student: You divide.
+teacher: Divide.  And what do you divide eight by Student C, to get to four?
+student: Eight divided by two.
+teacher: Eight divided by two, so 12 divided by 2 is six.  Now the other thing to look at is if I could turn this I could make it cover the same direction as that piece, right.  What Student C?
+student: In every fraction do you multiply or divide by two?
+teacher: To get equivalent fractions you will multiply or divide, but not always by two, no.  In fact in 4th grade we really only have to work with fractions up to twelfths, but you can write fractions in as large of numbers as you want and they’re not always going to require dividing by two or multiplying by two.  All right, draw me another stick Student C.  Student C, I want you over here, please.  Thank you.
+teacher: Who do we have Student C?
+student: Student M.
+teacher: All right Student M, come on a drive some fractions around over here.  Student A, put that in your pocket – or down in your hand would be good too.
+student: Where’s –?
+teacher: He’s coming; he’s just moving slow this afternoon.  All right Student M, talk to us.  Watch what he’s doing because you need to know if he’s correct or not.  Student K, you’re not with us.  If you want to grab the pen and write anything feel free.
+student: Okay.
+teacher: You’ve got to grab the pen first.  You’ve got to grab the pen.
+student: Oh.
+teacher: Which one is 2/5ths?
+student: That one.
+teacher: Okay.  So what are you going to match it up with?  Let him get it.  Student J, stay with us.  The rest of you should know which one it is.  All right, now tell us why you chose that one.  You said 2/5th was a yellow, so why did you choose the green?
+student: Because four is half of ten.  No four is a third of ten.
+teacher: So 4/10ths is equivalent to…
+student: Four-tenths is equivalent to 2/5ths.
+teacher: There you go.  I just wanted you to use that language.  Yes Student D?
+student: I was going to say something about the last one –
+teacher: Uh-huh.
+student: – three-fourths.  The number over there is 6/8ths and if you add two more that would be [a whole number.]
+teacher: So we have 6/8ths over there and now we have 3/4ths, right?
+student: Yep.
+teacher: And if they’re both even numbers it seems like dividing by two is the right thing to do doesn’t it?
+student: Mm-hmm.
+multiple students: Yes.
+teacher: All right, what were you going to say Student Z?
+student: I think the one that I did, I just look at – I would look at the smaller fraction and then I would just take it and split the sections that are not shaded and just split them into two and then see if it matches that one.
+teacher: Okay.  Good thinking.  Good thinking.  All right, let’s just see what else we have here.  Hang on; we’re going to come back to your comments and questions in just a few minutes.
+student: Okay.
+teacher: All right, pretty simple question; we’ve got halves here but the question asks ‘how many sixths equal one-half?’  So if it’s six pieces what’s our denominator?
+multiple students: Six.
+teacher: Six.  So everyone should be able to look here and see what the numerator’s going to be.  At the count of three whisper the numerator to me; one, two, three.
+multiple students: [Inaudible comments.]
+teacher: Oh, I heard one and I heard something else.  Look at this one. How do we get from two to six?  Do we multiply or divide?
+multiple students: Multiply.
+student: By three.
+student: I said three.
+teacher: What are we multiplying by?
+multiple students: Three.
+teacher: Three.  Whatever we do to the – what do we call it?
+multiple students: Denominator.
+teacher: We do to the numerator.
+multiple students: Numerator.
+teacher: So if we multiply two times three we have to multiply one times three, so it is three.  Isn’t three half of six?
+multiple students: Yes.
+student: Yes, because three plus three is six.
+teacher: I’m going to wait for just a second because I have two of our friends who aren’t with us right now.
+student: And six minus three is three.
+teacher: All right, and we can drag the six from here if you take a look.  This is like the page we were just looking at.
+teacher: Don’t those three together –
+multiple students: Yes.
+teacher: – make one-half?  Okay?  All right, take a look at this one. It asks us ‘How many sixths equal 4-12ths?’  Well, what is our denominator going to be?
+multiple students: Six.
+teacher: Six.  Student C, you can’t possibly be paying attention if you’re not even looking.  So look at that equation – pay attention, this is what you’re going to be doing for a response shortly – pay attention, look at it, decide if you’re dividing by something or multiplying by something. How many of you say we should multiply?  How many of you say we should divide?  All right at the count of three tell me what to divide by.  One, two, three.
+{
+    "your_reasoning": "The teacher and students engage extensively in reasoning about equivalence, using multiple representations, inverse operations, structural relationships between numerators and denominators, and generalizable rules (“whatever we do to the denominator we do to the numerator”). Students justify choices, question procedures, propose strategies, and connect visual models to multiplicative transformations. The segment sustains a focus on meaning and mathematical structure, with rich discussion and active student reasoning rather than procedural execution, creating a mathematically saturated environment."
+    "rating": 4
+}

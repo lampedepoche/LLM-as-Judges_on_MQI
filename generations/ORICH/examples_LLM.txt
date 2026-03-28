@@ -1,0 +1,89 @@
+teacher: Boys and girls, please come quietly to the meeting area.  Come
+student: Basically understand what it is, what it's trying to say.
+teacher: What it means?  So read and tell what the fraction notation means, what's it saying about whatever it's describing.  Do you understand that?
+multiple students: Yes.
+teacher: Okay.  Then we're also going to be working within the same unit, Student V, ordering fractions with like and unlike denominators.  That means we may talk about unlike and like, one fourth plus one fourth, same denominators but one fourth plus one eighth different denominators.  Do you understand that?
+multiple students: Yes.
+teacher: That's like and unlike, and we're going to read, write, and interpret decimal fractions in tenths and hundredths. These are all the objectives we'll be working on within this unit, but I want you to take just about five minutes to copy those objectives in your notebook, quickly as you can, so you'll know some of the things we're trying to do within this unit on fraction and decimal squares.  Student M, if you can't see, will you please move up?  I'm going to keep moving.  You have five minutes to copy these objectives down, and then we're going to move. I'm going to tell you what we're going to do today.  While you guys are writing that down, I am going to write down something else on the board for you.  Okay.  People should be just about finished copying.  If you did not finish copying objectives for today, you can come back later on and copy it.  On the side of your margin, just on your notebook so you'll have it, would you just copy down these fractions please, one fourth, two thirds – Student C, pay attention.  We're copying these on the sides of our notebooks, just like I have it right here.  You're not drawing them.  You're just copying the fraction.  What's the problem?  What's wrong, Student C?  One fourth, two thirds, two fifths, six twelfths.  Copy it on the side of the margin.  Five sixths – we're going to use this in a minute.  Just copy this down.  Three sixths.  One third.  One sixth.  Four twelfths.  Four sixths.  Two fifths.  Guys, don't do this. I was leaning on the side and I copied it like this.  Don't do it like that.  Do it so you can read it, three fourths, or make it so you can read it.  Don't do it so it's not looking like a fraction.  Where was I?  Two fifths, three fourths, one twelfth, three fourths, three fifths, and four fifths.  Just copy them down so you'll have them, and I'll have them too.  Remember yesterday we were – the other day we were looking at rectangles that were 4 by 6.  I'm going to pretend this is exactly my 4 by 6 rectangle.  I'm going to name it 4 by 6 even though I'm not drawing the squares, and I asked you to divide it in half.  We had to divide it in fourths, and we looked at the different ways of dividing the fractions, and parts.  The whole piece in fractional parts.  We're going to do some of the same thing today, Student G, but today we're going to do something a little bit different.  We're going to look at a 4 by 6 rectangle, and a 5 by 12 rectangle, and we're going to do something like this.  So take your – I'm going to draw a 4 by 6 rectangle, and I'm going to put the lines in.  They're not going to be even because I'm not drawing them perfectly. 1, 2, 3, 4, 5.  We're going to pretend.  Just pretend that I drew that even.  We have a 4 by 6 rectangle.  How many square units are those?
+student: 24.
+teacher: I want you to divide this 4 by 6 rectangle into halves.  So half of 24 is what?
+{
+    "your_reasoning": "The segment focuses on copying objectives, listing fractions, and performing straightforward partitioning of rectangles. The tasks remain procedural, with no development of underlying concepts, no exploration of relationships among representations, and no student reasoning elicited. The mathematical work is limited to routine steps (copying fractions, identifying half of 24), with no opportunities for inquiry, justification, or deeper meaning-making."
+    "rating": 1
+}
+
+
+teacher: Okay, good.  Okay, so let me slip away from the homework page and we'll get started.  Okay, so just like yesterday to warm us up a little bit before we go, a little mental math estimation.  Can somebody solve for me, in your head, 35 times 4?  Student A, what are you thinking, 35 times 4?
+student: Hundred forty?
+teacher: How'd you get 140?
+student: Because I did 2 times 35 is 70 and then – okay, 2 times 35 equals 70.  So I added 70 plus 70 or 2 times 70 and took away the 0.
+teacher: Seven and seven is?
+student: Two times seven is fourteen and I added the zero.
+teacher: Excellent.  So she used doubles, right?  She doubled 35 and got 70 and doubled it again.  Is there a different way you could've done 35 times 4 in your head?  Student C, what else could you have done?
+student: Thirty times four equals a hundred and twenty.  Five times four equals twenty.  A hundred twenty plus twenty equals one forty.
+teacher: Okay, really good mental math.  Two different strategies.  What if you do 55 times 3?  Student E?
+student: One hundred sixty-five.
+teacher: And where'd the 165 come from?
+student: I know that 50 times 3 equals 150 and 3 times 5 equals 15.  So 150 plus 15 equals 165.
+teacher: Excellent.  Gosh, your mental math is really, really, really amazing compared to the beginning of the year when we were still working on, like, 6 times 7 and now we're doing 55 times 3, 45 times 4.  All right, one more.  Can you do – let's make a larger number – can you do 75 times 4? Student S, can you do 75 times 4?
+student: I'm not sure it's right but –
+teacher: What would you think in your head for 75 times 4?
+student: Five times four.  Four times five which is twenty and then seventy times four is twenty-eight.  Add the zeros, it's 280.
+teacher: So you did 280 and you have the 20?
+student: Two hundred eight plus twenty is three hundred.
+teacher: Who agrees with that?  Three hundred?
+student: Me.
+teacher: For 75 times 4, breaking it up, multiplying the tens, multiplying the ones, and then combining it make for some good mental math.  Good work.  Okay, so yesterday we did some estimating, right?  And we worked on estimating and comparing.  Let me make this bigger.  A number to an equation.  And we used estimation to see which is bigger. We didn’t solve it exactly, but we estimated to see which would be the larger number.  We compared them.  If you look at 250 and we're comparing that to 5 times 48, I don't want you to solve it exactly.  I want you to think.
+student: I see which one's bigger.
+teacher: Which is bigger?  Without solving exactly, do you know in your head a way to figure this out mentally?  One, two, three, four, five, six, seven – seven people have an idea.  What are you thinking in your head, Student C?  I see you looking at it.  What are you thinking about?
+student: I can split the 48 up to explain.
+teacher: So you're thinking you could split the 48 and do some mental math.  Mm-hmm, one way would be to do like we were just practicing, some mental math with the 5 times 48.  Can you do it without having to solve 5 times 48?  What do you think, Student J?
+student: You could estimate 48 to 50 and then multiply 5 times 50 which would get you to a friendly.  And 5 times 50 –
+teacher: You said 5 times 50 is a friendly estimation.  You rounded it?
+student: Yeah, and 5 times 5 equals 25 and then put the 0 on the back would give you 250, but that's not the exact equation that we're using.  The number is a little bit lower so we know that 250 has to be larger.
+teacher: Excellent.  So can somebody repeat what Student J just said and make sure this makes sense to us?  He told us that the 250 is going to be larger and why was that, Student C?
+student: Because 40 is lower than 50.
+teacher: Forty is less than fifty or our forty-eight is less than the fifty?
+student: Our 48 is less than the 50.
+teacher: Okay, Student J, can you explain that again?  That's true, Student C.
+student: Two things.  One that he said that 48 rounded to 50 will make a close estimate.  He said 5 times 5 is 25; add the 0 is 250. Since it's lower because the actual equation is lower, that he knows that 250 is greater.  Another thing I was going to say is like we could 5 times 40 and try to figure out with just 250 and then you could sort of do 5 times 8 which is easier.  I think it's a little bit easier.
+teacher: Okay, that'd be solving it exactly, right?  But I like what you said about Student J noticed this friendly fact.  He kind of did a mental estimate and said, wait a minute, 5 times 50 is 250.  So I know that this is 5 times 50.  And like you said, the real problem is lower, right?  This was an overestimate.  So we know that 5 times 48 will be less.  So we need to have the sign eating the larger number, right? Two hundred fifty is greater than five times forty-eight.
+student: How come –
+teacher: Will you close the window for me, please?
+student: How come that's a plus instead of an equals?
+teacher: Great question.  It should’ve been an equals sign, right? Okay.  Last one like this, 3 times 27 or 90?  Which one would be larger, the 90 or the 3 times 27?  That's good. Thank you.  All set.  Student X, what are you thinking?
+student: You can estimate the 27 to the 30.  So 3 times 30 is 90.
+teacher: You said 3 times 30 is?
+student: Ninety.
+teacher: Interesting.
+student: So that one wasn’t bad because if you round it up, it was going –
+teacher: So you know 3 times 30 is 90.  This is like equivalent – equal to 3 times 30 over here.  That would be equal to 90.  So 3 times 27?
+{
+    "your_reasoning": "Students engage in explaining multiple mental-math strategies, comparing approaches, and using estimation and rounding to reason about relative magnitude. The teacher elicits student thinking, asks for justification, and encourages interpretation of another student’s reasoning. However, the mathematics remains within routine estimation and decomposition of numbers rather than extending into deeper structure or generalization. The work contains clear meaning-making but lacks sustained exploration or higher-level inquiry."
+    "rating": 2
+}
+
+
+teacher: Thank you.  Good morning, boys and girls.
+multiple students: Good morning, Mr. R.
+teacher: Today we are going to be using our fraction cards to play a game called Capture Fractions.  While we are playing this game, we are going to be comparing two fractions to find out which one is larger and then we are also going to be looking at equivalences.  We are going to use everything we know about fractions so far in making those comparisons. We can use the diagram.  We can use cubes. We can also use a 4x6 green.  Anything that will help you to make the comparison that will help us find the classroom.  You can those tools today.  So this is our objective for the lesson.  You will be able to interpret the meaning of numerator and denominator of a fraction.  Also you will be able to identify equivalent fractions.  Who can remember what equivalent is?  Student F?
+student: The same value.
+teacher: The same value.  Two numbers or two fractions that have the same value.  Equi means equal.  Valent means value. Equivalent.  Okay, I'm also — we’re going to order the fractions and justify the order to reason about equivalences.  So you're going to be ordering fractions to say which one is larger.  Is one half bigger than one fourth and why? The way you justify your action depends on why.  You're going to put up an argument.  This is my reason for saying that this fraction is larger.  So you're going to be recording your work on activity book page 33.  This is our homework, page 34 and 35 and then you have pages in the math handbook too where you can refer to for extra information. So right now in the next couple of this we are going to be comparing and ordering fractions with using our fraction cards that we all made in groups.  So for this morning we are going to look at one, two cards.  This look like the card that we made in our class.  So we have — somebody read us the name of this fraction.
+student: Two thirds.
+teacher: Student L, are you part of this lesson?  It doesn’t look like you are.  You need to turn us round and look this way. Turn your body around.  Move your body, 90 degree turn. Move.  And you too, turnaround your back to Student L, Student M.  And you too.  You need to sit right in there. Good.  Can you read the name of this fraction, Student L?
+student: Two thirds.
+teacher: Two thirds.  Why is it called two thirds?
+student: Because two is shaded in and it’s three parts.
+teacher: There are three in parts and two is shaded in.  Somebody else read this fraction for us.  Student E?
+student: Five sixths.
+teacher: Five sixths.  Why is it called five sixths?
+student: Because you have five parts and five — no, you have six parts and five of them are shaded.
+teacher: Shaded.  Thank you.  So the denominator, which is the bottom number in the fraction, names the fraction or names the size of the parts.  So and the numerator tells us how many of those size parts we are — we have or we are considering. The denominator tells you the name of the fraction or the size of the parts that you made out of your whole thing or out of anything, the size of the parts.  Numerator tells you how many of those size parts you are talking about. So when you have a fraction, always remember to look at the denominator in order to be able to name it.  The denominator names the fraction or tells you the size of the parts.  Numerator tells you how many of those parts is under consideration or you have in your hand.  So this is two thirds and this is five sixths.  What can you tell me about the wholes from which this fractions are made?  And the whole is the same size or different size?
+multiple students: Different.
+teacher: The wholes are the same.  You cannot compare two fraction except are made from the same size whole.  This whole here, this fraction whole is the same size as that right angle and that is what it looks like on the cars you made. You're studying the whole that was a square.  Some of them we cut into thirds, some were cut into sixes, and then you had nine wholes for you to use to make halves and fourths and eighths.  So the whole must be equal. If the whole is not the same size, you cannot use that to compare fraction.  Because if you have this big and this, you are comparing two things.  You are comparing two fractions.  If I start with this whole, I cut this whole into halves and I cut the whole this one into halves.  Which one do you think will be a bigger half?
+student: That one.
+teacher: The one that came from my book, right?  Because the whole is bigger than this.  So for me to make a fair comparison, the two wholes from which you are getting the fraction must be the same size.  Then you can just be firm of that you are making those sizes and you can see the relative amount of each piece, relative size of each piece, and then you know that one is not cheated because they all came from the same size whole. The question is which is larger.  Which section is larger, two thirds or five sixths?  Up here on the board, I gave us a sentence staarters.  Sentences that you can use to start your argument about which — how you know one is larger and one is not.  So I want you to just think about it and talk to somebody sitting next you which one you think is larger. I'm going to give you guys two minute to talk about it. Student F and E, you guys are talking about the fraction. Which one is larger?
+{
+    "your_reasoning": "The segment sustains a focus on conceptual fraction reasoning: interpreting numerator/denominator, ensuring same-size wholes for valid comparisons, using multiple representations, and constructing and justifying arguments about which fraction is larger. Students are asked to reason, explain, and defend claims, and the teacher presses for meaning, not procedure. The mathematical ideas (equivalence, relative size, fairness of comparison, structure of fractions) are explored in depth with explicit support for mathematical practices such as justification and reasoning."
+    "rating": 3
+}

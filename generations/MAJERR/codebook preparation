@@ -1,0 +1,31 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Mathematical Content Errors" which intends to capture, on a three-point scale (Low, Mid, High), events in the segment that are mathematically incorrect. For example:
+- Solving problems incorrectly
+- Defining terms incorrectly
+- Forgetting a key condition in a definition
+- Equating two non-identical mathematical terms
+
+Mathematical errors that are made by students and endorsed by the teacher (e.g., leaving it on the board, saying it is correct, adopting an incorrect definition of fractions) should be counted here. Also score here if the teacher evaluates a correct solution method as incorrect.
+
+Do not count
+- Intentional errors (teacher following a wrong student idea or doing a procedure incorrectly to make a point)
+- Errors that are corrected within the segment
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Low
+  - A brief content error. Does not obscure the mathematics of the segment.
+  - Example: When solving a multi-step problem, the teacher makes a calculation error in the last step, which results in an incorrect answer. Other similar problems are solved correctly.
+- 2 = Mid
+  - Content errors occur in part(s) of the segment.
+  - OR Error(s) obscure the mathematics, but for only part of the segment
+  - Example: The teacher’s discussion the solution to a problem is incorrect. This discussion is more than brief, but correct mathematics also occurs more than briefly during the segment.
+- 3 = High
+  - Content errors occur in most or all of the segment.
+  - OR The errors obscure the mathematics of the segment.
+  - Example: The teacher uses an inappropriate metaphor for most of the segment (e.g., in a graph comparing distance and time, the teacher refers to the upward slope as runner going up the hill, flat slope as runner running straight).
+
+
+Provide a very concise reasoning and the integer corresponding to the score (1-3)

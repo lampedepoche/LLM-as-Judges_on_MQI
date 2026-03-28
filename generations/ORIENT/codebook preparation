@@ -1,0 +1,11 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Orienting" which captures, on a binary scale (Not Present, Present), the extent to which the lesson orients students toward the mathematical content to be learned: clarity of the objectives, contextualization of the activity, connection to prior knowledge, and explanation of what will happen and why it matters.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+
+**Here is the scale along with the reasoning behind it:**
+- 0 = Not Present
+- 1 = Present
+
+Provide a very concise reasoning and the integer corresponding to the score (0-1)

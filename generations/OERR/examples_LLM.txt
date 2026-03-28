@@ -1,0 +1,82 @@
+teacher: Okay, boys and girls, make sure that you are listening, you can hear me, you can see me.  If you cannot hear me or see me, if your back is towards me you need to just flip your chair around so that you can see me.  The first thing that we’re gonna be using in our math class is our math notebook.  So we’re gonna talk about we just started a new unit called Landmarks and Large Numbers, and you guys remember that we started talking about how we’re gonna use our thousand book to be able to read, to write and sequence numbers.
+teacher: In order to be a good mathematician, you need good math language.  So in your notebooks please, you put your name and the date on a clean page.  And we’re just gonna set this up and we’re gonna use this page at the end of the class.  I’m gonna give you the math language.  I’m not gonna take a long time to give the list to you, but I want you to listen to the words that you’ll be using in this math time.  Student J, could you turn around?  Student G, could you listen to the words?  I’m gonna read them: order, number line, place value, digits, value of the digit, ones, tens, hundreds, thousands, ten-thousands, hundred- thousands, millions, landmark number, multiple, multiples, multiples of ten, multiples of a hundred, multiples of a thousand.  What is multiples of ten?  Could that be a landmark number in our thousand booklet?
+multiple students: Yes.
+teacher: 10, 20, 30, 40, 50, 50, 60, 70, 80, 90, 100.  Multiples of 100 could be a multiple that we list in our thousand booklet, some add-ins and there’s lots more.  So I’m gonna give you those lists and mathematical terms later on.  So just put your notebooks to one side.  All right, as a review from the other day, we started our math notebook and we started on the first page.  We had 1 to 100.  On the second page we had 101 to 200, third page 201 to 300, fourth page 301 to 400.  Remember, the goal of this lesson so far, these first four pages is to be able to read, write and sequence numbers to 1,000.  Student D, what does the word sequence mean?
+student: Put them in order.
+teacher: Put the numbers in order.  And as part of this work, in partners you chose a way to put some numbers already in your book.  Student M, you and your partner, what numbers did you decide to put in your thousand booklet?
+student: Me and my partner decided to do –
+teacher: Could you speak up, Student M?  I can’t hear you.
+student: Me and my partner decided to do 5, because when you have 5 then it’s easier to find the other numbers around it.
+teacher: Okay.  Are you saying that you decided just to put five numbers?  What are you telling me?  As a mathematician, what are you telling me?
+student: We put 5, 10, 15, 20, 25, 30, 35, 40, 45, 50.
+teacher: Okay, Student M, what do we call those numbers?
+student: Landmark numbers.
+teacher: Landmark numbers.  What else can we call them?
+student: Multiples of 5.
+teacher: Multiples of 5, good.  That’s a nice strategy.  Somebody else tell me how they put numbers in your book, you and your partner.  Student D.
+student: Me and my partner put 1, 11, 21, 31, 41, 51, 61.
+teacher: Can you speak up a little louder and look at me, Student D?
+student: Me and my partner put 1, 11, 21, 31, 41 and so on, and we also put 5, 15, 25, 35, 45 and so on, and the reason I put those for the first column of ones is so that you would know which row your number would be in.  If you try to find 54, you would know that it would be in 51.  And the reason that I put the fives is that you would know which side of your paper to read on, because the fives are in the middle.
+teacher: Okay.
+student: And for the 50 which side they are on.
+teacher: Okay.
+student: Top to the bottom.
+teacher: All right.  So he’s using a strategy, a particular way he put the numbers in his book so it would be easier for him to find where to place other numbers.
+teacher: Student J, excuse me.  We’re recording today, so you can just join a group.  Just pull up a chair and join a group.  You can just participate with us.  Just jump into the math conversation.  Student J, you can your partner, how did you put the – what numbers did you put in your book and why did you put them in your book that way?
+{
+    "your_reasoning": "The teacher presents and reviews standard terminology and number patterns without introducing incorrect definitions or misleading procedures. Language is generally precise (e.g., place value terms, “multiples,” “landmark numbers”) and mathematical statements are accurate. Minor repetitions or momentary hesitations occur, but there are no substantive mathematical errors or persistent imprecision that would interfere with understanding."
+    "rating": 1
+}
+
+teacher: Okay, let’s get started here.  Just put your scissors down. You don’t need them right now.  Who can tell me what I’m holding?  Student N?
+student: A little, small cube.
+teacher: A small cube, it’s smaller than the cubes that we’ve been using.  We’ve been using cubic inches.  This happens to be a cubic centimeter.  And what we are going to do today is determine how many of these cubic centimeters will fit into this box and you’ll be getting the pattern and creating the pattern.  Now, we don’t have enough cubes for each one of you to take all of these cubes and put them in here and put them in.  So what you are going to want to do is come up with a strategy to determine how many of these cubes will fit in this box.  You will get a  pattern.  You will get a bag of cubes.  I’ll put some cubes on your desk.  And you will also get a ruler. On one side of the ruler, you’ll see the measurement for inches.  And on the other side of the ruler, you’ll see the measurement for centimeters.  Which type of measurement is greater? Centimeters or inches?
+student: Centimeters.
+teacher: Centimeters or inches?
+student: No, actually—
+teacher: Yes, because the centimeters is smaller than an inch.  A centimeter is half of an inches, and we know that 12 inches equals, Student R?
+student: One foot.
+teacher: One foot.  So, today what we are going to do is take, you are going to get a box pattern and we are going to determine how many cubes fit into the box and that will help us determine what?  I have these cubes, I need to find out how many cubes will fit in this box.  Once I do, I think know the answer for what?  Student L?
+student: The volume.
+teacher: The volume.  And what does the volume tell us?  I don’t want you to tell me now.  I want you to think on this as we work on this.  Paper passers please.  I need all paper passers to come on up here.  Give everybody a ruler.  Hmm?  Yes, you can work as a group to determine how you are going to find out how many cubes fit in the box.  You are going to cut out the cubes, cut out the pattern.  And on the solid line is where you are going to be folding.  First cut out the pattern.  First cut out the pattern and then I’ll come around and give you tape. You can actually work as a group or if you and someone on your team want to go off and work as a pair, that’s fine too.  I gave you cubes. So go ahead and cut out the pattern.  Open up your math notebook and what I would like for you to do, yes?
+student: Was I supposed to give the rulers to Student B?
+teacher: Yes, everybody needs a ruler.  Did you have enough?  No?  Then if you didn’t have enough, who did not get a ruler.  Okay, Student G can you give Student J a ruler?  And Student A. You can use the ruler if you want, or you can use the cubes.
+student: I have two rulers.
+teacher: We’re using the rulers that are in front of you.  Is that, you got it Student D?  Remember you are cutting little pieces from your tape.  This is the tape that you get.  You just cut little pieces to close your pattern.  NO, so boys and girls, look up here for a second.  You are only cutting the dotted lines.  So, the solid lines is where you are folding to create your box.  So, if you look up here.  This is what it looks like.  I didn’t close it just in case I need to put things in.  You are not to fill it up.  You need to decide how you are going to determine how many cubic centimeters fit in this box.  And you are thinking about how you are going to determine how many fit in. Are you talking about how you are going to determine.  I need you also, just so you know, I need you to really speak up as you are talking about.  This is the only time, I don’t want to say scream, but I want you to talk.  Make sure you are very clear when you are talking about your strategy and how to determine.
+{
+    "your_reasoning": "The teacher gives mostly correct information but introduces a notable mathematical inaccuracy (“a centimeter is half of an inch”) and briefly affirms a student’s incorrect comparison before clarifying. This error concerns fundamental measurement relationships and can mislead students about unit size. While the rest of the segment is procedurally clear, the presence of this incorrect statement creates imprecision that affects the mathematical content for part of the segment."
+    "rating": 2
+}
+
+
+teacher: All right, I think everything’s go for the cameras.  We’re going to start off today just by doing our daily word problems.  I’m going to pass these out real quick, and what I want you to do, if you would, is try to solve these problems.  Remember just to try to use everyday kind of logic. Don’t try to think about it too much, just try your best on these, Okay?  What I want you to do is probably just – why don’t we just stick with the second one where it says “Thursday Week Seven.”  You don’t have to do the first one right now; we’ll come back to that. Let me just read this real quick while you’re kind of working on it. It says, “Miss W’s class read for a total of 450 hours this month.  Mr. G’s class read two-thirds the number of hours read by Miss W’s class.  Miss R’s class read twice the number of hours read by Mr. G’s class.  If there were a total of 90 students in these three classrooms, what was the average number of hours read per student?” What was the average?  Remember we were doing a little bit of averaging yesterday?  So what you need to do is find the total of hours and divide that by the number of students. That will give you the average that each student read. So we have 450 hours this month that these 90 students read, right? So what is the average?  They’re asking you, what is the average amount?  Maybe they had one super student that read all 450 hours, right?  And then the 89 other students didn't read at all.  But they’re looking for the average. Go ahead.
+student: The answer?
+teacher: Go ahead, what do you think?
+student: I think the answer is five hours per student.
+teacher: Five hours per student.  And how did you figure that out?
+student: Because I just thought about it without the zeroes at the end, I thought about 9 times 5 equals 45, so that means 90 times 5 must be 450.
+teacher: Okay, so you see, you figured it out just kind of by thinking about it.  Right?  You said 9 times 5 is 45, so you knew – what was the next comment you said?  You knew…
+student: That helped me figure out 90 times 5.
+teacher: 90 times 5 equals 450.  So getting back to the question, what’s the average?  What is the average?
+student: 450?
+teacher: Is it 450?  Is it 90?  Or is it 5?
+student: 5.
+teacher: 5 hours.   So you’re saying each student read 5.
+student: Right.
+teacher: Okay?  So if we did that in this classroom, we have 14 students in this classroom, and if each student read for 5 hours a night. 14 students in our class.  5 hours.  5 hours for the month.
+student: 5 times 14.
+teacher: 5 times 14 is how much?
+student: There’s 14 students so, if five times 10 is…
+student: 70.
+student: If 5 times 10 is 50 then you have five times 4, and 70.
+teacher: 4 times 5. common, the 7 equals the 14, and then the 14 minuses the 7, and that makes it 7.
+teacher: All right, and so what’s 4 times 5?
+student: 4 times 5 is 20.
+teacher: And then we can add the 50 and the 20 together and what do we get?
+student: Then we get 70.
+teacher: Excellent job.  Did anybody else get that or kind of understood that?  Because we haven’t done a whole lot of averaging. That’s good.  We just kind of did it yesterday, we started with it, so I’m glad to see that you guys picked it up a little bit. So here’s our table of contents.  Take out your math notebooks please.   And today we’re going to be talking about symmetry, fractions on a number line.  So we’re going to continue our fractions.  We’re going to talk a little bit about symmetry.  Symmetry.  Symmetry, what is symmetry? Hold on, hold on.  Did I spell that wrong?  I did spell that wrong.  You guys.  S-Y-M-M-E-T-R-Y.  Symmetry.  My bad. And does anybody know what symmetry is?  It’s one of those math terms, it’s one of those words that is real, real specific to math.  Well, not really I guess.  What do you think, Student L?
+student: I think it’s like if you cut the class in half, and then like put a mirror in front, and put the class together on the other side.
+{
+    "your_reasoning": "The teacher introduces a significant mathematical mistake by immediately treating 450 hours as the total to divide by 90 students, ignoring the problem’s additional relationships involving two other classes’ reading times. This collapses the multi-step computation into an incorrect single step and models an invalid solution path for students. The error persists through the discussion, fully determining the reasoning used and obscuring the correct mathematics of the task."
+    "rating": 3
+}

@@ -1,0 +1,40 @@
+teacher: Okay.  We are going to be doing popcorn fractions today.  What I want you to do first is you should have a napkin at your desk.  Go ahead and unfold your napkin so it is completely out.  Okay.  Student M and Student S are bringing you a bag of popcorn.  What we’re going to do with this popcorn is have to imagine a little bit, have to pretend, okay?  Now realistically when you pop a bag of popcorn you have more popcorn in your bag than this, right?  But we’re going to have to use our imaginations and pretend this is a bag of popcorn you just took out of the microwave.  What I want you to do is at your table, pick a partner.  It has to be somebody sitting across from you or next to you, okay?  So we have a partnership here, here, an here, and my three ladies here, can you be a group of three?  So what’s going to happen is we’re going to practice adding fractions with unlike denominators. What I want you to do first is open up your bag of popcorn onto your napkin.  You may not eat it yet.  I promise you’ll get to eat it, but not yet.  What I’d like you to do is go ahead and count how many you have.  I will tell you when you can eat and what you can eat, nothing yet.  Okay.  Sometimes popcorn is kind of fragile and it breaks.  Everyone should have 24.  Raise your hand if you have 24.  Okay.  Raise your hand if you have more than 24.  If you have more than 24, I want you to eat as many pieces as you have to so you have 24.  Double check and make sure you have 24 pieces.  So you have exactly 24, yes?  You just counted them.  You’re trying to cheat and eat a piece.  I heard you.  You have 24.  How many do you have, Student K?  Oh my goodness.  Come on.  Okay. 1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Seriously?  1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Okay.  So how many pieces are there in all?
+multiple students: 24.
+teacher: So what is our denominator for how many we have here?
+multiple students: 24.
+teacher: Because our denominator is always what?  How many we have in all.  Now with your partner we’re going to practice adding fractions with unlike denominators.  Okay.  So what I want you to do is decide who is person A and person B in your group.  In my group over here, one of you is going to have to sit out for this one. Okay.  So establish who is person A and person B. Okay.  Person A, what I would like you to do is split your popcorn into groups of 8.  Okay.  So each group should have 8 kernels in them.  Person A, you’re splitting it so each person has 8 kernels in a group. See how everyone else has their napkins unfolded? Just person A.  Okay.  So my people that split them into groups of 8, you have how many groups in all? Three groups in all.  Everybody see that?  What I want you to do is put two of those groups back into your Ziploc bag.  Okay.  Person B, I would like you to split yours so you have 6 pieces of popcorn in each group.  6 in each group.  If you have 24 kernels, you should have 6 in each group.  Okay.  You did something wrong.  You don’t have 24 kernels. Okay.  My person B, if you’re a B person, I asked you to split it so you have 6 popcorn kernels in each group.  How many groups do you have?
+multiple students: Four.
+teacher: I would like you to put two of those groups into your bag, so you have two groups left out.  My A people, look up here.  So you had how many groups in all?
+multiple students: Three.
+{
+    "rating": 1
+}
+
+
+teacher: 2, thank you. So now we have the bottom row.  The first row has 4.  We were able to do another row in the back, but we couldn't do any more because we’re almost full.  How many packages are on the bottom row, student R?
+student: 8.
+teacher: 8 packages, very good.  On the bottom row how tall are those packages, who remembers, or you can look on the board. Student C, how tall is package A?
+student: 5 feet.
+teacher: Box 1 is 5 feet, but I asked you how tall package A was.
+student: How tall?  I don’t know.
+teacher: Student Y?
+student: 3 feet.
+teacher: 3 feet, thank you.  Student C, here it is right here, 3 feet. Okay?  The box is 5 feet tall.  Can I stack another package on the top, Student C?
+student: No, because then it will be 6 feet, won’t it?
+teacher: How do you know that?
+student: Because 3 x 2 equals 6.
+teacher: Okay, so if I had my packages and I put it on top, it would be too tall now because the box is only 5 feet or 5 cubes, and now I have 6 cubes tall.  So if I ask you how many package A can I fit in this box altogether, what would you say? How many package A fit?  And we’re going to stop, because I wanted to review one more thing, and this is taking a lot time.  Student J?
+student: One.
+teacher: One package?  One of these fits in there?
+student: Eight.
+teacher: Eight of them fit.  So a lot of math is involved.  You need to do math to figure out how many of each size divides into it or multiplies into it, just like you were doing.  Okay? We’re going to review it one more time later on, because this is a big step for when you can actually just explore and prove it, okay?  Questions.  Student S?
+student: Can you put it sideways?
+teacher: That is an excellent question.  So if we had these stacked in the box, what about putting then other boxes on top like that, then would it fit into the box?  Student S?
+student: Yes.
+{
+    "rating": 2
+}

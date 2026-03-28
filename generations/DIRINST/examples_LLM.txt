@@ -1,0 +1,81 @@
+teacher: We have a minute to do our problems.
+student: Are we going to do times?
+teacher: Yes, we're doing our multiplication, times.  I'm all set? [Side Conversation]  Hold on guys.  Hold on.  We are starting now.  Who is my folder manager?  Is my folder manager absent today?  Student T, please hand it out.  You can hand out the math folders, please.  Just like we have done with our math, we are going to do our computation drills, two minutes, two minutes.  We're going to do our problem of the day, and then we're going to break up into math groups.  3rd graders, we're focusing on place value with Ms. M.  4th graders, we are talking about multiplication and repeated addition.  They are the same thing, so we're relating it all together, okay?  That's a very good question.  I will let you show your skip counting book at the end of math today, the one you created last year.  Does that sound good?  You asked me last time.  Yes. Student R had a question about the boy that just came into the classroom.  He will be here for reading.  He will come in the morning and he will be with us, just like Student M does, okay?
+student: And writing?
+teacher: Reading and writing.  The other boy that will start tomorrow, he will be with us all day long, Student R.  How long is he going to be with us?
+student: All day long.
+teacher: Okay.  His name is Student E.  What is his name?
+multiple students: Student E.
+teacher: He will be here tomorrow, all right?  Are we ready?  We're going to do our two minute drills.  If you finish the two minute drills early, go back and check your work.  I know with the addition and subtraction, it takes you a little bit longer, which is okay, but when you do your facts of the week, your multiplication facts of the week, some of you might finish  it like this.  You are to check your work.  If you are done checking your work, see if you can write some multiplication problems of your own.  That is only if you finish early.  Some of you might not finish it completely, but some of you might finish it very quickly, so now you know.  Student R, if you finish what are you going to do?
+student: I can draw a times question.
+teacher: Yeah, but the first thing you should do if you finish early is check your work.  Then you can make your multiplication problems.  Student Z, what if you finish early?
+student: Go back and check them.
+teacher: Then if you still – if you're finished after that.
+student: You make your own facts.
+teacher: You create your own facts.  Student T, can you tell me, what do you do if you finish early?
+student: Check it.
+teacher: Then?
+student: Make up your own facts.
+teacher: So we're doing our drills.  We're going to do our problem of the day, and then we're going to move into groups.  This first sheet, I'm going to tell you only once, check your sign.  Make sure.  Remember, you touch the sign first.  If it's addition, you add.  If it's subtraction, you minus, take away, subtract, okay?  Touch your sign.  You're going to do this one first today.  Put your name and date.  I'll put one on Student T's desk for when he's back.  Raise your hand when you have name and date.  Pencil down, Student Z. Okay.  We are ready.  Everyone's pencils still sharpened?
+multiple students: Yes.
+teacher: Student T, you okay?  Okay.  1, 2, 3, go.  Pencils down.  I'm going to hand you your next sheet.  Put your name and date. Raise your hand when you have your name and date at the top, please.  All right.  We ready?  Go.  Pencils down. You guys did a good job.  Wonderful.  Did you get time to check it?
+student: I tried to finish one and check it before I go to the next one.
+teacher: You guys were almost done.  The goal is – I said you were all almost done.  I know you finished it, but I mean that they were pretty close to finishing the whole sheet as well which is great.  The goal is at the beginning of the year you have two minutes, and by the end of the year you'll be able to start solving them so much quicker and accurately, meaning that you get the answer correct and you do it quicker.  Then we go down to one minute, if we can get there, okay?  Right now we're still at two, which is okay, but our goal is by the end of the year to be down to 1 and 1.  There are how many problems on these sheets?  Do you know?  There are 60.  So how many seconds are in a minute?
+student: 60.
+{
+    "your_reasoning": "The teacher gives procedural directions, manages materials, and structures tasks, but does not directly teach mathematical content or demonstrate how to solve problems. No explanations, modeling, or worked examples of multiplication, place value, or computation are provided. The focus is on logistics and routines rather than instruction in mathematical ideas or methods."
+    "rating": 1
+}
+
+
+teacher: What I’m going to ask you to do is those of you coming in right now; take out your math books.  Your snack is on your desk. The video recording is already set up, Student A, okay? So just come around here, you’re fine.  Just come around here.  Take out your math books.  And we’re going to pick up from the other day. What I’d like you to do, Student M, would you join us please?  You’ve got your math book?
+student: What page did you say?
+teacher: I’ll tell you in a second.  All right.  So in your math book, what I want you to do, if it’s not in your math book, it will be in your math folder.  I want you to just take a quick peek at Session 1-7  I believe it was page 31 that we did the other day and we’re going to do a similar activity today so I want you to take – peek back at what we did on page 31 before we move on to page 37.
+student: Session what?
+teacher: Session 1-7.  We did Session 1-7.  I believe it’s page 31.  And that was the win and loss records.
+multiple students: (Inaudible)
+student: Unit 6?
+teacher: Yep, unit 6.
+student: What if we don’t have it done?
+teacher: And if you don’t have it – no, this one we’re going to do today.  This is the one we’re going to do today.  I want you to take a look at what we did the other day because if we do that, I think if we do that things will run a little bit smoother, okay?   So does everyone have page 31?  Have a seat.
+multiple students: (Inaudible)
+teacher: Okay, that’s fine.  That’s fine.  I’m good.  All right.  So we did do page 37.  Could I see your book for a minute?  We’re going to take another look at this and I want you to try something else today, okay?
+teacher: Okay, if you don't have that, then just take out page 37, that's fine.  Okay?  Just follow along for now.  Okay?  So – and I also have it up on the Smart Board so just follow along; no, that's fine if you have that.  Okay.
+student: Can I get a paper towel (Inaudible)?
+teacher: Quickly.  All right, so.  You need to look on with someone if you don't have it.  Thank you.  Look on was someone if you don't have it.  So let's take a look. We want to find out who is winning and we are going to find a record for each set of teams and then we are going to rank them from the team with the best record to the team with the worst record.  And then you are going to write an approximate winning percentage for each of the teams. The difference is when we did this the last time, I made you do all of the work outright.  Today I am going to let you use your calculator.  Okay?  Who remembers what I let you use your calculator for the other day?  Who remembers?  Student L?
+student: To find out (Inaudible).
+teacher: Okay, after your assessment, we went over your assessment and you had a fraction.  And you knew how many problems you had to solve and you knew how many you got correct and from that, you found out the percentage you got on the test. Does everyone remember that?
+multiple students: Yes.
+teacher: And we found out the decimal equivalent.  We are going to do the same thing today.  Remember, I told you that we will do this sometimes because it is more efficient and as you get older, you will use a calculator more.  But if you don't understand the math concept and you are just using the calculator, it's not going to do you any good.  You need to understand the math concept and you need to be able to solve it on pencil and paper before you can use a calculator.  Okay?  So let's look at the page up here and if that's a little bit difficult for you to look at, then look at page 37 in your book.  Okay? Can you tell me, I'm looking at the wins and losses?  Can you tell me how many actual games there were altogether? So I'm going to find out what my actual denominator would be.  Just by – how would I find that out?  How would I find that out?  Anyone?  Anyone know how I would find that out?
+student: By (Inaudible) the lowest (Inaudible).
+teacher: All of them, all of them.  I believe they all have the same denominator, don't they?
+{
+    "your_reasoning": "The teacher reviews prior material, explains the task, and gives conceptual reminders (e.g., relating fractions, percentages, and decimals; clarifying why calculators can be used; discussing denominators). This includes some direct explanation of mathematical ideas, but it is brief and mixed with procedural directions. Instruction is present but not sustained or extensive."
+    "rating": 2
+}
+
+
+teacher: 2, thank you. So now we have the bottom row.  The first row has 4.  We were able to do another row in the back, but we couldn't do any more because we’re almost full.  How many packages are on the bottom row, student R?
+student: 8.
+teacher: 8 packages, very good.  On the bottom row how tall are those packages, who remembers, or you can look on the board. Student C, how tall is package A?
+student: 5 feet.
+teacher: Box 1 is 5 feet, but I asked you how tall package A was.
+student: How tall?  I don’t know.
+teacher: Student Y?
+student: 3 feet.
+teacher: 3 feet, thank you.  Student C, here it is right here, 3 feet. Okay?  The box is 5 feet tall.  Can I stack another package on the top, Student C?
+student: No, because then it will be 6 feet, won’t it?
+teacher: How do you know that?
+student: Because 3 x 2 equals 6.
+teacher: Okay, so if I had my packages and I put it on top, it would be too tall now because the box is only 5 feet or 5 cubes, and now I have 6 cubes tall.  So if I ask you how many package A can I fit in this box altogether, what would you say? How many package A fit?  And we’re going to stop, because I wanted to review one more thing, and this is taking a lot time.  Student J?
+student: One.
+teacher: One package?  One of these fits in there?
+student: Eight.
+teacher: Eight of them fit.  So a lot of math is involved.  You need to do math to figure out how many of each size divides into it or multiplies into it, just like you were doing.  Okay? We’re going to review it one more time later on, because this is a big step for when you can actually just explore and prove it, okay?  Questions.  Student S?
+student: Can you put it sideways?
+teacher: That is an excellent question.  So if we had these stacked in the box, what about putting then other boxes on top like that, then would it fit into the box?  Student S?
+student: Yes.
+{
+    "your_reasoning": "The teacher repeatedly explains the mathematical situation, guides students through reasoning about dimensions, stacking, and capacity, corrects misunderstandings, and models how to determine quantities using multiplication and comparison. The interaction is dominated by explicit mathematical explanation and step-by-step guidance."
+    "rating": 3
+}

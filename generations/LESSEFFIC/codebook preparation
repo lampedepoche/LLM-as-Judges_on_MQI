@@ -1,0 +1,28 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Lesson Time is Used Efficiently" which captures, on a five-point scale (from "Not at all true of this lesson" to "Very true of this lesson"), the extent to which lesson time is used efficiently; class is on task, and behavior issues do not disrupt the flow of the class.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Not at all true of this lesson
+  - There is a fair to large amount of wasted time. For instance:
+    - Teacher passes out materials at length while students are waiting.
+    - Transitions take a long time and require lots of teacher repetition of instructions.
+    - Teacher engages in off-topic conversation, distracting from the mathematics.
+    - Behavior management takes away from instructional time.
+    - Directions for launch are unclear, causing students to flounder mathematically until the teacher repeats them.
+- 2
+- 3 = Default score
+  - Lesson proceeds from one task/problem to another, yet there are minor distractions from the flow of the lesson. For instance:
+    - Transitions are not highly efficient.
+    - There is a brief off-task conversation.
+    - Behavior management briefly takes away from instruction time.
+- 4
+- 5 = Very true of this lesson
+  - The class is almost continuously working on mathematics. For instance:
+    - Teacher hands out materials during a time in which students are already working on another task.
+    - Transitions between groups and tasks are smooth and quick; students seem to know what to expect and get right down to business in their new stations.
+    - Teacher does not allow excessive time for students to solve problems.
+
+Provide a very concise reasoning and the integer corresponding to the score (1-5)

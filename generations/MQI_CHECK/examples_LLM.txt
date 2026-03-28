@@ -1,0 +1,519 @@
+teacher: Listen!  I need your attention.  Put the papers away that you’re getting right now because we’re doing a whole new thing right now in math and I need your cooperation. Student A, if you don’t stop talking.  Okay, I need everybody listening.  You know that for the past few weeks we’ve been working on rectangular prisms.  What are rectangular prisms?  Raise your hand and tell me if you know.  I think you should know, we’ve been working on it. Student, what are rectangular prisms?
+student: [Inaudible].
+teacher: Pardon me?
+student: A 3-D shape.
+teacher: A 3-D shape. Okay.  We’ve been using cubes or we’ve been making some of these rectangular prisms in the forms of cutting them out and taping them and so forth and so on. Another word that comes to mind that we’ve been taking about, and I think you know also, at least I hope you know, another word that we’ve talked about as we’ve been working on these things is dimensions.  Dimensions.  Who can give me the definition of dimensions?  What are dimensions of a rectangular prism?  Or dimensions of anything?  A piece of wood, a desk, whatever.  What are dimensions, Student M?
+student: It’s what’s around it.
+teacher: What’s around it?  But how would we determine that?
+student: Maybe like perimeters or –
+teacher: Perimeters.  Okay.  Yeah, like the dimensions of a perimeter.
+student: Two by four.
+teacher: Two by four.  How about dimensions of rectangular prisms?  How might we say the dimensions of a rectangular prism? We’ve been working on this, and what are the – say just give me an example of a rectangular prism.  What might be the dimensions?  What would the dimensions be?  Student J, what are the dimensions of like a rectangular prism?
+student: 20 by –
+teacher: 20 by – that’s okay.  20 by ?
+student: 10?
+teacher: 10?  By?
+student: By 5?
+teacher: By 5?  20 by 10 by 5.  Okay.  When we are giving the dimensions, we’re talking about the dimensions of a rectangular prism to find volume.  Volume is what we’ve been working on – volume.  So, the objective, there were two objectives today.  One of them is – in fact I’ll have someone read it for me.  Can you read the first objective, Student N, please?
+student: You should be able to develop a strategy for determining the volume of rectangular prisms.
+teacher: Right. Good, okay.  So, that’s going to be the objective we’re going to be talking about and working with right now.  So I want you to take out right now your math journals everybody.  Take out your math journals, please.  Take out your math journal everybody.  What I would like you to write in your math journal right now is today’s date, and I want you to write down a strategy for finding the volume of any rectangular prism.  What is a strategy that you would use to find the volume of any size rectangular prism? I want you to write it down in your words right now, please.  Put it in your words.  The strategy for finding the volume of a rectangular prism.  Use your words.  The strategy, please, for finding the volume of any size rectangular prism. It could be 3 by 12 x 15.  It could be 2 by 6 by 9.  What would be the strategy to find out the volume of the rectangular prism?  Write it in your words. How would you do that?  How would you find the volume of a rectangular prism?  When you’re done, just look up so I know you’re ready.  How many people have written a strategy down? The strategy to find the volume of a rectangular prism which could be any size. Any size.  Have you done that? How would you find the volume?  Who would like to be one person who would share with me how to do that?  How do we find the volume of any size rectangular prism?  You know, in the past what we’ve been doing is making these rectangular prisms, cutting them out, making boxes and taping them up.  Student B, what would you do?
+student: [Inaudible].
+teacher: You multiply the ?
+student: Length.
+teacher: Length.
+student: By the width.
+teacher: By the width.
+student: And by the height.
+teacher: By the height.  Could I use another word like depth?  If we have a rectangular prism, could I say length times width times depth?  Could I say that also for the height?  Right. If I said the rectangular prism was, for example, three – and what does that x mean?
+teacher: By.  3 by 2 by 5.  We know we have three units here.  First unit, second and third.  And the x’s mean by.  So what would the volume be of a rectangular prism that I had with those dimensions?  What would the volume be?  Student J?
+student: 30?
+teacher: 30?  30 what?  How are we going to label that?  How are we going to label that?  30 what?
+student: Cubic.
+student: Units.
+teacher: 30 units actually, yeah.  Units or cubes.  30 units.  Okay, great.  Okay, so you know that x means by.  We could say length times width times height, or depth, or height times width times length.  Any of those.  Those would be the three dimensions of the rectangular prism that we have made in the past.  So I want you right now to turn to your partner.  We might have one extra person here.  We have Student J.  Turn to your partner and explain to your partner how to find the strategy for finding the volume for any rectangular prism.  Any rectangular box.  Student J, I’m going to have you tell me.  Tell your partner what you’re going to do.  Tell me.  I know you kind of already told.  What would you do?
+student: Multiply the length times the width –
+teacher: Times the height.  Right.  And height could be the same thing as the depth also.  Good.
+teacher: Okay, good.  Good job.  Okay.  Good job.  Did I hear everybody telling their partner?  Share, share, share.  What’s the first thing you do?
+student: You multiply.
+teacher: Multiply the?
+student: Length times the width.
+teacher: Times the width times the height.  And in other words, the height could be what?  Begins with a D.  Depth.  Depth. Depth.  That means like the depth of a box.  It could also be the same thing as the height. Everybody’s very clear so you should be absolutely perfect in finding answers for some of these rectangular prisms. Everybody understands, correct?  Okay, now, now my next question for you – you can just kind of put your journals aside for a minute, and I have printed here a copy – this is a little assessment.  What this assessment is, and I know you’re going to know it – I actually have two pages but we’ll just do one together right now.  So Student H, would you pass one out to everybody?  Would you just put your name on it and then we’ll talk about what you have to do with that.
+teacher: Put your name on it and read the directions.  If there’s any problem with that we’ll kind of go over it.  Quickly, please.  Take a look.  Read the directions.  I’m going to have someone read the directions.
+student: Teacher?
+teacher: Pardon me?
+student: [Inaudible]
+teacher: Oh, anywhere on there.  Just somewhere on there.  Okay, would you please read the directions of what you have to do here. Here we have a rectangular prism, but of course we haven’t cut it out.  We haven’t taped it up like we’ve been doing the past few weeks, making boxes and so forth.  Again we’re finding volume.  Would you read the directions for me, Student A?
+student: [Inaudible].
+teacher: Okay, so if we put this box together, if we cut it out like we’ve been doing, and we taped it, how many cubes would it hold? And tell me how you figured that out.  Take a good look at it.  We’re not going to cut it right now, but tell me how many cubes it would hold.  And we know these are the cubes after we would make our rectangular prism, we’d put cubes in to see how many cubes would go in there to find the volume of our rectangular prism.  So after you do it – just write it on the side anywhere.  It doesn’t matter.  Let’s see what you’ve come up with.  See how many cubes it’s going to hold.  And then just write it – it doesn’t matter where you write it on there.  And while you’re doing that I’m just going to cut this out. Student B, can you get me a pair of scissors, please?  Up there.  A pair of scissors.  Oh, you could have got one of the little pair.  Okay.  Okay, while you’re working on that, you’re going to figure out a number, I’m going to cut this rectangular prism out, which is what you would be doing.  Is this going to be a rectangular prism once I cut it out?
+teacher: Yes.  Okay, so now I’ve cut this out, and what I’m going to do is I’m going to get some tape and I’m going to fold it up. And then I might ask a couple of people to put some of the little cubes in to see.  Let me just get some tape.  Okay, so the first thing, and we’ve done this when we’ve been making these rectangular prisms, is fold down the flaps. I’m going to fold down the flaps in this rectangular prism and – no, we’re going to be doing something else with cutting.  And then I’m folding this down and this is what I have.  So what I’m going to do – so this is what my rectangular prism, or box, and we’ve done this, looks like. So now I want to, before I kind of tape it or anything, I want to figure out how many cubes would hold – what would my dimensions be on this?  Write down your dimensions please.  Who can come up here for me and please write the dimensions right here, because we don’t have a lot of room up here.  Could you please come up and write the dimensions right where I have the other dimensions there, of what this rectangular prism as I cut it out of the – I’ll cut it out. What it would be?  What would it be? Student C, you got it?  The dimensions?  Put them up here on the board so we all can see, please.  Come on up here and do it.  And then tell me how you got it since you didn’t cut it out, but I did.  It makes it easier if you do that.
+teacher: Okay, so Student C has 10 by 6 by 8.  Or it could be 10 by 8 times 6.  What’s my answer going to be?
+teacher: Put it down there please.  What’s my answer going to be?  How many people got that answer 480? So if we had little tiny cubes, do you think we’d have 480 in there?  What do you think?  You think?  If we had little teeny, teeny ones – but we don’t.  We have the bigger ones that we used.  Okay, so again, I’m again reminding you so what’s the volume of this everybody?  What is it?  Length times wide times height.  Okay, now I’m going to give you another little box that looks like it’s put together.  So Student H, pass this out please?  Student C, please put the water bottle down.  You’re getting another little assessment right here.  Let’s see what you can do with that.  Put it down on the floor, please. So take a look at this next one.  It says assessment again. It says finding the volume of rectangular prisms.  Would you read what it says beside number one for me, Student J?
+student: [Inaudible].
+teacher: Oh, you didn’t get one?  Oh, Student, H, she didn’t get one. Okay, go ahead Student J, read.
+student: [Inaudible].
+teacher: Okay, so figure it out.  Let’s find the volume of this box, rectangular prism.  Let’s see what you do with this one. You’re doing a great job.  And write it right out there. Thank you. Do your figuring and see what you come out with and make sure you label it, too, when you do this.  Always label things.  And so as soon as you get that look up at me. Make sure you’ve labeled it please?  Make sure you’ve labeled it.  Go ahead.  What’s your answer?  You going to do it up here?  Okay, maybe use this little spot again that we’re using, because I’m not done with these objectives yet.  So maybe you can just – but you have to use the – wait a minute.  No, no, no, no.  Black.  It’s got to be black, okay?  Yeah?  Yeah, this one.  So write it in there.  Let’s see what you’ve got and let’s see if the rest of you do agree with her, please.
+teacher: So what’s your answer everybody?
+teacher: 120 what?
+teacher: Units.  Okay, how many got that?  That’s easy.  You know how to – you’re great multipliers.  Okay, good.  Okay, fantastic. So now you can just sort of put those papers aside for a minute.  I’m just double checking you.  There is a second objective that I have up here.  Would someone please read this objective for me, the second one up here?  Student A?
+student: Students will be able to find the volume, the volume [Inaudible] –
+teacher: What is that word?  That’s not regular.  What is that? Rectangular.
+student: Prisms and consider how the dimensions of a box changes when the volume doubles.
+teacher: Okay.  So now we’re doing a similar thing.  We’re going to find the volume of a rectangular prism, and consider how the dimensions – what are the dimensions everybody?  What is it?  Like whatever the numbers are.
+teacher: Length times?   Right, so we’re going to consider how the dimensions of a box change when the volume is doubled. Okay, so what I want you to do is look up on this white board over here for a minute.  And in order to double the dimensions that you see – could you read those dimensions for me, please, Student M?  What are they?
+student: 2 by 3 by 5.
+teacher: Okay.  Student A, could you just move your desk over a little bit, please?  Excuse me.  Could you just please move your desk over.  Okay, so these original dimensions of this rectangular prism would be 2 by 3 by 5.  Okay, so how many units would that be everybody?  How many units would that be all together?  Student J?
+teacher: 30 units.  Right.  How did you get that, Student J?  What did you do?
+student: 2 times 6.
+teacher: 2 times?
+student: 3.
+teacher: 3 times 5.  Right.  Okay, now I want to double these dimensions.  When I double dimensions of a rectangular prism, I only double one of them.  Okay?  I’m only going to double one dimension. Not all of them, not all of them, just one dimension. Either the 2, either the 3, or either the 5.  Just one. So, let me double – who can double one dimension for me and tell me what the answer will be?  Let’s see, Student B, can you double one dimension.  This is the dimensions you know. We’re doubling these dimensions.  So what would it become?
+student: [Inaudible] 4.
+teacher: 2 would become 4?  Yeah.  And then – oh, oops.  Is he doubling more than one dimension?
+teacher: What are the directions for doubling?  Doubling the dimensions. How many of those do you double?
+teacher: One.  So are you going to double the 2, 3, and the 5?
+teacher: What are you going to double?  Just one of them.  One of them. Okay, so let’s double one of them.  Student A, can you double one for me?
+student: 5.
+teacher: The 5?  What are you going to make that?
+student: 10.
+teacher: 10, okay.  And then we leave the rest the same, right?  So now we’re how many units?
+student: 60.
+teacher: 60.  Now, did we triple it or did we double?
+teacher: We doubled.  Okay, can you do it again for me?  Someone change one dimension.  We’re going to be doubling the original dimensions 2 by 3 by 5, but we only double one dimension. Student H?
+student: The 3.
+teacher: Okay.  Go ahead, so 2 times?
+student: 6.
+teacher: 6 times?
+student: [Inaudible].
+teacher: 10?
+teacher: 5.  Just one dimension, Student H.  So 2 times 6 is what everybody?
+teacher: 12 times 5?
+teacher: Okay, do I have any other those three dimensions that I could change and double it?
+student: Yes.
+teacher: Any others?  Student M?
+student: Turn the 2.
+teacher: Change the 2 to 4?  Times?  2 times 3 times?
+student: 5.
+teacher: 5, right. Remember we go back to the original dimensions.  So 4 times 3 is what everybody?  What is it?
+teacher: 12 times 5?
+teacher: 60 units.  Okay, so we have doubled our original dimensions by doubling how many dimensions?
+teacher: Just one.  Two?
+teacher: No.  Or three?
+teacher: No. Just one.  Okay, good.  So that’s how we’re going to double dimensions, okay? So I want you right now to take out – you did for worksheets for homework last night and now, and I want you to take out if you would, unit 2 page 11.  I think you did that page I believe last night.  No, you did not!  No, we’re going to do it now together.  No, you did all the other page – just a minute, I think I said skip 11.  Excuse me.  Alright.  Let’s see what you came up with.  Just turn to the page 11.  We’re going to look at these.  We’re going to take a good look at these.  Everybody take out, you did a packet last night for me that we went over – you did some of the pages but I told you not to do 11.
+student: Which I didn’t.
+teacher: Which you didn’t.  Didn’t you know what to do?
+student: I forgot.
+teacher: Oh, let’s go over it and do it together, alright?  Did you do it?  No, okay.  Alright, let’s see what you did on that, okay?  Does everybody have that out, that page?  Alright, are we ready?  Is everybody listening?  Okay, let’s take a look.  Unit 2, page 11.  I see one person that doesn’t have it out.  Okay.  It says doubling the number of cubes.  It says answer these questions.  Use grid paper – we’re going to use graph paper after, cubes and anything else that helps you solve the problem. Okay, and I think what I’ll do is have you work in pairs to see what you can do with the cubes for number one, because I think we may have enough cubes for everybody.  And then when we go down to number three, I’ll probably have you do something on graph paper.  So everybody right now read number one, and I’m going to have some people come help me pass out some of these, and pairs will – in fact, I think I’ll give you about.  Let’s see – Student G, could you give to each pair 35 cubes?  They’re over there.  Up there.  See what you can do with these cubes, if you can make a box, and see how many cubes does it hold, okay?
+student: [Inaudible].
+teacher: Excuse me, you’re just doing number one.  You’re in a group and you’re in a group.  Alright, well you two work together and then you two.  Okay? 2, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14 [Inaudible]  20, 21, 22, 23.  I don’t think we have enough cubes.  I don’t know if Mr. – take the cubes apart, okay?  First what I want you to do is figure out the dimensions.  The 2 by the 3 by the 5.  And then I’m going to give you a piece of graph paper to have you draw that on the graph paper, and then I’m going to have you fold them, and I’m going to have you make a box, and we’re going to see how many cubes can go in there.  Okay?
+student: Can I take my chair and [Inaudible] ?
+teacher: No, you can stay right where you are. 2, 6, 9, 10, 12, 15, 17, 22, 24, 27 – take them apart.  I might have to borrow some from next door.  I don’t know where they all went.  In the meantime, Student H, you want to pass a piece of graph paper out to everybody?  I’ll give it to you.  Everybody’s getting a piece of graph paper here, and what I want you to do is draw the dimensions you see on number one on the graph paper, okay? Draw those dimensions everybody, and then you will cut them out, and then we’re going to tape three sides of it, and then we’re going to see how may cubes. You’re going to figure out the dimensions and figure how many cubes go in there.  Can you get that, Student J?  1, 2, 3, 4, 6, 9, 12, 12, 14, 15, 16, 17, 18, 19, 20, 21, [Inaudible].  Excuse me?
+student: [Inaudible].
+teacher: Why did – are these the kind of pencils [Inaudible]? Alright, go sharpen it up with my little one.  Okay, we may not have enough.  I might have to ask somebody to ask Mr. D for some.  Yeah, I know.  You’re giving them like 30, 35 each?  Yes?  Let’s see.  At least 30.  Could I have someone go over to Mr. D please?  Student C, ask if we could borrow some cubes?  Okay?
+student: Me and her are partners.
+teacher: You and her are partners, and you two are partners.  So first find out what your dimensions are and then put the cubes together and see what you can come out with.  1, 2, 3, 4, 5, 6, 7, 8, 9, 10. So you have 22 and let’s say you need 35, so how many more do you need?  You have 22 and say you need 35, and so many more cubes?
+student: 13.
+teacher: 13 more cubes.  Okay, when she comes back – you don’t have any yet?  Okay, we’ll have to wait and see if [Inaudible]  gets some.  Right here, and then they’ll have 35?  Okay. [Inaudible]  to them.  Who doesn’t have cubes?  Who doesn’t have cubes?
+teacher: You’re sharing your cubes with your partner.  You don’t need your own cubes.  Student C, you’re sharing.
+teacher: Alright.  So I’m going to keep these separate so just put that down. Alright, who doesn’t have any?  You four?  Alright, no sit down.  Figure out the dimensions.  Um, Student G?  Oh. Never mind.  2, 3, 4, 5,6 7, 8, 9, 10, 12, 13, 14, 20, 22, 24, 26, 28.  Help her take those apart.  You and Student M use these and I’ll give you some.  Figure out the dimensions first please.  I’ll give you 35, okay?  Pull them apart.  2, 4, 6, 8, 12, 13, 14, 16, 17. Alright, so you people, you people, these are all Mr. – Student M, these are Mr. D’s and just so you know these are Mr. D’s too, okay?  Do you have 35?  Alright, so get busy. Write your dimensions down first on that rectangular prism and then I’m going to have you make – some people aren’t listening, please.  Some people are not listening.  Hello! Everybody look up at me.  Shh!  Look up at me, please. Look up at me. You’re getting cubes.  I want you to figure out the measurements of number one, then you’re going to draw it on your graph paper.  The 2 by 3 by 5.  And then you’re going to cut it out, and then you’re going to tape, you’re going to leave one side open and we’ll see how many cubes go in there.  Don’t start playing with the cubes now.  You are first to figure out the dimensions of number one, draw it on your graph paper, then cut it out.  And then you do the cubes afterwards.  The cubes are not to be done right now, okay?  No, just work on the dimensions and then draw it on your graph paper.  That have the dimensions 2 by 3 by 5, and then we’ll see how many cubes can go in there.  Do you all understand? You’re not to do the cubes first.  Do you hear me?  Are you listening to me? You first do the dimensions and then draw it on your graph paper.  Student K, did you hear me?  Draw it on your graph paper first.  Draw it on your graph paper. Huh?
+student: This one, right?
+teacher: Yeah, that one.  Now draw a number one on your graph paper.
+student: Am I doubling it or just [Inaudible].
+teacher: You’re not doubling.  Just the way it is right there, alright? And then you do the cubes afterwards, okay?   But first do the dimensions.  Draw it down, draw it on your graph paper.
+teacher: Shh.  Shh.  The first thing you want to do, get your direction – get your volume of number one, and then you’re going to draw the pattern on your graph paper.  Then you’re going to cut it out and then you’re going to put cubes inside to see how many cubes.  So, Student H, you have Mr. D’s cubes also.  You do.
+student: These are all his.
+teacher: These are all Mr. D’s.  I just gave them to you, okay?
+student: For me?
+teacher: To you.  Can you draw the pattern of a box that’s 2 by 3 by 5? First do it with your cubes.  Try it with your cubes first. Then draw it on your graph paper.
+student: Can we make some cubes together?
+teacher: You’re just going to make a pattern.  You’re making a pattern right now on the graph paper.  Before playing with the cubes, you might want to – oh! Wait a minute.  2 by 3 – and then what’s the height going to be?  Hmm?  What’s the height?  Show me what you’re doing.  2 by 3 by 5.  Show me where your 2 is.  Okay, then where’s your 3?  And then where’s your 5?  Count 5 for me. So if you cut that out, is that going to be correct?  Is that going to come up 5 do you think, after you fold it on the fold?  What do you think? Try cutting it, let’s see what you come out with.  Yeah, see if that’s going to look like the box.  The rectangular prism 2 by 3 by 5.  Let’s go ahead and cut and see what you can do with it.  Huh?  Do you want to use that one?  You think that’s correct?  Now, is your bottom layer going to be part of your height?  Is it or is it not?  What do you think?  Is your bottom layer going to be part of your height?  Huh?
+student: We don’t have graph paper.
+teacher: Oh.  Student H gave it out.  What did he do with it?
+student: You always miss us.
+teacher: Try it on this.  Try it on that paper.  See what you can do with that.  2 by –
+student: For some reason you keep on forgetting us.
+teacher: About you?  No, Student H gave it out but I didn’t check with you.  I don’t know what he did with it.  I want to see what – please do not play with the cubes as of yet.  Please do the dimensions and then – Student C’s cutting his out.  I want to see if he’s going to come out with the dimensions that you have in number one.  Let me see.  Student A, move your chair up please.  Alright, so now 2, where’s 2?
+student: 2 by 3 by 5.
+teacher: Where’s the 2?
+student: 2’s right here.  By 3.
+teacher: Nope.  Now – that’s 1, 2, 3.  That is 1, 2, 3, 4, 5.  And then there isn’t a 2.
+student: Yeah, the 2 goes up the side.
+teacher: Uh huh.  You’ve tried – try it on a bigger piece of grid. Let’s give you a more – so give me your length, width, and height.  Let me see it.  Length.  Where’s the length?  How many have you got?  Length, width, and height.  Is that the length?  1, 2, 3, 4, 5.  Huh?  And then where’s the width? And where’s the height?  Height should be 5. Alright, you know what?  Maybe the graph paper – let’s try something else.  Shh.  Shh.  Let’s try something else everybody.  Look up here for a minute.  Shh, shh, shh.  You know what?  Now, can you listen up please for a second? Let’s try this – this grid paper might be better to draw it on than the little teeny squares.  Do you think?  So let’s try this.  I think that would be easier.  Student H, pass out – hello, everybody listen up!  Let’s try the bigger grid paper.  Now draw your pattern 2 by 3 by 5.  You did it?  Ah!  How many cubes?  Huh?
+student: 15.  15 times 2.
+teacher: But don’t count the bottom.  You just got to make the box and then you count the front, the side, and the height.  Try it on this, honey.  Try it on that.  Here, he’s passing out – try it on a big one.  Okay, Student G did something real interesting with the cubes.  Look up here for a second.  He went straight to cubes here, so he did the dimensions. Student G, what are they?  Dimensions are 2 –
+student: By 3.
+teacher: By 3.
+student: By 5.
+teacher: By 5.  Or we could say 2 by 5 by 3.  Same thing. So how many cubes all together?
+student: 30.
+teacher: 30.  Try the big piece of paper, try the bigger one now.
+student: Like this?
+teacher: Yeah, try the bigger.  Try the bigger – now Student G, see if you can draw that out on that and see if you can come up with that.  How many cubes would you need all together here?
+teacher: 30.  Alright, let’s see what you can do with that.  Use the bigger cube – the grid paper.  I think it might help.  Now remember, you’ve got to fold it up remember?
+student: Yeah.
+teacher: It’s got to fold up.  Thanks.  Try to do it maybe without using that and see if you can draw it first, then cut it out, and then put the cubes in.  Maybe?
+teacher: Student A, do you have any cubes?
+student: [Inaudible].
+teacher: Oh.  So did you get 2 by – now see if you can draw it on the big piece of paper and then slip the cubes in there.  Okay, try that.
+teacher: So do you have 2 by 3 by 5?  Now, see if you can draw it on here and make the box.  Alright, try to make it on here to make – can you do it?  Hmm?  Try.
+student: [Inaudible]  so easy to take out.
+teacher: Did you – now can you draw it on here?
+student: Maybe?
+student: Yes.
+student: Let’s do this.
+teacher: Let us see.  Did anybody get it drawn – you know, the bigger paper is better.
+student: Yeah.
+teacher: That’s too small.
+student: I know how to do it now.
+teacher: Okay, so now, the key here is let’s see if you can put it on this grid paper and cut it out and make a box.  And then maybe fit your 30 cubes in there by leaving one end open. Remember how we were doing that?
+student: Yes.
+teacher: Do you remember?
+student: [Inaudible]  finish it?
+teacher: Huh?
+student: [Inaudible]  finish the – cut it out though?
+teacher: No draw it now, and – is it going to fit do you think?  Let’s see what you did.  Looking good, Student J.  So oh!  Oh, hold on to that.  Let’s see what Student A did.  How many cubes do you have?
+student: 30.  5, 10, 25, 30.
+teacher: So 2 – huh?  You what?
+student: You could do 2 at the bottom and then 3 up but you can [Inaudible].
+teacher: Where’s your 3, though?  Do you have a 3 on there?
+student: Yeah.  3.
+teacher: Right, okay.  So, Student A just did her, the box – the 3 is on the bottom.  She brought her 30 cubes in there.  And to find the volume it would have been 2 times 3 times 5 or whatever way you wanted to do it.  Good job.  Go around and help some people with that.  Did you get it?  Cut it out now.  Can you do it?  Try the best you can, that’s all. Can you tell them how you drew it?  Maybe she – that’s how she drew it.
+teacher: What?
+teacher: Shh, shh, shh.  Okay.  Student, what happened?  How’d you do?
+student: It doesn’t fit in this paper.
+teacher: It doesn’t.  Okay, can you make some more squares on it?  So that if you cut it out –
+student: 3, 3, 5, 3, and how are we supposed to make 5?
+teacher: 3.  Yeah, a 3.   So maybe just one more?
+student: Yeah.
+teacher: So do that, just cut up further. Just cut up further, that’s all.  Okay, how are we doing over here?  Okay.
+student: That’s my [Inaudible].
+teacher: Yeah, you might have to add a little more on there.  That’s okay.  That’s okay, let’s see what you’re doing.  Good job!
+student: Are we supposed to cut it or draw it?
+teacher: Um, first draw it, then cut it.
+student: Um, I already [Inaudible].
+teacher: That’s okay.
+teacher: Good job!  Alright, and then cut it.  Student A is showing, is helping.  Okay, good job.  Alright.  We’re all moving right along.  Looks good.  Are those yours?
+student: Yeah.
+teacher: [Inaudible]  pick those up?  Student B, how are you doing up there with Student H?  What?
+teacher: Yeah, I think I have another one.  Let me see up front.  You didn’t?  That’s okay.  That’s okay, Student J.  I don’t know if we had another one.  I might have to run some more off.  Let’s see.  Okay, yeah that’s good.  Oh, here you go. No, is this one?  Honey, I think I have to run more off. I think that’s the only – I’ll do some more tonight, okay? Okay, good job everybody.  We’re going to – anyway, what is number one, how many cubes does it hold?
+teacher: 30.  And number two.  Do number two there.  The factory wants you to build a box that will hold twice as many cubes.  So how – you don’t have to build it now.  What’s the answer to number two everybody?
+teacher: 60.  Good job!  Okay, good.  Alright I’m going to stop here. Good job everybody.
+{
+    "your_reasoning": "The teacher frequently relies on a few volunteers’ responses, yes/no questions (“Everybody understands, correct?”), and quick show-of-hands checks (“How many people got that answer 480?”) without probing or verifying what non-responding or incorrect students think. There is no systematic method (e.g., all students writing answers, circulating and checking, targeted follow-ups to multiple students) to gauge understanding of the whole class, so broad checking for understanding is effectively absent."
+    "rating": 0
+}
+
+
+teacher: All right so, boys and girls, we started our work with making fraction cards yesterday and while we’re making fraction cards, we’re thinking about the size of the fractions, comparing, thinking about fourths and halves and thirds and sixths.  We’re also thinking about equivalent fractions. As you continue making your cards, I want you to keep that in mind. When you are done with your cards, we’re going to have a couple of discussions, and then if there’s time, we’re going to do an activity where you're going to be comparing the fractions. Okay?  When I say comparing fractions, does anybody know what that means when you compare two fractions?
+student: [Inaudible]
+teacher: It’s actually a little bit different than seeing how they're alike and different.  That’s not what this particular comparing means.  When you compare fractions or you compare amounts, you're thinking about which one is bigger.  Okay? So we’re going to work on an activity after you finish your fraction cards. For those of you who have finished or are just about finished with your fraction cards, I want you to work on your fractions to find in ten by ten squares.  Some of you already have the packet.  Don’t take another one if you already have it. I made exactly enough.  And the ones who never got it, when you're done with your fraction cards, you're going to work on this.  Okay? I'm going to set the timer for 20 minutes.  That should be enough time to finish the fraction cards.  There should be no talking.  You know where the materials are and you know what you need to do.  Okay?  So when I call your group number—actaully before I call your group number, why don’t you move to where your group was yesterday, except who was Student J’s partner?  You guys are going to work at that back table.  Who was Student M’s partner?
+student: I was with Student A.
+teacher: You're going to work at the back table.  Rest of you are going to go where you were yesterday.  Quietly move.  Group number six, group number two.  Are you six?  Okay.  Then you're going to work here.  Student S, you're going to work here.  Who’s number two?  Who’s number six?  Number 11? What are you?  Six.  Two.  Eleven.  Who’s two?  Who’s group two?  You should already be up here. Group number one.  Group number nine.  Group number 12.  Group number five.  Group number ten.  Five?  Ten.  Three.  Excellent. Number eight.  Number seven.  Student A, are you a group? Move quickly.  You already have them?  Seven.  And four. Seven.  Four. Okay, the rest and the ten by ten grids will be at the back.  Why is this  a big mess.  You saw this and you just stood over here?  Coulda fixed it, right?  All right.  All right.  You need to be quick with the glue sticks because there’s not one for every single one.
+student: Do them vertically like that?
+teacher: No, I want them done vertically.  I want the cards vertically, not horizontally.
+student: Do you just glue it on by—
+teacher: You just glue it on and you write the number on the back of the card.  So what are you guys working on?  Do you need to finish these cards and some are done?  So let’s take out the ones that you need to work on.  Separate them from the ones that are done.  Twenty minutes, boys and girls.  I'm setting that timer.  What one person could do is one person could write the number on the back of the card.  Oh, you already did that?  All right.
+student: Not all of them.
+teacher: If you have your own glue sticks, that would be helpful.
+student: We only have—we could only get—
+teacher: Good, so work on it.  He’s doing his job.  You do your job. Excellent.  What do you notice about three fourths?  What do you notice about the fraction, three fourths?  What are some things you can tell me about that fraction?
+student: That—that three pieces are shaded in.
+teacher: Okay, what else do you know about three fourths?
+student: That the total is four and it’s from the denominator.
+teacher: Okay, so the denominator is four which means there’s four equal pieces, but what do you notice about the amount?
+student: Oh, okay, so maybe if it—
+student: It’s like the side is two—two fourths is like one half.
+teacher: Okay, so what do you know about three fourths?  It’s what?
+student: It’s—
+teacher: What were you gonna say?
+student: I was—
+teacher: It sounded like you were gonna say something?  She said two fourths would be this part.  So what do you notice about three fourths as compared to one half?
+student: It would be half full.  It would be like—it would be almost half.
+teacher: Almost half?  It’s not half yet?  That’s not half yet?
+student: Three fourths?
+teacher: Is it equal to a half, more than a half?
+student: It’s more than a half.
+teacher: More than a half.  Very good.  It’s also how far from a whole?
+student: One more.
+teacher: One more what?
+student: One fourth.
+teacher: Very good.  Excellent.  Keep going.
+student: Should we go over marker when the one—
+teacher: You don’t need to go over it in marker.  And you don’t need to go over it in crayon.  You can just keep it the way they are.  Just make it nice and dark enough.
+student: Do we do the marker on the back?
+teacher: Number on the back.
+student: In marker or?
+teacher: No, in pencil.  Hey, you're going to work on this, all right? On the pages where the fractions are given, you're gonna shade in the correct amount.  And for the ones where it’s already shaded, you're going to write the fraction underneath it.  Okay?
+teacher: If you have some.  I have had like 25 and now like thieve disappeared.
+student: I had one but I didn’t use it enough so it dried.
+teacher: All right you don’t need to do that, k?  That’s not going to get things done, k?  It’s fine.  So start gluing.
+student: Do you—
+teacher: What?
+student: Do you have any glue in the cabinet?
+teacher: No, this is the glue sticks that I have.  These are the glue sticks that I have so you gotta use what’s here, k?  If they're dried out or broken—there’s one that works.  Here’s the cover.
+student: Sorry.
+teacher: Make sure they're completely glued down.  One more.  Good, these look good.
+teacher: You guys are almost done.  Good.  Excellent, excellent.  How are they coming?
+student: Good.
+teacher: Try to make them nice and even, okay?  Nice and straight. Excellent.  What's on that card?  Well, get rid of it because that—all right, just leave that.  I don't know what that is.  Looks like—I don't know.  Oh, you're putting them on and she’s going to glue them?  All right.  Are these glued?  Are these the ones that are already glued?
+student: Yeah.
+teacher: And these ones too?  Okay.  Good.  Try to make them nice and straight, okay?  All right.  Keep going.  Gotta get them all done.
+student: This glue stick is hard.
+teacher: Get it done.  Well, do the best you can.
+student: I don’t have a glue stick.
+teacher: You're gonna have to share.  If you need a glue stick, come see me.
+student: Right here.
+teacher: I found some.  They were in my hidden stash.  I didn’t realize they are back there.
+student: Thank you.
+teacher: Please make sure the covers get back on because what’s happened is the other ones are getting dried out because the covers are not going back on.  Is there anybody else who needs a glue stick?  Please do not put glue sticks that do not work back in here.  This means both of you could have glue sticks and get them done faster.  If your glue stick doesn’t work, don’t put it back in there.  Right there. Does it work?  Then why are you taking a new one?
+student: Because when I do it, it’s hard to get to it.
+teacher: Then it doesn’t work.  If it’s not—if it doesn’t work then just tell me it doesn’t work.  Do not put glue sticks that do not work back ‘cause I need to know which ones are working.
+student: [Inaudible]
+teacher: Nope, why would you wait when you can get them done now?  Thank you.  Everyone should have a glue stick now.  Do you have a glue stick, Student S?  Student S, do you have a glue stick?  You should both have one.  Go get one Student S so that you get it done in the next ten minutes. Good, you guys are done?  They're all in?  When you're done, you should look like Student J.  She has all her cards inside of her bag and she’s working on her tenths.  What are you doing?  You Student J’s partner?
+student: No.
+teacher: No?  Who’s your partner?
+student: Student K.
+teacher: Okay, so you're doing it too?  Good.  Start to at least—go get cards.
+student: I know.  Go get cards.
+teacher: Are you done?
+student: Yeah.
+teacher: Can you go tell Mrs. S—you know where her room is right?  Tell her I found enough.  I found a stash.  Just do a little thing and put it in.  Excellent.  Perfect.  Keep a pile of the ones that are done, nice and neat, so that you know which ones are already done.
+student: Here you go.
+teacher: And then when you’re done, don’t forget to put the number for your group on the back.  Good.  Yes.  That’s not going to get rid of the stickiness though.  If it’s sticky, you can use soap at the back but wait till you're done to do that. I found a whole stash up in my thing.  I thought I was empty.
+teacher: All right.  Excellent.  You should be doing them too.
+student: Mrs. W, we need some more index cards.
+teacher: And where—they're in the back.  You need—
+student: There’s no—
+teacher: All right, I will make more.  Because some people took more than they need.
+student: He wrote all his numbers on them.
+student: Numbers down.
+teacher: So you're going to erase the numbers on the back and make them your numbers.  And there’s extras too.  These ones don’t have numbers.  Make sure the numbers get erased.
+student: Number one at the back?
+teacher: Is that your number of your group?  Yep, write one on the back of all them so we can keep track of them.  We’re going to use these to start comparing fractions.
+student: All done.
+teacher: Good job.
+student: And—
+teacher: These are extras?  Put them in back so that people need them, can get them.  Are these extra cards?  Put them back so people who need them, get them.  Excellent.  So you're doing tenths?  So you got one tenth.  Excellent.  So how many groups are you breaking it into?
+student: Ten.
+teacher: What do you think will be in each group if there’s 100?
+student: Ten.
+teacher: Very good.  Why?
+student: Because—‘cause it has ten of these.
+teacher: Right, because ten times ten is a?
+student: Hundred.
+teacher: Very good.  Excellent.  Okay, this is wrong, you need—oh, good, good, good.  Okay, it is vertical.  Where are the ones that are done?  Right here?  Good.  This done?  These are done?
+student: We’re on our last one.
+teacher: These ones already have numbers written on the back?  Why don’t you—are you supposed—you're on your last one?  Perfect. Put them in your bag.
+student: I have to make sure ‘cause some of them might not have numbers.
+teacher: Good that’s—you guys have to go a little faster.  Okay, you're only putting glue where the card is going to go because now this is going to stick.  Throw it in the trash.  It’s going to stick to everything.  Is that what you’ve been doing? Only putting the glue where the card is.  Then that’s going to stick to everything.  You put the card—the glue on the—don’t put the glue on the card, put the glue on the paper.  And don’t ruin it by smooshing it down so much. Good.  Just like that, move on.
+student: I put it down a little.
+teacher: It’s perfect.  Like this.  Stick it.  That’s all you got to do. Put on the card.  Move on to the next one.  Glue it and stick it.  Glue on that.  Little glue in the middle. Perfect.  Stick it.  Put it in the middle.  Stick it.  Are you done?
+student: Almost.
+student: Yeah.
+student: We’re doing it by—
+teacher: Before you finish—you're putting too much glue.  I don’t want it to come through the paper.  Before you finish, make sure you count and have 40.  What are you doing?  Go like this and stick it.  Now stick it.
+student: All right, you have to do all those over again.  Thank you.
+teacher: Next one.  You can put the numbers on after.  Glue it.  Stick it.  Take out your ten by tens.  Go get paper towels.  It’s all wet.  I don't know why.  Too much.  Just  a little bit. Put it on.  Now move on.
+student: I think we might need some more.
+teacher: You’ll get some more.  Is this extra?
+student: Finished.
+teacher: If you are finished, Student M, can you help this group? Finish that and give them back to Student M when you're done.  Student M, come over here.  Grab some more index cards.  Stick it.  Too much.  Yes?  What do you need help with?
+student: It’s two—no five times is just like that but five?
+teacher: Well, what’s a tenth?
+student: One.
+teacher: So how—what would be five tenths?  Yep, five of them.  And how much does five tenths equal?  What do you notice about five tenths?
+student: Equals a half.
+teacher: Very good.  Good.  Put them here.  I will—some people might have extras.  If not, I will make some more but I think there should be enough.  Who has extra index cards that they didn’t use yet?
+student: We have two extra.
+teacher: Okay, give them to—who needed extras?
+student: We have some.
+teacher: Give them to Student W.
+student: We have some.
+teacher: And you have some?
+student: Yeah, we have some.  Well, those aren’t extras.
+teacher: Those aren’t extras then.  I'm coming right now.  Okay, Student W, I have some more index cards for you.  When you're done, you're sitting quietly and working on your fractions on the ten by ten rectangle.  Take a seat.  Are these done?
+student: Almost.  Almost.
+teacher: Let’s go then.
+student: Just these four.
+teacher: Boys and girls, the timer says you have two minutes.  So those of you who aren’t done, you have two minutes to finish gluing.  You're doing them all on your own so I’ll help you out a little bit.
+teacher: I made some if they need some.  Who needs some more?
+teacher: Okay, I will get some more for them.  They're right here.  I just need—can you hand me those red scissors please?  Right on the side of the—
+teacher: Thank you.  Yeah.  Student B, can you help Student W here?  Oh, that’s all you have left?  He’s good.  Nope.  He only has like four left.  Make sure you cover it.  If you don’t hear a snap, push it.  So many of these are not taut.  This is why they're—they're drying out.  You didn’t snap them shut. All right.
+student: Thank you.
+teacher: Good, who you working with?  Who you doing those for?  Is this one of theirs?  Excellent.  We’re just about done.  And perfect time.  All right, boys and girls, can I have everyone put their fraction cards inside of their bags right now.  Put your fraction cards inside of your bags. Extras?  Put them on the back table.  Let me see who is following directions.  Now put your ten by ten rectangles inside of your red math folders and do it without talking.  Student T, what was the last part of my direction?  Who can tell me the last part of my direction?
+student: Do it without talking.
+teacher: Do it without talking.  I asked you to put your cards inside the bag.  Put them inside the bag.  Okay.  Student B, what were my directions with that?  All right, so today, boys and girls, now that we’re done gluing our fraction cards that we started yesterday, now I want to get into the lesson of today.  Today, boys and girls, we are going to work on comparing fractions.  And when I say comparing fractions, what did I say I meant by that?
+student: Fractions [Inaudible]
+teacher: Right, deciding which fraction—like looking at two different fractions, deciding which one is bigger and why.  So the first two fractions we’re going to compare are drawn up here.  Can somebody tell me, first before we begin, what we can call this top fraction and how you know?  Student K?
+student: Three fourths.
+teacher: Three fourths.  Can you tell me—can we—how you know that this fraction is three fourths?
+student: There’s four groups and three are shaded in.
+teacher: There’s four—what kind of groups?
+multiple students: Equal.
+teacher: Equal.  There's four equal groups, which is the total which is the denominator, and three are shaded which is the numerator.  What could we name the bottom fraction? Student T?
+student: Five sixths.
+teacher: Five sixths.  Can you explain, Student T, in a really loud voice how you know that that’s five sixths?
+student: Six groups—
+teacher: What kind of groups?  Special thing you need to say?  We’re talking about fractions, the groups are what?  Six what kind of groups?
+student: Special.
+student: Equal?
+teacher: Equal.  Do you remember how we have to say that they're equal? Why is it important that they're equal?
+student: [Inaudible]
+teacher: Because when we’re talking about fractions, we’re talking about what?
+student: [Inaudible]
+teacher: I can’t hear you, hon.  When we’re talking about fractions, we’re talking about what?
+student: Equal pieces.
+teacher: Equal pieces or equal groups.  We’re talking about equal amounts.  So Student T, you said that there were six equal groups and what?
+student: And five shaded.
+teacher: And five were shaded in.  So five out of six are in this picture.  So if I were to compare these two fractions and I want to decide which one is larger, is three fourths larger than five sixths or is three fourths smaller than five sixths? I can use the pictures but sometimes pictures can be a little bit deceiving especially if they're close amounts.  So what you need to be able to tell me is not—is why.  Why one is bigger than the other.  So I want you to talk to your neighbors and decide which one is larger and why.  What do you two think?
+student: I think the three fourths is bigger than the five sixth because more space.
+teacher: Which one’s bigger?
+student: Five sixths.
+teacher: Is bigger than three fourths why?  Do you agree?  Why do you think that, Student M?
+student: Because the littler the piece and there’s more shaded in and there’s just one more left on five sixths and then the littler—
+teacher: The smaller?
+student: Yeah, the smaller and when you're shading all of them and the smaller the one.
+teacher: That’s left?  Means you're closer to what?
+student: One whole.
+teacher: Very good.  So even though fourths are bigger than sixths, because sixths are smaller, the amount that’s left is?
+student: Bigger.
+teacher: The amount that’s not shaded in?
+student: Oh, is little.
+teacher: Is littler which means there is more shaded in of the rectangle.  Very good.  You see that?
+student: Yes,
+teacher: What did you guys decide?
+student: On the top one.
+teacher: You think three fourths is larger?  Why?
+student: Because there are five painted in on the bottom one and just three shaded in on the top one and three more groups.
+teacher: Bigger pieces, okay.  So how many pieces are missing in three fourths to make it a whole?
+student: One third—one fourth.
+teacher: One fourth and how many are missing in five sixths to make it a whole?
+student: One sixth.
+teacher: One sixth.  So one fourth is a bigger piece that’s missing, right?  So one sixth has a smaller piece missing.  Which one is closer to a whole?
+student: Five sixths.
+teacher: Five sixths.  There’s more shaded in in five sixths because the pieces are smaller.  So when there’s only one piece missing, it’s closer to a?
+student: Whole.
+teacher: Yes.  So even though fourths are bigger than sixths, in this case that means that a fourth is a bigger piece missing than five sixths, right?  All right, eyes up.  And I wrote little something on the top of my chart. I'm hoping that when someone discusses how they know which one is bigger, that they're going to talk a little bit about what I mean by one piece is missing.  So can someone tell me first of all which one they think is bigger and how they figured that out?  Can you see Student J?
+student: Yeah.
+teacher: If you can’t, you can always move your chair, okay?  Student I? you know you can move too, right?
+student: Three fourths.
+teacher: Three fourths is?
+student: Bigger.
+teacher: Bigger than?
+student: Five sixths.
+teacher: How many think three fourths is larger?  How many think five sixths is larger?  That wasn’t everyone.  How many are not sure?  Okay, let’s try it one more time.  How many think three fourths is bigger?  How many think five sixths is larger?  Kind of a split room here.  So I want you to explain why you think three fourths is larger.
+student: ‘Cause two sixths is the same as one third.
+teacher: Okay, two sixths is the same as one third.  Right?  Is two sixths the same as one fourth?  Is it close?  Yeah, because we’re talking about a third and a fourth here, right?  So they're very close amounts.  So what are you thinking now?
+student: [Inaudible]
+teacher: Each of the fourths is larger.  How many agree that a fourth, each of those fourths is larger than each of those sixths? Okay.  And we talked a lot about that when we talked about our equivalent fractions.  So here’s our fractions that are equal chart.  Let me move it over a little bit.  Here we go.  Let’s see.  So we have our fractions that are equal chart.  So we know that a fourth is larger than a sixth, correct?  You’ve got three of these big fourths shaded in. How many sixths do you have shaded in?  Student A?
+student: Five.
+teacher: Five.  But because a fourth is larger, now what do I mean when one piece—I—one piece is missing.  What do I mean by that statement, Student A?
+student: [Inaudible]
+teacher: How much—but what does that mean?  How much is missing in this rectangle?
+student: One fourth.
+teacher: One fourth.  So one of those pieces out of four is not shaded in.  Which do I mean here that one piece is missing?  What does that mean, one piece is missing?  One’s not shaded in. What does that represent?  What fraction?
+student: Six sixths.
+teacher: No, just this one.  One sixth and this is one fourth.  So if I had two—these are two cakes, okay?  And I cut my first cake into four pieces and I gave three pieces out and I have this piece left.  Is that a big piece left?
+multiple students: Yes.
+teacher: Pretty big piece left.  And then I broke my second cake into six pieces and I gave out five and I had one little piece left.  Which one was more eaten?  Which one had more of the cake—more of the whole that was eaten?  Student J?  Why does five sixths have more eaten?  Even though a fourth is technically bigger than a sixth. What were we talking about over there?  What do you know about the size of a sixth?  It’s smaller than the size of a?  What was this?  One fourth.  So this one has a bigger piece to eat to get to eat the whole cake.  This one you have to eat a smaller piece to eat the whole cake or one whole.  So which one is closer to all being eaten or equal to a whole cake?
+student: Five sixths.
+teacher: Five sixths because it has a smaller piece left.  So more of it is shaded in because there is a smaller piece that’s left over.  This one has a bigger piece.  This one is farther than—farther from being eaten.  And this works because they both have one fourth or one sixth left.  They only each have one piece left.  So depending on the size of the piece, this is a bigger piece of this thing so it’s a smaller what?  This has a bigger piece missing so what, Student M?
+student: [Inaudible]
+teacher: It’s a smaller fraction.  This one has a smaller piece missing which means more of it is shaded in?  So I'm going to write that on the bottom.  Three fourths is less than five sixths and I'm going to write it with my symbols.  One fourth less than five sixths because the alligator wants to eat the bigger amount. So three fourths is less than five sixths because one sixth is a smaller piece missing so it is closer to a whole.  So three fourths is less than five sixths because one sixth is a smaller piece that’s missing so it’s closer to a?
+student: Whole.
+teacher: Whole.  Three fourths has a larger piece missing so there’s more cake that you need to?
+multiple students: Eat.
+teacher: Eat.  There’s a bigger piece that you need to eat to eat the whole cake than in five sixths.  You only have a smaller piece that’s left over.  So more of it is closer to a whole.  K?  That’s easy to compare fractions when one of the pieces of the whole is missing.  How would I get to a whole?  How would this be a whole?  What would equal a whole here?
+student: [Inaudible]
+teacher: Six shaded in so six sixths right?  How would this be a whole? Student D?
+student: [Inaudible]
+teacher: One fourth more which would be how many fourths?
+student: Four.
+teacher: Four fourths.  Excellent.  Let’s take a look at one more fraction.  Two more fractions I should say that we’re going to compare.  So this is one way to think about it, boys and girls, when you're comparing fractions that have one piece missing each.  Which one has a bigger piece missing?  Which one has a longer way to get to a?
+student: Whole.
+teacher: Whole.  K?  Now let’s take a look at these two.  Which is larger?  We have one fourth—oops—can someone tell me why this fraction is one fourth on top?  It is one fourth.  Can someone tell me why?  Student D in a loud voice?
+student: [Inaudible]
+teacher: Because the total is four equal groups and one is shaded in. What is the bottom fraction?
+student: Three fifths.
+teacher: And why is it three fifths?
+student: Because there’s five groups and three are shaded.
+teacher: Five is the total and there’s three shaded in.  Now again, you could use the picture to say, “Oh one looks a lot bigger than the other.” But remember I don’t accept that as how do you know.  You need to pick which one is larger and explain how you know.  Think about what you know about fourths and fifths.  That’s what we’re going to be doing today and on Monday. We’re going to be comparing fractions so that you can think about what you know about halves and fourths, thirds and sixths, even fourths and fifths.  Think about what you know about these pieces.  I want you to discuss with your neighbor which one is larger and how you know.  Which one do you think is larger?
+student: I think it’s one fourth.
+teacher: You think one fourth is bigger than three fifths?  Why?  Are you listening?  You're not even looking at your neighbor.
+student: [Inaudible] If you did then there’s more pieces left over then [Inaudible]
+teacher: So there’s more pieces left over?
+student: It’s a larger amount.
+teacher: Right, so that means it’s what?  If there’s more left over that’s not eaten?
+student: It’s larger.
+teacher: Then that fractions larger?
+student: I mean smaller.
+teacher: Smaller because there’s more left to get to a?
+student: Whole.
+teacher: Whole.  There’s more pieces and the pieces are what?
+student: Larger.
+teacher: Larger.  So there’s more to get to a whole.  This one only has two pieces and the pieces are?
+student: Smaller.
+teacher: Smaller so it will take less to get to a whole?  Right?  So which one’s bigger?
+student: Three fifths.
+teacher: Three fifths.  What do you think?
+student: One third is bigger because—
+teacher: One third?  Okay, you need to sit for a minute.  Not right now. Not right now.
+student: [Inaudible]
+teacher: Is a fifth bigger than a fourth?  If I have a candy bar and I break it into four pieces or I take that same candy bar and I break into five pieces, what happens to my pieces.
+student: Smaller.
+teacher: Smaller.  Is it a lot smaller?  The difference between a fourth and a fifth?  No.  So because there’s not much a difference, how many fifths do you have?
+student: Three.
+teacher: And then here you only have?
+student: One.
+teacher: One fourth, right?  So which one do you think is bigger?
+student: Three fifths.
+teacher: Very good.  Very good.  Leave them, just leave them.  All right, so let’s think here.  Let’s think.  Which one do you think is larger and then you have to tell me why.  Which one do you think is larger?  Student K?
+student: Three fifths.
+teacher: You think three fifths is larger than one fourth.  How many think three fifths is larger than one fourth?  Okay, so three fifths is larger than one fourth.  Can you explain why you think that?
+student: ‘Cause it takes—it takes less to make it a whole.
+teacher: So three fifths takes less to get to a whole?  How do you know it’s less than this?
+student: Because there’s only two more fifths to get to a whole.
+teacher: There’s two more fifths to get to a whole.
+student: And there’s three fourths to get to a whole.
+teacher: Three more pieces, three more fourths to get to a whole.  What do you know about fourths and fifths?
+student: Fourths are much bigger?
+teacher: Are they a lot bigger?
+student: No.
+teacher: But they're bigger, right?  I want to show you something, boys and girls.  I want to show you some fractions here.  And we’re just going to pay attention to the purple fractions and the blue fractions.  K?  How many pieces is y purple fractions?  How many pieces are they?  How many pieces do I have here?
+student: Four.
+teacher: Four.  And four of them fill up how much of my post?
+student: The whole.
+teacher: The whole thing.  How many pieces are on my blue?  Oops.  How many pieces are there on the blue?
+student: Five.
+teacher: Five.  One, two, three, four, five.  Now I'm going to hold up my fifth and my fourth.  What do you notice about the size of them?  What do you notice about the size of my fourth and my fifth?  Student A?
+student: The purple, the fourth, is bigger than the fifth.
+teacher: The fourth is bigger than the fifth.  How many agree that the fourth is bigger than the fifth?  Okay, ‘cause if I have a candy bar and I break it into four pieces, the pieces are going to be bigger than if I take a candy bar and break it into five area.  Is there a big difference?  Is one fourth a lot bigger than one fifth?  Student J?
+student: No.
+teacher: No.  Just a little bit because when I take something and make four pieces or I take the same thing and make five, I'm only making one more piece.  So sizes are not that much different.  But when you're looking up here and you have three more pieces that are bigger to get to a whole, it’s going to be a lot less than if you only have two pieces that are smaller to get to a whole.  Did anybody use anything else that they were thinking about?  Did anybody think about anything else to figure out which one was bigger?
+student: I saw that one fourth needed more than half to get to a whole.
+teacher: And three fifths needed?
+student: Less than a half.
+teacher: Less than a half to get to a whole.  I like that.  How many more would—what would be  a half if I was dealing with this fourths?  What would be a half?  Student C?
+student: [Inaudible]
+teacher: Two fourths.  So this isn’t even a half, right?  So you need more than a half to get to a whole.  Fifths.  Now fifth is tricky, boys and girls, because it’s not an even number. Does anybody know what I would get if I split five in half? Student C?  Half of five?  You told me that this was more than half.  I need to prove that this is more than a half. What would be a half?  What is half of five?
+student: Four fifths?
+teacher: No.
+student: Two and a half.
+teacher: Two and a half because two and a half, boys and girls, two a half plus two and a half equals what?  Let’s think about it.  Let’s look real quick.  If I have two and a half plus two and a half, how do I add those numbers together?  Tell me how you would do it, Student W.
+student: Two plus two—
+teacher: Two plus two is?
+student: Four.
+teacher: What’s a half plus a half, class?
+multiple students: One.
+teacher: One.  So if you have four plus one, you have?
+multiple students: Five.
+teacher: So two and a half fifths would equal a half.  And how many fifths o I have here?
+student: Three.
+teacher: Three.  So this is more than halfway filled and this is what?
+student: Less than.
+teacher: Less than half because what would be half here?  What would be half here?
+student: Shade in the bottom one.
+teacher: Shade in the bottom one two fourths would be half.  I love, Student C, how you connected those two fractions to a half because tomorrow, when you are play—sorry, Monday when you are playing Capture Fractions and you're comparing fractions with your partner, you want to use landmarks.  Is the fraction less than a half?  Is the fraction more than a half?  We’re going to work on that on Monday.  Please put away your math materials.  Hold onto your packets.  I will collect them.
+{
+    "your_reasoning": "The teacher repeatedly checks the thinking of the whole class, not just a few volunteers. She has students discuss with partners (“talk to your neighbors”), then asks for whole-class shows of hands on which fraction is larger and who is unsure, and revisits the question after further explanation. She circulates while students work, asking multiple groups to justify which fraction is bigger and why. These moves indicate an intentional attempt to gauge understanding across many students, not only isolated individuals."
+    "rating": 1
+}

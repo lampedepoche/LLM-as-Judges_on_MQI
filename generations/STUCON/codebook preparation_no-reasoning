@@ -1,0 +1,22 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Students Work with Contextualized Problems" which captures, on a four-point scale (Not Present, Low, Mid, High), the extent to which students work with contextualized problems (e.g., story problems, real-world applications, experiments that generate data). This includes solving such problems; discussing solutions to such problems; writing expressions or equations to represent contextualized situations; making sense of contextualized relationships through tables, graphs or other representations; or creating contextualized problems/situations to match expressions/equations.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+- Do not count when the teacher or student mentions a contextualized example for illustrative purposes (e.g., “you can think of 1/4 as a quarter and 1 whole as a dollar when you are converting fractions to decimals“ or “remember yesterday when we solved the hat problem?”), but the students do not work on it.
+- This is not a duration code; the difference between a Low, Mid, and High is amount of teacher scaffolding, not length. In the case of two or more different tasks with different levels, score to the highest level.
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Not Present
+   - Students do not work with contextualized problems or a contextualized problem is mentioned but not worked on.
+- 2 = Low
+   - The contextualized problems are executed as mostly rote/routine exercises. Teacher heavily scaffolds the presentation, for example, by telling students which procedure is to be applied, helping them write out the expression or equation, and so forth.
+   - Also include here times where there is data collection without reference to the underlying relationships or shape of the data. For instance, students may be collecting and marking down ice cream preferences in preparation for later plotting the graph and discussing.
+- 3 = Mid
+   - Some student reasoning about contextualized problems is required for at least a portion of the problem execution; however, solution paths may be co-constructed or scaffolded by teacher to some extent. For instance:
+      - Students play some role in deciding how to solve the problem
+      - The problem starts off as non-routine but teacher hints at a solution method
+- 4 = High
+   - Students are allowed significant opportunities to think and reason mathematically about contextualized problems. Students might need to choose which operation to apply, decide which kind of graph is appropriate for their data, or figure out how to write an expression that represents a pattern. The characterizing feature of this segment is that the teacher will not be doing much of the cognitive work of solving the problem.
+
+Provide the integer corresponding to the score (1-4)

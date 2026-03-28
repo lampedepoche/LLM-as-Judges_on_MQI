@@ -1,0 +1,29 @@
+INSTRUCTIONS
+
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Linking Between Representations" which refers, on a three-point scale (Low, Mid, High), to teachers’ and students’ explicit linking and connections between different representations of a mathematical idea or procedure. To count, these links must occur across different representational “families” e.g., a linear graph and a table both capturing a linear relationship. So, two different representations that are both in the symbolic family (e.g., 1/4 and 0.25) are not candidates for being linked.
+For Linking Between Representations to be scored:
+- At least one representation must be visually present
+- The explicit linking between the two representations must be communicated out loud
+
+For Linking Between Representations to be scored Mid or High, two conditions must be satisfied:
+- Both representations must be visually present
+- The correspondence between the representations must be explicitly pointed out in a way that focuses on meaning (e.g., pointing to the numerator in 1/4, then commenting that you can see that one in the figure, pointing to the four in the denominator, pointing to the four partitions in the whole. “You can see the 1 in the 1/4 corresponds to the upper left-hand box, which is shaded, showing one piece out of four total pieces...”)
+For geometry, we do not count shapes as a representation that can be linked—we consider those to be the “thing itself.” However, links can be scored in geometry if the manipulation of geometric objects is linked to a computation, e.g., showing that two 45-degree angles can be combined to get a 90 degree angle and linking that to the symbolic representation 45 + 45 =90.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+- If links are made but underlying representation/idea is incorrect, do NOT count as linking between representations.
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Low
+  - Links are present in a pro forma way; For example, the teacher may show a figure and state that one quarter is one part out of four. These links will not be very explicit or detailed; both representations need not be present.
+- 2 = Mid
+  - Links and connections have the features noted under High, but they occur as an isolated instance in the segment.
+- 3 = High
+  - Links and connections are present with extended, careful work characterized by one of the following features:
+    - Explicitness about how two or more representations are related (e.g., pointing to specific areas of correspondence)
+    - OR Detail and elaboration about the relationship between two mathematical representations (e.g., noting meta-features; providing information about under what conditions the relationship occurs; discussing implications of relationship)
+  - These links will be a characterizing feature of the segment, in that they may in fact be the focus of instruction. They need not take up the majority or even a significant portion of the segment; however, they will offer significant insight into the  mathematical material.
+
+Provide a very concise reasoning and the integer corresponding to the score (1-3)

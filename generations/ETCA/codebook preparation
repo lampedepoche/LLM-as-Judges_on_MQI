@@ -1,0 +1,36 @@
+INSTRUCTIONS
+
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Task Cognitive Demand" which captures, on a three-point scale (Low, Mid, High), student engagement in tasks in which they think deeply and reason about mathematics. This code refers to the enactment of the task, regardless of the initial demand of the curriculum/textbook task or how the teacher sets up the task for students.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+- Student confusion does not necessarily suggest that students are engaging with the content at a high cognitive level.
+- Working on review tasks or on ideas discussed in previous lessons does not necessarily mean that students use lower
+order thinking skills.
+- This code should not be confounded with the difficulty of the task or whether it is appropriate for a certain grade-level.
+- Code a student presentation of a solution method at the same level of cognitive demand as the task itself was coded.
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Low
+  - There is a brief example of a cognitively demanding activity, e.g.
+    - A momentary think-pair-share where students define a term
+    - Direct instruction with one or two examples of student explanations or Student Mathematical Questioning and Reasoning
+    - Tasks with a momentary high cognitive demand element
+    - Tasks that are not completely routine, but are heavily scaffolded for students with hints or directions
+- 2 = Mid
+  - Segment features mix of demanding and undemanding tasks and activities, e.g.
+    - Tasks with variable enactment (e.g., demanding tasks followed by a transition to undemanding tasks; or, when working in small groups, some groups work on a high-demand task while some groups work on an undemanding task)
+    - Direct instruction with student explanations and/or SMQR input at certain points
+    - Tasks with middling cognitive demand
+- 3 = High
+  - Students engage with content at a high level of cognitive demand.
+  - Examples of cognitively demanding activities include when students:
+    - Determine the meaning of mathematical concepts, processes, or relationships
+    - Draw connections among different representations or concepts 
+    - Make and test conjectures
+    - Look for patterns
+    - Examine constraints
+    - Explain and justify
+
+Provide a very concise reasoning and the integer corresponding to the score (1-3)

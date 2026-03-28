@@ -1,0 +1,24 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Mathematical Language" which captures, on a three-point scale (Low, Mid, High), how fluently the teacher (and students) use mathematical language and whether the teacher supports students’ use of mathematical language.
+Examples:
+- Fluent use of technical language
+- Explicitness about mathematical terminology
+- Encouraging students to use mathematical terms
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Low
+  - Low density of mathematical language. Not necessarily an indication that teacher is not “fluent” in mathematics, but simply a segment where few mathematical terms are used, or the same term is used over and over without features of High.
+  - Also score as Low when segment has middling density, but sloppy use.
+- 2 = Mid
+  - Teacher uses mathematical language as a vehicle for conveying content, with middling density. However, the segment has few or none of the special features listed under High.
+  - Also score as Mid when segment has both features of High but includes some linguistic sloppiness or low density.
+- 3 = High
+  - Teacher uses mathematical language correctly and fluently. Can be achieved in two ways:
+    1. Density of mathematical language is high during periods of teacher talk.
+    2. Moderate density, but also explicitness about terminology, reminding students of meaning, pressing students for accurate use of terms, encouraging student use of mathematical language.
+  - Instances of students using sophisticated mathematical vocabulary can also count toward a High.
+
+Provide a very concise reasoning and the integer corresponding to the score (1-3)

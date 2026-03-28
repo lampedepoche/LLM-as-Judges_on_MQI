@@ -1,0 +1,79 @@
+teacher: All right, boys and girls.  We’re going to talk about
+student: In partial products you break up the—
+teacher: Break it up.  Break up what?
+student: The numbers.
+teacher: You break up the numbers.  Why are we breaking them up?  We’re not really smashing them.  I know we’ve talked a lot about idioms.  Okay.  Why are we breaking them up?
+student: To make it easier.
+teacher: It makes it easier to work with.  Sometimes when we try to do a long algorithm, it turns into a headache, right? This breaks it up and gets you able to see how it works, part by part, and put it together.  Algorithm can be good or bad in some ways.  It’s something you need to know, but often through the years in math, people have done these algorithms that can be boring, but nobody understood what they were doing.  You just learn steps, and that’s it.  You still need to know, but with partial products it helps you to understand more of what’s going on.  Student T, tell me what you know about an algorithm.
+student: You put them all together and then multiply it to find the answer.
+teacher: Yes, you just set it up traditionally like a multiplication problem, and you have to go back and forth, and you have to think, and pay attention, and hold your place.  You have to line up everything correctly. You’re getting better at that as well.  Student S, did you want to add something?
+student: You have to go step by step.
+teacher: Step by step.  Where do you think it’s easier to make a mistake at?  It depends, but overall, what do you think?
+student: The second line.
+teacher: Yes, the second and third line where you have to put your zero in there and hold your place.  Overall I think we probably make more mistakes here than we do here. Does everyone agree?
+multiple students: Yes.
+teacher: Today you’re going to work in some groups so we can update our hallway display.  We put one up there with just 2 by 2 multiplication, but we’re going to challenge ourselves, differentiate, try 2 by 2, 2 by 3, even 3 by 3, but you’re going to build up to it in your groups.  If you have not noticed yet, these are the groups you’re going to be working in and the table numbers are on your tables.  So I think you’ve all had a chance to look at this.  When we leave the carpet area and go back to work in groups, you will go to this table with the people here.  There are a few people absent.  That’s okay.  We can have a few groups of two.  Does everybody know what table they are going to walk to?
+multiple students: Yes.
+teacher: They’re numbered over there 1-5 on the door and then 6-9.  I’ve done this kind of randomly.  There’s a few people I put together that I thought would work well together, but some of it has been random.  We work well with anyone in this class, right?  It doesn’t matter who you work with.  You work together.  We’ve proven that over and over.  Let’s review some of these.  Two digit by two digit multiplication.  This is the first one we started with, and at first it was hard, it was confusing, but we’ve gotten better and we understand it better.  All right.  So first of all I see lots of hands.  That’s wonderful.  Hold on one second.  With your hands – someone explain to me what this little grid model means, first of all, before we start answers, and why we’re doing it.  Again, you’re thinking back to stuff you’ve learned already. Student D?
+student: It’s when you break up the big numbers into tens and ones and multiply them side by side like that, and the first answer goes in that little box.
+teacher: Good.  So we’ve learned that when we break it apart – this also works with place value.  Place value is also part of the automobile.  It’s the engine of your car. Without place value, it’s not going to go anywhere either.  You need wheels.  I’m making a comparison. I always like to throw a little language arts in too. So is this really – we’re doing 21 times 35.  Is this really just a 3?
+{
+    "your_reasoning": "The teacher briefly explains that breaking numbers into parts makes multiplication easier and helps reveal how the computation works, but this reasoning appears only once and is not developed further. Most of the segment shifts to procedures, logistics, and definitions rather than sustained justification of why methods work."
+    "rating": 1
+}
+
+
+teacher: Okay, so we have been working with mostly these larger numbers, and so today we are going to aim to solve this final problem, 13 x 8.  How we’re going to do that is we’re going to work in clusters.  So clusters are a few sets of number equations that are related, but they’re not really related to each other.  Because is 3 x 8 related to 13 x 4?
+student: No.
+teacher: Not really.  But both of these equations are related to our final problem.  You are going to be solving multiplication clusters after we do this activity.  So we’re going to do it together as a class with this example, then you’re going to go back to your seats or your groups, your partners, and you’re going to work together to solve your own sets, and then you’re going to make a poster.  So that’s the whole big picture.  And we’re going to figure out how to solve this equation. What’s 13 x 2, Student M?
+student: 26.
+teacher: 13 x 4? Student K?
+student: 52.
+teacher: 3 x 8, Student K or A?
+student: 24.
+teacher: What’s a way you could solve this in your head quickly? What’s one of the strategies we’ve been using, or you’ve used in third grade maybe? What could you do?
+student: Skip count.
+teacher: That’s a great suggestion.  You could skip count.  So Student K or A, skip count in your head.
+student: 24.
+teacher: 24, good girl.  And then we have this one, 12 x 8.  Student F?
+student: 98?
+teacher: 96.  So now what we have are these four equations solved. They’re our clusters.  So how can we use these clusters, each one of these, to help us solve 13 x 8? We could use them as what, Student L?
+student: You could double 13 x 4.
+teacher: 13 x 4, we could double it, why?
+student: Because 4 + 4 = 8.
+{
+    "your_reasoning": "There are two brief explanations of why a method works: using skip counting as a mental strategy, and doubling 13×4 because 4+4=8. These explanations are correct but short and not the main focus of instruction, which centers on solving related facts rather than developing the underlying reasoning."
+    "rating": 2
+}
+
+teacher: Okay, today’s activity is comparing fractions.  This is a revisit.  Ladies and gentlemen, next week you will be having your math unit exam, okay?  So today is the day. Speak now or forever hold your peace.  If there’s something that you do not understand, we need to work that out today, because on Monday you will be having an exam, okay? Now today’s activity, if you notice on the sheet, it says, you may know how to compare fractions, which I know you do, but what we normally do is we find a common denominator when we compare fractions.  Well, I’m going to ask you today not to do that.  We need to figure out another strategy that we can use to compare fractions.  And we need to determine in that comparison, which fraction is larger and which fraction is smaller. So on your activity sheet, it says here, I want you to compare fractions using diagrams.  Well, I’m going to give you a hint.  Normally when we use diagrams, we have been using circles, and what have we been calling these circles that we use?
+student: Pie.
+teacher: Slices of pie.  What if I do something like this?  What would this be called?  What is that box named?  What do we call that box?
+student: An array.
+teacher: An array.  I’m going to ask you to compare fractions using an array, okay?  And the reason why I’m asking you to use an array is because it’s a lot easier to determine the size of the piece using this type of array than it is using this. Okay?  This becomes a little bit more tricky to eyeball and judge the size.  But I can make two arrays that are basically the same shape or the same size.  I have a hard time making two circles that are the same size, okay? So I’m going to ask you, ladies and gentlemen, to not do the common denominators for this activity, okay?  It says here, using diagrams determine which fraction in each pair is larger. For the first one, we have five-ninths or seven-ninths, the second one we have two-fifths or two-sevenths, the third one, three-fourths or five-sixths, and the fourth one, five- eighths or four-ninths. Ladies and gentlemen, after you compare all of these fractions, I want you to determine for each set what rule you can use to determine when you have fractions that are similar.  What rule can you use for every single fraction that’s similar to the two that you’re comparing?  Okay?  So you’re going to look at this first set and then determine a rule that you could use for the first set.  Then the second set, you’re going to look at those, and when you find which one is larger, think of a rule you can use if you have other fraction sets that are similar, okay? You have math paper in front of you.  I want you guys to do some collaborative learning, so you’re going to be talking at your tables as you do this, okay?  Are there any questions so far?  No questions?  Okay, well have at it, have fun. I’m going to come around and listen to some of your discussion as you talk, okay? So the first one is five-ninths or seven-ninths.  So you’re comparing.  And you’re going to determine in the box which one is larger.  Is it this one, or is it this one?  Okay? And then you’re going to determine a rule.  What rule can I come up with for a set of fractions that I might have that are similar?  And this rule should work for every single fraction that’s similar that you have to do comparisons for.   Yeah, talk in your groups. I see you circled one.  Why is that one larger?  Talk to your tablemates.  Why?  Why do you believe that’s larger?
+student: Because 7…
+teacher: I notice that your table make here, Student N, drew an array, and she colored in some pieces of that array.  Why does that work?
+student: Because when the denominators are the same, you can look at the denominator and determine which one’s larger.
+teacher: So when the denominators are the same you can look at the denominators to determine?
+student: The numerators.
+teacher: So when the denominators are the same, what do I do?
+student: You look at the numerator and you can compare the numbers to get which one is larger.
+teacher: Oh, I love that.  Because these denominators are the same you’re saying I can look at the numerator to determine the larger fraction.
+student: Yeah.
+teacher: And because this numerator is larger, this fraction is larger, because they have the same denominator, is that what you’re telling me?
+student: Yes.
+teacher: Do you guys agree with that?
+student: Yes.
+teacher: So can you use this, and do you think it will work for every single fraction whose denominators are the same, do you think that rule would work for every set of fractions? Let’s say I’m dealing with four-fifths and three-fifths. Could you use that rule that you just told me to determine which one of these is the larger?
+student: Uh-huh.
+teacher: So that rule will hold true.  And why does this work again?
+student: Because when the denominators are the same, you can look at the numerators and you can tell which one is larger.
+teacher: Do you agree with her or disagree?
+student: Yes, I agree.
+teacher: Did you draw a diagram?  Where’s your diagram?  See, I see hers.  She used a diagram.  Ladies and gentlemen, are we drawing diagrams here?
+multiple students: Yes.
+teacher: Okay, so now look at B and talk amongst yourself about B.  What can you tell me about B?  I wanted to know which one of these is larger.
+{
+    "your_reasoning": "The teacher explicitly develops and probes the reasoning behind comparing fractions: why arrays clarify piece size, why equal denominators allow comparison by numerators, and why this rule holds for all similar cases. The dialogue repeatedly centers on justifying why the method works, making mathematical explanation a major instructional focus."
+    "rating": 3
+}

@@ -1,0 +1,91 @@
+teacher: Okay.  We are going to be doing popcorn fractions today.  What I want you to do first is you should have a napkin at your desk.  Go ahead and unfold your napkin so it is completely out.  Okay.  Student M and Student S are bringing you a bag of popcorn.  What we’re going to do with this popcorn is have to imagine a little bit, have to pretend, okay?  Now realistically when you pop a bag of popcorn you have more popcorn in your bag than this, right?  But we’re going to have to use our imaginations and pretend this is a bag of popcorn you just took out of the microwave.  What I want you to do is at your table, pick a partner.  It has to be somebody sitting across from you or next to you, okay?  So we have a partnership here, here, an here, and my three ladies here, can you be a group of three?  So what’s going to happen is we’re going to practice adding fractions with unlike denominators. What I want you to do first is open up your bag of popcorn onto your napkin.  You may not eat it yet.  I promise you’ll get to eat it, but not yet.  What I’d like you to do is go ahead and count how many you have.  I will tell you when you can eat and what you can eat, nothing yet.  Okay.  Sometimes popcorn is kind of fragile and it breaks.  Everyone should have 24.  Raise your hand if you have 24.  Okay.  Raise your hand if you have more than 24.  If you have more than 24, I want you to eat as many pieces as you have to so you have 24.  Double check and make sure you have 24 pieces.  So you have exactly 24, yes?  You just counted them.  You’re trying to cheat and eat a piece.  I heard you.  You have 24.  How many do you have, Student K?  Oh my goodness.  Come on.  Okay. 1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Seriously?  1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Okay.  So how many pieces are there in all?
+multiple students: 24.
+teacher: So what is our denominator for how many we have here?
+multiple students: 24.
+teacher: Because our denominator is always what?  How many we have in all.  Now with your partner we’re going to practice adding fractions with unlike denominators.  Okay.  So what I want you to do is decide who is person A and person B in your group.  In my group over here, one of you is going to have to sit out for this one. Okay.  So establish who is person A and person B. Okay.  Person A, what I would like you to do is split your popcorn into groups of 8.  Okay.  So each group should have 8 kernels in them.  Person A, you’re splitting it so each person has 8 kernels in a group. See how everyone else has their napkins unfolded? Just person A.  Okay.  So my people that split them into groups of 8, you have how many groups in all? Three groups in all.  Everybody see that?  What I want you to do is put two of those groups back into your Ziploc bag.  Okay.  Person B, I would like you to split yours so you have 6 pieces of popcorn in each group.  6 in each group.  If you have 24 kernels, you should have 6 in each group.  Okay.  You did something wrong.  You don’t have 24 kernels. Okay.  My person B, if you’re a B person, I asked you to split it so you have 6 popcorn kernels in each group.  How many groups do you have?
+multiple students: Four.
+teacher: I would like you to put two of those groups into your bag, so you have two groups left out.  My A people, look up here.  So you had how many groups in all?
+multiple students: Three.
+{
+    "your_reasoning": "Students only state numerical totals (e.g., “24,” “three,” “four”) without explaining any mathematical ideas, procedures, or reasoning. Their contributions identify counts but do not describe why procedures work, what steps mean, or how the fractions relate. No student explanation extends beyond giving a number."
+    "rating": 1
+}
+
+
+teacher: Okay, so we have been working with mostly these larger numbers, and so today we are going to aim to solve this final problem, 13 x 8.  How we’re going to do that is we’re going to work in clusters.  So clusters are a few sets of number equations that are related, but they’re not really related to each other.  Because is 3 x 8 related to 13 x 4?
+student: No.
+teacher: Not really.  But both of these equations are related to our final problem.  You are going to be solving multiplication clusters after we do this activity.  So we’re going to do it together as a class with this example, then you’re going to go back to your seats or your groups, your partners, and you’re going to work together to solve your own sets, and then you’re going to make a poster.  So that’s the whole big picture.  And we’re going to figure out how to solve this equation. What’s 13 x 2, Student M?
+student: 26.
+teacher: 13 x 4? Student K?
+student: 52.
+teacher: 3 x 8, Student K or A?
+student: 24.
+teacher: What’s a way you could solve this in your head quickly? What’s one of the strategies we’ve been using, or you’ve used in third grade maybe? What could you do?
+student: Skip count.
+teacher: That’s a great suggestion.  You could skip count.  So Student K or A, skip count in your head.
+student: 24.
+teacher: 24, good girl.  And then we have this one, 12 x 8.  Student F?
+student: 98?
+teacher: 96.  So now what we have are these four equations solved. They’re our clusters.  So how can we use these clusters, each one of these, to help us solve 13 x 8? We could use them as what, Student L?
+student: You could double 13 x 4.
+teacher: 13 x 4, we could double it, why?
+student: Because 4 + 4 = 8.
+{
+    "your_reasoning": "Students occasionally give reasoning beyond stating products, such as proposing skip-counting and explaining why doubling 13×4 works (“because 4 + 4 = 8”). These are genuine mathematical explanations, but they are brief, infrequent, and do not dominate the segment."
+    "rating": 2
+}
+
+
+teacher: All right, so we’re gonna switch it up.  We’re gonna do math today first.  We’re gonna continue talking about – well, what have we been talking about in math?  Student J?
+student: Patterns.
+teacher: Patterns, right?  Finding the pattern.  What are the easiest patterns to find?  And, I mean, that’s a little opinionated, but usually – how can you tell the pattern’s gonna be an easy one to find?
+student: When it’s steady.
+teacher: When it’s steady.  How do you know when it’s steady?  When you’re looking at a graph.  Which is what you’re gonna do on that blue paper.  Student T?
+student: When it keeps adding by the same number.
+teacher: Yes, but when you’re looking at a graph.  So, if I drew a graph on the board.  What would a steady line look like?  So, if this was zero, this was 10 --
+student: It would be straight.
+teacher: It would be straight, right?  So, if I have a straight increase, it’ll look something like this.  Right? [Draws on board]  If I wanted to make it like this, or even like this.  Which line -- we’ll label them A, B, C – so, let’s talk about the flicker bell.  Let’s use the flicker bell. Which lines shows a rate growing fastest?  The fastest growth, and how do you know?   Student R?
+student: Because, it’s the same part of the --
+teacher: What do you mean?
+student: Like, it’s increasing faster.
+teacher: How do you know that?  You’re right, A is increasing faster. How do you know that, though?
+student: Because --
+teacher: Think about what goes down here.  So, we can number them.  That helps.   One, two, three, four, five, six.
+student: At some ages it’s taller than all the other.  Like, all the A’s are taller than all the other.
+teacher: Okay, so it’s gonna be taller at certain ages.  But, what if you didn’t have these numbers like I had had before – if you were just looking at the line?
+student: The steady line, it’s --
+teacher: They’re all steady.  Right?  So, how do you know this one’s increasing at a faster rate than this one or this one?
+student: Because, it’s steeper?
+teacher: There we go!  That’s the word we’re looking for – steeper. Steepness of this line.  Although, we don’t know exactly what it is, you can see that this line, the slope is a lot sleeper, than the other three.  Today, we’re gonna be looking at graphs that resemble steady growth patterns, but we’re also gonna be looking at graphs that don’t resemble steady growth patterns.  Who knows what those lines would look like?  We haven’t really worked with them, because we’ve always been able to find a ruler or a pattern, and figure it out.  Student T?
+student: It looks like it’s steady.
+teacher: What does that look like, though?
+student: Like, it would go up and down.
+teacher: So, you think it’d increase and decrease?
+student: Yeah.
+teacher: Okay.   Anyone else, Student R?  This is a, “What do you think?”  You don’t know yet, this is our first time doing it.  Student R?
+student: Bumpy.
+teacher: Bumpy, is that what you said?  So, you were saying the same as Thomas, a little increase and decrease?
+student: It depends.
+teacher: Okay.
+student: It’s not always gonna look the same.
+teacher: I’m glad two people in my class are thinking.  Anyone else thinking?   So, we know what a steady line looks like.  I’m thinking, “What would a line that wasn’t steady look like?” Student J?
+student: It would be growing slow, and then --
+teacher: Okay, say that a little louder.
+student: It would be growing slow, and then --
+teacher: So, what would change?  The what of the growth would change? The what – so, first we were talking about the flicker bell, and that even now we’re gonna get into something different.  What would change?
+student: The pace.
+teacher: What do we call that?  It’s a term we’ve already used.  What do we call the “what’s” changing?  Tone?
+student: The growth.
+teacher: The growth “what”?  You’re right.  The growth what?  Student T?
+student: The growth pattern.
+teacher: Or?
+student: Speed.
+teacher: The speed or rate, right?  The speed of the growth is changing. It’s not steady.  Okay?  So, let’s look at this chart I put up here.  For your participation today, you will be able to get a ticket, correct?
+{
+    "your_reasoning": "Students repeatedly offer explanations about how to recognize patterns on graphs, why a line shows faster growth, and what non-steady growth would look like. They articulate reasoning (e.g., “it’s steeper,” “it would go up and down,” “the pace changes”) and respond to the teacher’s probing by clarifying their ideas. Explanatory contributions occur frequently and drive much of the discussion."
+    "rating": 3
+}

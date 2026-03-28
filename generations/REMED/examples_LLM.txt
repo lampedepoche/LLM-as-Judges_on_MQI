@@ -1,0 +1,116 @@
+teacher: Okay.  We are going to be doing popcorn fractions today.  What I want you to do first is you should have a napkin at your desk.  Go ahead and unfold your napkin so it is completely out.  Okay.  Student M and Student S are bringing you a bag of popcorn.  What we’re going to do with this popcorn is have to imagine a little bit, have to pretend, okay?  Now realistically when you pop a bag of popcorn you have more popcorn in your bag than this, right?  But we’re going to have to use our imaginations and pretend this is a bag of popcorn you just took out of the microwave.  What I want you to do is at your table, pick a partner.  It has to be somebody sitting across from you or next to you, okay?  So we have a partnership here, here, an here, and my three ladies here, can you be a group of three?  So what’s going to happen is we’re going to practice adding fractions with unlike denominators. What I want you to do first is open up your bag of popcorn onto your napkin.  You may not eat it yet.  I promise you’ll get to eat it, but not yet.  What I’d like you to do is go ahead and count how many you have.  I will tell you when you can eat and what you can eat, nothing yet.  Okay.  Sometimes popcorn is kind of fragile and it breaks.  Everyone should have 24.  Raise your hand if you have 24.  Okay.  Raise your hand if you have more than 24.  If you have more than 24, I want you to eat as many pieces as you have to so you have 24.  Double check and make sure you have 24 pieces.  So you have exactly 24, yes?  You just counted them.  You’re trying to cheat and eat a piece.  I heard you.  You have 24.  How many do you have, Student K?  Oh my goodness.  Come on.  Okay. 1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Seriously?  1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Okay.  So how many pieces are there in all?
+multiple students: 24.
+teacher: So what is our denominator for how many we have here?
+multiple students: 24.
+teacher: Because our denominator is always what?  How many we have in all.  Now with your partner we’re going to practice adding fractions with unlike denominators.  Okay.  So what I want you to do is decide who is person A and person B in your group.  In my group over here, one of you is going to have to sit out for this one. Okay.  So establish who is person A and person B. Okay.  Person A, what I would like you to do is split your popcorn into groups of 8.  Okay.  So each group should have 8 kernels in them.  Person A, you’re splitting it so each person has 8 kernels in a group. See how everyone else has their napkins unfolded? Just person A.  Okay.  So my people that split them into groups of 8, you have how many groups in all? Three groups in all.  Everybody see that?  What I want you to do is put two of those groups back into your Ziploc bag.  Okay.  Person B, I would like you to split yours so you have 6 pieces of popcorn in each group.  6 in each group.  If you have 24 kernels, you should have 6 in each group.  Okay.  You did something wrong.  You don’t have 24 kernels. Okay.  My person B, if you’re a B person, I asked you to split it so you have 6 popcorn kernels in each group.  How many groups do you have?
+multiple students: Four.
+teacher: I would like you to put two of those groups into your bag, so you have two groups left out.  My A people, look up here.  So you had how many groups in all?
+multiple students: Three.
+{
+    "your_reasoning": "No student mathematical difficulty is identified or addressed. The teacher manages materials and directs grouping, counting, and sorting popcorn but never responds to a student misconception about fractions or grouping. The single moment of student error (“You did something wrong. You don’t have 24 kernels.”) is treated only as a brief correction with no exploration of underlying thinking. There is no conceptual or procedural remediation."
+    "rating": 1
+}
+
+teacher: Okay so for today’s lesson we’re still doing our geometry unit. Okay last week we did a lot around triangles. The different types of triangles the angles and so forth so today we’re going to move on to quadrilaterals and I know last year you did some work around quadrilaterals. Can anyone give me the definition of what they remember a quadrilateral to be? Student J?
+student: Four.
+teacher: What means four?
+student: Four sides.
+teacher: What means four though in that word anyone know?
+student: Four angles?
+teacher: Quad means four just like in Spanish uno, dos, tres, quatro. Quad means four. Okay so that’s good you remembered four. Lateral anyone know what that means?
+student: Equal
+teacher: Nope.
+student: Equilateral?
+teacher: Sides. Okay, so quad meaning four lateral sides, so four sides. Okay so a quadrilateral would be a four sided shape.
+student: Oh I get it now.
+teacher: Okay today, today’s lesson is heavy on vocabulary that you’ve learned in the past. Part of today’s lesson is not just about the characteristics of quadrilaterals. It’s also using a lot of vocabulary that you’ve had in the past okay. What you’re going to do today is you’re going to group. When we’re done with the smart board part of the lesson you’re going to work with a partner and you’re going to group quadrilaterals by their characteristics. So hopefully this mini-lesson on the smart board gives you some definitions and it’s also interactive in that hopefully it’ll give you a solid background before you do the cutting and pasting afterwards. So what I wanna see is we’ll go through these you’re gonna do some grouping on the smart board as a whole class and then you’ll work with your partners and then we’ll share back. Do you remember doing that with the triangles with the cutting and pasting?
+student: Yeah
+teacher: Okay so let’s take a look up here and we have quadrilateral quest one. Which shapes below have all of these properties. The opposite sides are congruent. What does congruent mean?
+student: Equal sides.
+student: They call it like, they’re equal length, um, same.
+teacher: Same okay, we know congruency means same size same shape. So congruent would mean the same here. Opposite sides are parallel what does parallel mean? What does parallel mean? Student B?
+student: Lines that never intersect.
+teacher: Never intersect, same distance remember we discussed that before. Opposite angles are congruent. So can you find a shape up there one of the, one of the quadrilaterals that fits all of those properties? The opposite sides are congruent, the opposite sides are parallel and the opposite angles are congruent. If you can find one then I want you to come up to the board and I want you to drop it in the little blue box Student A. just one.
+student: Just one, is there more than one though?
+teacher: On this particular one there is yeah.
+student: I only see two.
+teacher: Shh, keep your comments to yourselves. [BING] Green light means you did good so the opposite sides were congruent they were parallel and the angles were congruent. Student D? [BING] Student B? [CLUNK] Okay why did he get the red light?
+student: Oh this one this one this one.
+teacher: Okay but why did, why did you get the red light on that? Tell me what didn’t fit?
+student: This one.
+teacher: Right, Right the opposite angles were not congruent. Were the sides?
+student: No.
+teacher: That’s right, that’s why right one was shorter? Okay are there anymore Student N? [BING] Student A.
+student: Are we being recorded?
+teacher: Yes. You’ve moved all the shapes with the properties listed above okay. We’re gonna do one more than I’m gonna ask you a few questions after we do this one. Which shapes below have all of these properties: the quadrilateral has 4 sides but only 2 sides are parallel Student M? [CLUNK]
+teacher: Okay why did you get the red light on that? Do you know? Can anyone help him out? Student A why did he get the red light on that?
+student: It just says only 2 sides are parallel.
+teacher: How many sides are parallel on that one?
+student: 4
+teacher: 4, wanna try another one?
+student: Oh my gosh, right.
+{
+    "your_reasoning": "The teacher repeatedly asks students to justify incorrect choices by identifying which required properties fail (e.g., non-congruent angles, too many parallel sides). This goes beyond simple correction and prompts students to reason about why the selection does not meet the definition, providing moderate conceptual support tied to underlying geometric properties. The remediation is present but not developed at length."
+    "rating": 2
+}
+
+
+teacher: Okay. Alright thank you. Student D can you please make sure the door is closed all the way. Okay boys and girls we’re going to start, we’re going to start by reviewing the terms perimeter and area. Who can tell me how to find the perimeter of an object I can be a triangle it could be a quadrilateral it could be a pentagon it could be a hexagon, how do I find the perimeter of a shape. Student D what do I need to do?
+student: For perimeter you have to add up the sides.
+teacher: Very good, you add up the sides and you pay very close attention to the label that you’re using. For all the shapes that you had to find the perimeter for this morning, they were all measured using the label centimeters, or cm is the abbreviation for centimeters. Very good we find the perimeter by adding the sides. What about the area of an object. How do I find the area of a rectangle? That’s what we needed to do this morning. Student M how do I do that?
+student: Multiple like, um, like one different side from another different side.
+teacher: What are those two sides called, it begins with a D, I look to the?
+student: Dimensions?
+teacher: Dimensions and you multiple the dimensions together. Your label is going to be different on area then it is on perimeter. Okay let’s take a look at what we needed to do this morning for morning work. Quadrilateral one is a rectangle. Dimensions are 1cm by 6cm. Student D did you find the perimeter for that quadrilateral? And the perimeter with a label is what?
+student: It’s 14cm
+teacher: Can you tell us how you found it?
+student: I found it by adding 6 and 7 and the other two sides are 6 and 7 so I just added 7 plus 7 to get 14.
+teacher: Very good can you label quadrilateral one? What about the area? The area of quadrilateral one?
+teacher: Student D be careful because what you just told me is something different than something you wrote on the board.  What did you tell me the perimeter was?
+student: It was 15cm, uh, 14cm.
+teacher: 14cm is what you told me, yep, 7 plus 7 is 14. And the perimeter Student E?
+student: Um, perimeter?
+teacher: The perimeter is what Student D just did I’m sorry you’re right, the area.
+student: Uh, 6.
+teacher: 6 what?
+student: cm
+teacher: What kind of cm?
+student: square cm
+teacher: Square cm very good. You can write it inside the quadrilateral or around it 6 square cm. Okay let’s go to rectangle number 2. Quadrilateral number 2, finding the perimeter yes Student A?
+student: The perimeter is 10cm.
+teacher: Can you tell us how you found it?
+student: I added, um, 2 plus 4 and 3 plus 3 equals 6 and I know 4 plus 6 equals 10 cm.
+teacher: Very good go ahead and write that up there for quadrilateral 2. It is 10 cm. What about the area how much space does that object take up. The distance around the object is 10 cm what about the area? Student R?
+student: 6 square cm.
+teacher: Very good 6 square cm, 2 cm times 3 cm is 6 square cm. Okay let’s go to quadrilateral number 3 also a rectangle. Dimensions are 7cm by 3cm. It’s a 7 by 3. Student J what’s the perimeter of quadrilateral 3?
+student: 20cm
+teacher: Say it again sorry?
+student: 20cm
+teacher: Can you tell us how you found it?
+student: I added the lengths and the widths.
+teacher: Okay tell us what 4 numbers you added together.
+student: I added 3 plus 3 and 7 plus 7.
+teacher: And you got a total of?
+student: 20cm
+teacher: Very good, very good go ahead and mark quadrilateral 3. Nice job checking that work Student O following along as we’re correcting. And the area? Area of Quadrilateral 3 also known as a rectangle. Student C?
+student: The area is 21 square cm.
+teacher: Go ahead Student J hand it off to Student C. the area is 20 square cm. 3cm times 7cm equals 21 square cm. Nice job. That’s how much space that object takes up. Okay last one. Rectangle number 4. Student S you telling me perimeter or area?
+student: Perimeter.
+teacher: Good.
+student: The perimeter is 16cm.
+teacher: Can you tell us how you got that answer?
+student: I added 7 and 7 and got 14 and 1 and 1 equals to and 14 and 2 is 16.
+teacher: It is 14 plus 2 is 16cm, nice job Student S. And the area? Student C?
+student: 7 square cm
+teacher: Tell us how you got it.
+student: I did 1 times 7 equals 7 square cm.
+teacher: Very good you multiplied 7cm times 1cm equals 7 square cm nice job. Sorry. Any questions on perimeter and area before we move on. Student E you have a question?
+student: I’m kinda getting confused with the area?
+{
+    "your_reasoning": "The teacher consistently presses students to explain their reasoning, identifies inconsistencies (e.g., pointing out when a student’s spoken perimeter conflicts with what they wrote), and repeatedly highlights the underlying meaning of perimeter and area—how they are found, what labels mean, and why certain operations apply. When a student expresses confusion, the teacher has already engaged in extended clarification of concepts, emphasizing dimensions, multiplication for area, and additive structure for perimeter. This constitutes sustained, systematic conceptual remediation."
+    "rating": 3
+}

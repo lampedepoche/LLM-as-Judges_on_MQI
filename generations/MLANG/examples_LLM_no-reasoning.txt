@@ -1,0 +1,104 @@
+teacher: So you had three groups and out of all the groups you had three in all, and before I told you to put anything away, you had 3 out of 3 on your napkin, right?  Then I asked you to what?  Take away how many?  2.  So what do you have left on your napkin?
+multiple students: One third.
+teacher: You have one third left, right?
+multiple students: Yes.
+teacher: Okay.  So person A, you have one third left on your napkin, correct?  B people, how many groups did you have in all when you sorted them out?
+multiple students: Four.
+teacher: Before I told you to do anything you had all 24 pieces, right? Four fourths.  Then I told you to take away how many?
+multiple students: Two fourths.
+teacher: Two fourths.  Then you had what leftover?  What you had, B people, left on your napkin, is two fourths, correct? My A people – how many kernels are actually in one third of your whole bag?  So basically my A people, how many do you have left on your napkin right now? 8 pieces.  I told you how many to put in there, so you should know.  So one third is equal to 8 pieces of popcorn.  Do we agree?  Give me a thumbs up if you agree to that.  Okay.  My B people, two fourths, how much is two fourths equal to?  How many kernels do you have on yours?  12, right?  How many was in one group?  6.  You have two groups there.  So you actually have 12 kernels.  Do we agree?
+multiple students: Yes.
+teacher: Now what I want you to do – B people, raise your hand.  A people raise your hands.  If your hand is up because you’re a B person, I want you to take the kernels that are on your partner’s napkin and put them onto your napkin.  Do not fight.  Follow my directions.  I did not say eat them.  I just said take them onto your napkin.  You have not followed the first directions yet, so you just messed up the problem because I told you to put two of those groups into your bag.  Pick them up.  Okay.  Both partners give me a thumbs up when that operation has been completed.  Student S and Student M, you’re done.  So B person, you have all the popcorn.  A person, you have none on your napkin.  Is that correct?  What we basically just said was one third plus two fourths, right?  Because we combined them and put them together.  Can we do this?  Can I figure out how many kernels I have now?  How many kernels should I have on here?  Without counting them, how many kernels should I have here?  I added one third plus two fourths.  I should have 20, right?  Okay.  I should have 20 kernels on that napkin.  Count them and see if you have 20 kernels on that napkin.  Actually count them.  You have 20, Student A?  We’ll do that in a second.  So how many do you have?  Are you still counting?  How many do you have?  20?  Okay.  Student L?  You have 20?  I’m a little worried that you guys messed up my math because you didn’t follow my directions.  Student R, how many do you have?
+student: 25.
+teacher: You should have 20.  Count them.  On the napkin.  Now your scientific problem, your math problem, Student R, might be off because you had a little boo boo there, didn’t you?  You spilled the popcorn.  Now we’re talking about partnerships, right?  Now you have to think about how many you had in all to start.  Now you’ve combined them.  Not 24 because you’re working with how many bags?  Two.  Your denominator would actually be 48, right?  How many pieces are on the napkin out of the 48 we started with?  20, right? Everybody see so far?  If I had – let’s say Student V and Student J are partners.  Let’s make it real world.  They’re hanging out playing video games at Student J’s house.  Student J and Student V are like, “I’m hungry.  I’m going to pop some popcorn.  I’m so hungry, I want more than one bag.”  So they pop a bag for each of them for themselves.  So Student J has 24 pieces and Student V has 24 pieces.  Everyone with me so far?  Okay.  Student J goes to the bathroom – let’s backup a little bit.  Student J and Student V pull out different amounts of popcorn onto their plates, okay?  So Student V has out – you’re B, right?
+{
+    "rating": 1
+}
+
+
+multiple students: [counts 1-9]
+student: 10.
+teacher: Let's try that again.
+multiple students: [counts 1-9]
+teacher: How many pieces are there?  Nine.  So what's our denominator?
+multiple students: Nine.
+teacher: Nine.  You have a new denominator now.  What does this represent?  What's that?  Student M?
+student: A ninth.
+teacher: What's this?  Student T?  Student M?  Student G?
+student: Four ninths.
+teacher: Good.  Student T?  Student D?
+student: Six ninths.
+teacher: Student T?  Student A?  And what's one whole represent, Student H?
+student: Nine ninths.
+teacher: Good.  Does everyone see how we're doing this?  The rectangle helps you break them up into pieces.  So seven ninths is right here.  Now talk with your groups about this.  This is a little bit tricky.  What fraction – I'll wait because I don't have everyone's attention on me.  I find that to be a little disrespectful.  What fraction is in between one ninth and two ninths?  What do you think?  Talk with your groups about that one.  And remember what you did before. We had fourths and we broke them up into eighths.  What can we break up the ninths into?
+student: You cannot break up nine into five.
+teacher: Nope.  Good.  So we broke up the fourths and then we made what?
+student: Eighth.
+teacher: So if you notice, the denominator is getting bigger, the pieces are getting smaller.  So what can we break up ninths into?
+student: 18?
+teacher: Why do you say eighteenths?
+student: Because here it was four, but then it doubled to eight.  So if you do 9, you have to double it to 18.
+teacher: So even though the number is doubling, the pieces are cutting in half.  They are cutting in half.  So okay, so one ninth is equal to how many eighteenths?
+student: Nine eighteenths.
+teacher: Do one ninth – all of you in your notebooks, one ninth.  And then do your new denominator as 18.
+student: Two eighteenths.
+teacher: Mm-hmm.  What's two ninths equal to?  And your new denominator is 18.
+student: Four eighteenths.
+teacher: Go ahead in your notebooks.
+student: Four eighteenths.
+teacher: So what's a number that will go in between those?
+student: Six eighteenths.
+teacher: What goes in between two eighteenths and four eighteenths?
+student: Three?
+teacher: Yeah.  Right?  Two eighteenths then three eighteenths and then four eighteenths.  So the only fraction that goes in between one ninth and two ninths is three eighteenths. Good.  All right, what are we thinking?  What are we thinking?  I heard from witnesses before.  Inspectors, what are you thinking?  What did we come up with?
+student: Three eighteenths.
+teacher: We came up with three eighteenths as this table.  Okay, how did we come up with three eighteenths?  What did we do?  Go ahead, Student L, you're the one that made the big discovery.
+student: So with the first fractions I saw that it was was four and it doubled to eight.  So I figured that we double the 9 to 18. So your new denominator is 18.
+teacher: Excellent.  So I'm going to pause you just for a second.  Even though we're doubling, right?  The number is doubling, but the pieces are actually being cut in half.  Okay, that's what makes fractions tricky.  We're doubling.  It's supposed to be bigger, but what we're really doing is making the pieces smaller.  Okay?  Just like when everyone came to my house for that cake and all of you guys get coming and coming and I had to keep cutting my piece of cake into smaller pieces so that all of you can get cake, not just me.  The more people that come, the smaller your pieces.  Go ahead, Student L, continue.
+{
+    "rating": 2
+}
+
+
+
+teacher: Okay so for today’s lesson we’re still doing our geometry unit. Okay last week we did a lot around triangles. The different types of triangles the angles and so forth so today we’re going to move on to quadrilaterals and I know last year you did some work around quadrilaterals. Can anyone give me the definition of what they remember a quadrilateral to be? Student J?
+student: Four.
+teacher: What means four?
+student: Four sides.
+teacher: What means four though in that word anyone know?
+student: Four angles?
+teacher: Quad means four just like in Spanish uno, dos, tres, quatro. Quad means four. Okay so that’s good you remembered four. Lateral anyone know what that means?
+student: Equal
+teacher: Nope.
+student: Equilateral?
+teacher: Sides. Okay, so quad meaning four lateral sides, so four sides. Okay so a quadrilateral would be a four sided shape.
+student: Oh I get it now.
+teacher: Okay today, today’s lesson is heavy on vocabulary that you’ve learned in the past. Part of today’s lesson is not just about the characteristics of quadrilaterals. It’s also using a lot of vocabulary that you’ve had in the past okay. What you’re going to do today is you’re going to group. When we’re done with the smart board part of the lesson you’re going to work with a partner and you’re going to group quadrilaterals by their characteristics. So hopefully this mini-lesson on the smart board gives you some definitions and it’s also interactive in that hopefully it’ll give you a solid background before you do the cutting and pasting afterwards. So what I wanna see is we’ll go through these you’re gonna do some grouping on the smart board as a whole class and then you’ll work with your partners and then we’ll share back. Do you remember doing that with the triangles with the cutting and pasting?
+student: Yeah
+teacher: Okay so let’s take a look up here and we have quadrilateral quest one. Which shapes below have all of these properties. The opposite sides are congruent. What does congruent mean?
+student: Equal sides.
+student: They call it like, they’re equal length, um, same.
+teacher: Same okay, we know congruency means same size same shape. So congruent would mean the same here. Opposite sides are parallel what does parallel mean? What does parallel mean? Student B?
+student: Lines that never intersect.
+teacher: Never intersect, same distance remember we discussed that before. Opposite angles are congruent. So can you find a shape up there one of the, one of the quadrilaterals that fits all of those properties? The opposite sides are congruent, the opposite sides are parallel and the opposite angles are congruent. If you can find one then I want you to come up to the board and I want you to drop it in the little blue box Student A. just one.
+student: Just one, is there more than one though?
+teacher: On this particular one there is yeah.
+student: I only see two.
+teacher: Shh, keep your comments to yourselves. [BING] Green light means you did good so the opposite sides were congruent they were parallel and the angles were congruent. Student D? [BING] Student B? [CLUNK] Okay why did he get the red light?
+student: Oh this one this one this one.
+teacher: Okay but why did, why did you get the red light on that? Tell me what didn’t fit?
+student: This one.
+teacher: Right, Right the opposite angles were not congruent. Were the sides?
+student: No.
+teacher: That’s right, that’s why right one was shorter? Okay are there anymore Student N? [BING] Student A.
+student: Are we being recorded?
+teacher: Yes. You’ve moved all the shapes with the properties listed above okay. We’re gonna do one more than I’m gonna ask you a few questions after we do this one. Which shapes below have all of these properties: the quadrilateral has 4 sides but only 2 sides are parallel Student M? [CLUNK]
+teacher: Okay why did you get the red light on that? Do you know? Can anyone help him out? Student A why did he get the red light on that?
+student: It just says only 2 sides are parallel.
+teacher: How many sides are parallel on that one?
+student: 4
+teacher: 4, wanna try another one?
+student: Oh my gosh, right.
+{
+    "rating": 3
+}

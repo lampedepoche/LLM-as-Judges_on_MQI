@@ -1,0 +1,19 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Overall Common Core Aligned Student Practices" which attempts to capture, on a four-point scale (Low, Low/Mid, Mid, High), evidence of students’ involvement in “doing” mathematics and the extent to which students participate in and contribute to meaning-making and reasoning:
+- During active instruction segments, this mainly occurs through student mathematical statements: reasoning, explanations, question-asking.
+- During small group/partner/individual work time, this mainly occurs through work on a non-routine task.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Low
+  - There are few examples of student engagement in mathematical practices such as explanation, questioning, and reasoning. Tasks may be largely procedural in nature, but occasional student participation or a brief cognitively demanding task occurs.
+- 2 = Low/Mid
+- 3 = Mid
+  - Students engage with content at mixed level. Students may provide substantive explanations or ask mathematically motivated questions. This may also include tasks with variable enactment (high and then low during segment). This can also include instances in which some students/groups are engaged in tasks at a high level and others are not.
+  - Students may also engage in a task with middling cognitive demand.
+- 4 = High
+  - Students contribute substantially to the building of mathematical ideas through posing questions, offering explanations, looking for patterns, making conjectures, and engaging in other types of reasoning. Such contributions are a major feature of the segment, with many student contributions or extended work on a cognitively demanding task.
+
+Provide a very concise reasoning and the integer corresponding to the score (1-4)

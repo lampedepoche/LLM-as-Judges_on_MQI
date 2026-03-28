@@ -1,0 +1,42 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Teacher uses Student Mathematical Contributions," which evaluates, on a four-point scale (absent, low, mid, high), the extent to which teacher uses student mathematical contributions to move instruction forward.
+Contributions can include, but are not limited to:
+- student answers to questions (including one-word answers),
+- comments,
+- mathematical ideas,
+- explanations,
+- representations,
+- generalizations,
+- questions to the teacher,
+- and student work.
+If some portion of the response to students muddles the mathematics, the score may be adjusted downward.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Not present
+  - No, or very few student responses and only pro forma use of student ideas to develop the mathematics. For example, class may be dominated by teacher talk with very few student comments.
+  - OR Teacher uses student contributions but in a way that muddles or confuses the mathematics of the lesson.
+  - OR Student contributions occur, but the teacher ignores them
+- 2 = Low
+  - Students contribute and the teacher responds in a pro forma way.
+- 3 = Mid
+  - The teacher uses student contributions to some degree in the development of the mathematics. Teacher may engage in features listed under "High" briefly, but instruction generally proceeds without strong use of student mathematical ideas.
+- 4 = High
+  - Students' mathematical ideas are woven at length into the development of mathematical ideas during the segment. Teacher “hears” what students are saying, mathematically, and responds appropriately during instruction. In particular, teacher may comment on students' mathematical ideas, elicit further student clarification of ideas, ask other students to comment on ideas, expand on and reinforce student utterances, etc.
+  - Other markers include:
+    - Identifying key ideas in student statement (“Mark had an interesting idea...”)
+    - Highlighting key features of student questions (“Mark was asking about whether this would work in all cases...”)
+    - Identifying a student with an idea (“Mark’s method”)
+
+__Scoring help__:
+This code is intended to measure how the teacher responds to and uses the mathematics that students contribute, regardless of the quality of the student contribution. That is, student contributions can be brief and procedural in nature; what we are looking for in this code is the length and quality of teacher uptake and use.
+Note that this is not a quantity code. If a teacher responds to multiple student contributions throughout the segment, but always does so in a pro forma way, score as a Low.
+Several types of teacher responses may qualify as pro forma:
+- The students regularly contribute basic calculations or answer-bounded questions during instruction, and the teacher acknowledges correct responses and uses them in the course of instruction, perhaps to move a calculation forward on the board.
+- Different students contribute many solutions or explanations, but the teacher doesn’t make use of them beyond acknowledging students who are correct.
+- A student provides a contribution, and the teacher recognizes that it is interesting but decides not to take it up at that moment.
+Do not count use of “student” ideas that are not truly coming from the students as a feature of "High" (e.g., calling Claire’s repeating of the addition procedure “Claire’s idea” when the teacher just really wants to talk about the addition algorithm.)
+
+Provide a very concise reasoning and the integer corresponding to the score (1-3)

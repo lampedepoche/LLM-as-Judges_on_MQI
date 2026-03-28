@@ -1,0 +1,46 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Mathematical Sense-Making" which captures, on a four-point scale (Not Present, Low, Mid, High), the extent to which the teacher or students attend to one or more of the following:
+- The meaning of numbers
+- Understanding relationships between numbers
+- The relationships between contexts and the numbers or operations that represent them
+- Connections between mathematical ideas or between ideas and representations
+- Giving meaning to mathematical ideas
+- Whether the modeling of and answers to problems make sense
+
+Examples include:
+- Focusing on value of quantities (e.g., "7/8 is close to 1")
+- The meaning of quantities (e.g., "the six represents the number of groups")
+- Discussing reasonableness of an expression, solution method, or answer
+- Using estimation or number sense
+- Giving meaning to procedures (e.g., “1/4 x 2/3 means taking 1/4 of 2/3 of a whole”)
+- Giving meaning to expressions or equations
+
+For word problems, score for activities like explaining why an operation is called for by a problem, why certain numbers are used in the operation, reasonableness of answer, reasonableness of solution method, etc.
+In geometry, include making sense of definitions (what counts as a polygon, what does not count as a polygon), formulas, by elaborating them, applying them, finding counter-examples, etc. rather than just stating/executing them. Do not count “Give me examples of a circle” – instead, count cases where the definition or formula has meaning made around it.
+If sense-making is partially correct and partially incorrect, only score the portion that is correct (e.g., would be a High, but vague for parts, thus receives a Mid).
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Not present
+  - Not present or incorrect.
+- 2 = Low
+  - Teacher and/or students focus briefly on meaning. For instance, a student may remark that 7/8 is "almost 1" or attends to reasonableness of the solution method.
+- 3 = Mid
+  - Teacher and/or students focus on meaning more than briefly (e.g., several instances within the segment or one somewhat long instance), but this work is not sustained or substantial.
+- 4 = High
+  - Teacher and/or students focus on meaning in sustained way during segment. Need not be the entire segment, but must be substantial.
+
+
+__Scoring help__
+A teacher may provide the explanation that dividing both the numerator and denominator by 4 is in essence dividing by 4/4. And because dividing by 4/4 is the same as dividing by 1, dividing by 4/4 actually does not change the value of the original fraction. This explanation would count as sense-making, as the teacher is giving meaning to the fraction 4/4 and the procedure of making equivalent fractions.
+While many explanations will also qualify as Sense-Making, some will not. For example, a teacher who walks through an algebraic/geometric proof may get credit for explanations for explaining why a solution is true without meaning to the mathematical ideas.
+There also are instances of Sense-Making that are not explanations. For example, attention to any of the following may be scored as Sense-Making:
+- The value or meaning of quantities
+- The reasonableness of an expression or answer
+- Using estimation or number sense
+- Making sense of word problems
+Finally, we ask raters to assess the quantity of the code, i.e., whether it occurs at all, is brief, or is more extended. A High under Sense-Making just needs to be sustained. When scoring Sense-Making, only count time in which sense is actually being made; we do not count related procedural work or build-up as sense-making.
+
+Provide a very concise reasoning and the integer corresponding to the score (1-4)

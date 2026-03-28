@@ -1,0 +1,11 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Checking Broadly for Understanding" which captures, on a binary scale (Not Present, Present), whether or not the teacher checks broadly for student understanding.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+
+**Here is the scale along with the reasoning behind it:**
+- 0 = Not present
+- 1 = Present
+
+Provide a very concise reasoning and the integer corresponding to the score (0-1)

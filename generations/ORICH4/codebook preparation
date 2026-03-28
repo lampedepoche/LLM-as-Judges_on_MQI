@@ -1,0 +1,21 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Overall Richness of the Mathematics" which captures, on a four-point scale (Low, Low/Mid, Mid, High), the depth of the mathematics offered to students.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Low
+  - Elements of rich mathematics are minimally present.
+  - Note that there may be isolated Mid scores in the codes of this dimension.
+- 2 = Low/Mid
+- 3 = Mid
+  - Elements of rich mathematics are more than minimally present but the overall richness of the segment does not rise to the level of a High.
+  - For example, a segment may be characterized by some Mid scores in the codes of this dimension or by an isolated High along with substantial procedural focus, etc.
+- 4 = High
+  - Elements of rich mathematics are present, and either:
+    a) There is a combination of elements that together saturate the segment with rich mathematics either through meaning or mathematical practices.
+    OR
+    b) There is truly outstanding performance in one or more of the elements.
+
+Provide a very concise reasoning and the integer corresponding to the score (1-4)

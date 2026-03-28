@@ -1,0 +1,19 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Teacher Uses Student Ideas" which describes, on a five-point scale (from Not at all true of this lesson to Very true of this lesson), the extent to which the teacher uses student ideas and solutions to move the lesson forward.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Not at all true of this lesson
+    - Student talk does not include substantive contributions such as student explanations or reasoning.
+    - OR There are some substantive comments, but teacher either ignores them or cannot make use of them instructionally, including failed attempts to take up the comments.
+- 2
+- 3 = (Default Score)
+    - Students contribute an occasional substantive idea to the lesson, but teacher use is pro forma.
+    - Pro forma use includes acknowledging or endorsing a correct student comment with nothing further.
+- 4
+- 5 = Very true of this lesson
+    - Teacher weaves in substantive student ideas and solutions to help build the mathematical point(s) of the lesson.
+
+Provide a very concise reasoning and the integer corresponding to the score (1-5)

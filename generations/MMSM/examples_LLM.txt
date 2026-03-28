@@ -1,0 +1,126 @@
+teacher: Okay.  So this morning, boys and girls, we are starting a whole new unit.  We finished on Friday unit one, and today we’re starting unit two which is going to carry us through all the way until about January.  The first skill that we’re going to talk about in unit one is multiplication.  Now we’re not going to start with our multiplication facts, because you should know your facts and we need to practice our facts.  And the standard that we’re going to be using and talking about is operations in algebraic thinking, 40A1, and it’s to determine multiplication equation as a comparison.  A lot of words there, and you’ll understand it more as we go.  We’ve always talked about everything we do relates to core standards, the common core that we are teaching in 4th grade, and that’s what you’re tested on, the standard.  This morning, on our screen, I’m going to put two questions.  Now it’s okay if you don’t understand it. What is it is I’m going to do a quick assessment to see how much of this you understand and how much need to do work.  Take your whiteboard this way here, the long way, and put a line down the middle, and your answer to question one is on the left side and your answer to question two is on the right side.  If you get stuck, don’t worry about it.  Just put what you think when you look at this question.  It’s question three and question four.  Take that back.  Question one and question three.  Sorry, guys.  Question one says if I know that 6 times 5 equals 30, what other multiplication problem do I know?  That’s what you’re going to put on the left hand side, and on the right hand side, it says represent the following multiplication problem in words.  They want you to write me a word problem.  Write me a word problem that represents that multiplication problem, okay? See what you can do.  Take about three minutes. Problem one goes on the left side.  Problem three goes on the right hand side.  Go ahead.  So as I’m walking around, I’m leaving you a ticket.  Just leave it on the corner of your desk, the corner I’m putting it on.  Remember, I said the first question was going to go on the left side and the second question was going to go on the right side.  The second problem, they don’t want you to write 3 as t-h-r-e-e.  They want you to write me a word problem that represents that equation.  Okay.  You did that for one, but does that have anything to do with this one?  That’s what I want on the right hand side of your board, problem three, in words.  So erase that whole thing.  Write a word problem.  Okay.  Reread what you wrote there. One more minute.  You have enough room on this side? Okay.  I need all markers down.  Okay.  So most of you I’ve gotten to, and put in two different colors, or put two colors on your desk.  If I didn’t get to you, just put your hand up.  Okay.  So let’s take a quick look at the first problem that you did.  So I have lots of green on the first problem, and green says you know what we’re looking for.  So the first questions asks, if I know that 6 times 5 equals 30, what other multiplication do I know?  What we’re looking for is another multiplication fact that represents the same thing as 6 times 5 equals.  Now last week we touched upon really quick math triangles, and what were we using in the math triangles?  Student A?
+{
+    "your_reasoning": "The segment contains no attention to the meaning of numbers, relationships between quantities, reasonableness, or giving meaning to operations. The teacher focuses on directions, procedures, task setup, and classroom logistics. Even when referencing multiplication, no conceptual meaning is addressed—only what answers or formats are expected. There is no discussion of why 6×5 relates to another fact, what multiplication represents, or how a word problem connects to the expression. Sense-making is therefore absent."
+    "rating": 1
+}
+
+
+teacher: All right, boys and girls.  We’re going to talk about
+student: In partial products you break up the—
+teacher: Break it up.  Break up what?
+student: The numbers.
+teacher: You break up the numbers.  Why are we breaking them up?  We’re not really smashing them.  I know we’ve talked a lot about idioms.  Okay.  Why are we breaking them up?
+student: To make it easier.
+teacher: It makes it easier to work with.  Sometimes when we try to do a long algorithm, it turns into a headache, right? This breaks it up and gets you able to see how it works, part by part, and put it together.  Algorithm can be good or bad in some ways.  It’s something you need to know, but often through the years in math, people have done these algorithms that can be boring, but nobody understood what they were doing.  You just learn steps, and that’s it.  You still need to know, but with partial products it helps you to understand more of what’s going on.  Student T, tell me what you know about an algorithm.
+student: You put them all together and then multiply it to find the answer.
+teacher: Yes, you just set it up traditionally like a multiplication problem, and you have to go back and forth, and you have to think, and pay attention, and hold your place.  You have to line up everything correctly. You’re getting better at that as well.  Student S, did you want to add something?
+student: You have to go step by step.
+teacher: Step by step.  Where do you think it’s easier to make a mistake at?  It depends, but overall, what do you think?
+student: The second line.
+teacher: Yes, the second and third line where you have to put your zero in there and hold your place.  Overall I think we probably make more mistakes here than we do here. Does everyone agree?
+multiple students: Yes.
+teacher: Today you’re going to work in some groups so we can update our hallway display.  We put one up there with just 2 by 2 multiplication, but we’re going to challenge ourselves, differentiate, try 2 by 2, 2 by 3, even 3 by 3, but you’re going to build up to it in your groups.  If you have not noticed yet, these are the groups you’re going to be working in and the table numbers are on your tables.  So I think you’ve all had a chance to look at this.  When we leave the carpet area and go back to work in groups, you will go to this table with the people here.  There are a few people absent.  That’s okay.  We can have a few groups of two.  Does everybody know what table they are going to walk to?
+multiple students: Yes.
+teacher: They’re numbered over there 1-5 on the door and then 6-9.  I’ve done this kind of randomly.  There’s a few people I put together that I thought would work well together, but some of it has been random.  We work well with anyone in this class, right?  It doesn’t matter who you work with.  You work together.  We’ve proven that over and over.  Let’s review some of these.  Two digit by two digit multiplication.  This is the first one we started with, and at first it was hard, it was confusing, but we’ve gotten better and we understand it better.  All right.  So first of all I see lots of hands.  That’s wonderful.  Hold on one second.  With your hands – someone explain to me what this little grid model means, first of all, before we start answers, and why we’re doing it.  Again, you’re thinking back to stuff you’ve learned already. Student D?
+student: It’s when you break up the big numbers into tens and ones and multiply them side by side like that, and the first answer goes in that little box.
+teacher: Good.  So we’ve learned that when we break it apart – this also works with place value.  Place value is also part of the automobile.  It’s the engine of your car. Without place value, it’s not going to go anywhere either.  You need wheels.  I’m making a comparison. I always like to throw a little language arts in too. So is this really – we’re doing 21 times 35.  Is this really just a 3?
+{
+    "your_reasoning": "The teacher and students briefly attend to meaning: why numbers are broken into tens and ones, how partial products reveal what is happening “part by part,” how place value underlies the grid, and why algorithms can obscure understanding. These moments connect procedures to underlying ideas, but the work is short and not pursued deeply. Most of the segment shifts to logistics and grouping, so the sense-making is present but limited."
+    "rating": 2
+}
+
+
+multiple students: [counts 1-9]
+student: 10.
+teacher: Let's try that again.
+multiple students: [counts 1-9]
+teacher: How many pieces are there?  Nine.  So what's our denominator?
+multiple students: Nine.
+teacher: Nine.  You have a new denominator now.  What does this represent?  What's that?  Student M?
+student: A ninth.
+teacher: What's this?  Student T?  Student M?  Student G?
+student: Four ninths.
+teacher: Good.  Student T?  Student D?
+student: Six ninths.
+teacher: Student T?  Student A?  And what's one whole represent, Student H?
+student: Nine ninths.
+teacher: Good.  Does everyone see how we're doing this?  The rectangle helps you break them up into pieces.  So seven ninths is right here.  Now talk with your groups about this.  This is a little bit tricky.  What fraction – I'll wait because I don't have everyone's attention on me.  I find that to be a little disrespectful.  What fraction is in between one ninth and two ninths?  What do you think?  Talk with your groups about that one.  And remember what you did before. We had fourths and we broke them up into eighths.  What can we break up the ninths into?
+student: You cannot break up nine into five.
+teacher: Nope.  Good.  So we broke up the fourths and then we made what?
+student: Eighth.
+teacher: So if you notice, the denominator is getting bigger, the pieces are getting smaller.  So what can we break up ninths into?
+student: 18?
+teacher: Why do you say eighteenths?
+student: Because here it was four, but then it doubled to eight.  So if you do 9, you have to double it to 18.
+teacher: So even though the number is doubling, the pieces are cutting in half.  They are cutting in half.  So okay, so one ninth is equal to how many eighteenths?
+student: Nine eighteenths.
+teacher: Do one ninth – all of you in your notebooks, one ninth.  And then do your new denominator as 18.
+student: Two eighteenths.
+teacher: Mm-hmm.  What's two ninths equal to?  And your new denominator is 18.
+student: Four eighteenths.
+teacher: Go ahead in your notebooks.
+student: Four eighteenths.
+teacher: So what's a number that will go in between those?
+student: Six eighteenths.
+teacher: What goes in between two eighteenths and four eighteenths?
+student: Three?
+teacher: Yeah.  Right?  Two eighteenths then three eighteenths and then four eighteenths.  So the only fraction that goes in between one ninth and two ninths is three eighteenths. Good.  All right, what are we thinking?  What are we thinking?  I heard from witnesses before.  Inspectors, what are you thinking?  What did we come up with?
+student: Three eighteenths.
+teacher: We came up with three eighteenths as this table.  Okay, how did we come up with three eighteenths?  What did we do?  Go ahead, Student L, you're the one that made the big discovery.
+student: So with the first fractions I saw that it was was four and it doubled to eight.  So I figured that we double the 9 to 18. So your new denominator is 18.
+teacher: Excellent.  So I'm going to pause you just for a second.  Even though we're doubling, right?  The number is doubling, but the pieces are actually being cut in half.  Okay, that's what makes fractions tricky.  We're doubling.  It's supposed to be bigger, but what we're really doing is making the pieces smaller.  Okay?  Just like when everyone came to my house for that cake and all of you guys get coming and coming and I had to keep cutting my piece of cake into smaller pieces so that all of you can get cake, not just me.  The more people that come, the smaller your pieces.  Go ahead, Student L, continue.
+{
+    "your_reasoning": "The teacher and students engage repeatedly in reasoning about the meaning of fractions, the value of denominators, how subdividing units affects piece size, and why doubling the denominator halves each piece. They compare representations, relate procedures to meaning, and justify why 3/18 lies between 1/9 and 2/9. This sense-making occurs across several exchanges, with sustained attention to quantities and relationships rather than isolated comments."
+    "rating": 3
+}
+
+
+student: All the boards are really getting a bigger number?
+teacher: When you – no.  If you divide by a fraction, yes.
+student: And then you divide by a whole number, you get smaller.
+teacher: Smaller, right.  Is that confusing?  Is that what you're asking me?  It is confusing.  You know what?  When we do fractions, we're going to do it starting with looking at things, not just talking about them.  So you'll get to see that.  But today, I just want to talk about division, and I kind of want to see what you guys – we've been doing a lot of multiplication and I have to say – look in that closet back there – that I'm very pleased with how much you guys remember and how open you were to learning new ways to strategies to multiply. When I was little, no one said, "Well, how do you like to do things?" or "How would you solve this problem?"  They just said, "Copy this problem off the board and this is how you do it."  And so what happened was a lot of people got to be older and they hated math and they also didn't remember things because they never kind of figured it out for themselves. So we're gonna talk about division for the next few days, and I have a whole bunch of stuff today.  One of them is so hard, these division riddles, that it took me a whole – quite a while – to sit down and figure it out this morning.  So I'm gonna see.  But I bet some of you could figure them out. So what we're going to start with is who remembers anything that – I would like you to tell me anything that you know about division, anything.  Telling me something about division, Student T.  Anything.
+student: It related to multiplication.
+teacher: It's what?
+student: It related to multiplication.
+teacher: So I'm just going to put a division sign.  Whoa, what happened? There.  Division, it's related to – Student J, says it's related – re-late-ed to – and I'm just gonna – oh, you know what, I think it needs to be oriented.  Student S?
+student: If you multiply a fraction, it's still going to be the same as dividing.
+teacher: I absolutely understand what you mean.  I think we have to – let's show.  If you multiply, so you mean that – I know what you – I have to sort of give – who needs like a visual to understand?  Say it again.
+student: If you multiply that fraction, it's just like dividing.
+teacher: So in other words, say 6 divided by 2 is the same as 6 times one half.  Is that you mean?
+student: Mm-hmm.
+teacher: Okay, sometimes it helps.  It's true 'cause look, 6 divided by 2 is what?
+multiple students: 3.
+teacher: 3.  And I don't know if you guys did any of this in third grade, but if you just do this, it just equals 6 halves which equals 3.  So he's absolutely correct.  We just proved it.  Well, we didn't prove it because we'd have to do it a whole bunch of times, but it's true.  Good. Anything else about division?  Student T?
+student: It's related subtraction.
+teacher: Well, you know what, you're right.  Just like we say – I'm gonna write that, but I would like to expand on that because – and I bet if I – I bet you'll be able to do it. So it's related to subtraction.  It's not just related to subtraction.  Just like we say that multiplication is a fast way of?
+student: Adding.
+teacher: Adding.  Division –
+student: Is a fast way of subtracting.
+teacher: Yep, and we'll prove it.  Is a fast way of subtracting.  So in other words, if we did 14 divided by 2 and you guys all know that, right?  What is it?
+multiple students: 7.
+teacher: 7.  And it really means 14 and you're dividing 14 into 2 equal groups, right?
+student: Uh-huh.
+teacher: Isn't that what it is?
+multiple students: Yes.
+teacher: So we could do 14 – how many twos?  Well, that's interesting because I always get this backwards.  Maybe you're dividing it into 7 equal groups?  No, 14 divided by 2.  So if you take away 7 from 14, you get?
+multiple students: 2.
+teacher: No.
+student: Oh, 7.
+teacher: You get 7 and then you take away another 7 and you get 0 and there's nothing remaining.  So how many sevens did you have to take away?
+multiple students: 2.
+teacher: 2.  It doesn't seem much faster there, but let's say you're doing a 150 divided by 3.  You're not gonna – there's going to be a faster way than do 150 minus 3 minus 3 minus 3 minus 3 minus 3 minus 3 minus 3 minus 3 minus 3 till you get to 0.  What happens if you don't get exactly 0?
+multiple students: You have a remainder.
+teacher: Yes, you have a remainder.  You guys understand a lot.  So what are remainders?  What's a remainder?  Because you use the word remainder, but remainders can be all sorts of different things.
+student: So you could draw like an array.
+teacher: An array?
+student: Yeah, like 5 times 4.
+teacher: This might be 4 times 5 but you know.  You want me to do 5 times 4 so that – oh, yeah, is that okay?  Okay.  So this is 5 times 4.
+student: 20.
+teacher: You want me to show you how you could use this to show a remainder?  So what if I had 21 and I said we want to divide 21 into 5 groups?  You would do this, right?  But you would have this one left and that's the remainder. Student A, you have a – okay, is that right, Student C, you think?  Student A?
+student: 21 –
+teacher: Excuse me.  I'm trying to listen.
+student: When I'm doing a division problem, I look at it backwards because the answer would be – if you look at it going this way, the reverse number would be the last one and then –
+{
+    "your_reasoning": "The segment sustains extended attention to the meaning of division, its relationship to multiplication and subtraction, and why certain identities (e.g., dividing by 2 equals multiplying by 1/2) hold. The teacher uses concrete number reasoning, visual models (arrays), group interpretations, and repeated explanations of what quotients and remainders represent. Students contribute meaning-based statements, and the teacher consistently connects procedures to underlying quantitative relationships. This sense-making is continuous and substantial throughout the segment."
+    "rating": 4
+}

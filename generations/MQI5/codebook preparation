@@ -1,0 +1,29 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Whole-Lesson Mathematical Quality of Instruction" which captures, on a five-point scale (Low, Low/Mid, Mid, Mid/High, High), the overall mathematical quality of instruction for the lesson (MQI) as suggested by the teacher’s work during the lesson.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Low
+  - Instruction is characterized by one or more of the following:
+    - Systematic teacher errors, imprecision, or lack of clarity around the mathematics
+    - Major teacher conceptual error in a significant portion of the lesson
+    - Unproductive teacher-student interactions around the content (e.g., teacher cannot effectively remediate)
+    - Lack of directionality/unsystematic exploration
+    - Lack of connection of classroom activities to mathematical content
+- 2 = Low/Mid
+- 3 = Mid
+  - Instruction does not have characteristics of Low and is mostly error-free, but it lacks the mathematical richness, appropriate use and discussion of procedures, and the sharp mathematical focus detailed under High.
+  - Examples:
+    - Mostly error-free instruction, perhaps with occasional but not consistent elements of richness
+    - Mainly pro forma interactions with students (inquiry, response, evaluation-type discussion)
+- 4 = Mid/High
+- 5 = High
+  - Instruction is error-free (save for minor slips) and characterized by combinations of the following:
+    - Mathematical richness in terms of explanations and linking between representations
+    - Focus on mathematical practices (developed generalizations, mathematical efficiency) that is sustained and detailed
+    - Instruction has a clear and sharp mathematical focus and directionality that allows students to develop the important mathematical ideas under consideration
+    - Instruction is characterized by at least some productive teacher-student interactions around the content (either working with student ideas/errors OR Common Core aligned student practices which captures evidence of students’ involvement in tasks that ask them to “do” mathematics and the extent to which students participate in and contribute to meaning-making and reasoning which captures evidence of students’ involvement in tasks that ask them to “do” mathematics and the extent to which students participate in and contribute to meaning-making and reasoning)
+
+Provide a very concise reasoning and the integer corresponding to the score (1-5)

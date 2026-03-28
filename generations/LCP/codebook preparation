@@ -1,0 +1,35 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Lack of Clarity in Presentation of Mathematical Content" which captures, on a three-point scale (Low, Mid, High), when a teacher’s utterances cannot be understood. For example:
+- Mathematical point is muddled, confusing, or distorted
+- Language or major errors make it difficult to discern the point
+- Teacher neglects to clearly solve the problem or explain content
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Low
+  - Brief lack of clarity. Does not obscure the mathematics of the segment.
+  - Examples:
+    - The launch of task is unclear, but the teacher clarifies quickly.
+    - A sentence or phrase is unclear, but the main mathematical point is not affected.
+- 2 = Mid
+  - Lack of clarity occurs in part(s) of the segment.
+  - OR Lack of clarity obscures the mathematics, but for only part of the segment.
+  - Example: To introduce inverse operations, teacher explains that multiplication and division are "best friends" and "if you know something about one, you know something about the other." Examples later in the segment make the point clearer.
+- 3 = High
+  - Lack of clarity occurs in most or all of the segment.
+  - OR Lack of clarity obscures the mathematics of the segment.
+  - Example: Teacher states that the lesson is going to be on surface area and volume. When students are asked to describe a cardboard box using math terms, the teacher endorses correct and incorrect student suggestions. The teacher then tries to define volume by asking whether a twelve-foot TV would fit into the box. Surface area is mentioned numerous times but never defined. It is unclear if the teacher is using surface area as a synonym for volume or whether the term is simply never defined.
+
+__Scoring Help__
+Definition: You have to ask: “What, mathematically, was the teacher trying to say?”
+*Examples:*
+- Discussion of why 7 + -3 = 4 heads toward “-4 is too small to be the answer”
+  - This is not wrong, but the mathematical point is not clear.
+- Teacher endorses conflicting definitions for same concept
+  - “The area is a number of square units needed to cover the figure, and we've talked before about the box like a gift that somebody gives you. The box itself and everything inside the box is the area, but the wrapping paper around it would be like surface area and we talked about that and we talked about the perimeter is walking around the fence around an area.”
+- Talking through a division problem and alternating back and forth between “making 3 groups” and “making groups of 3.”
+- Garbling a task launch, e.g., by asking initially “How much TV is watched in the US?” when students really must draw a graph to show “How many TVs in US vs. Europe vs. rest of the world?”
+
+Provide a very concise reasoning and the integer corresponding to the score (1-3)

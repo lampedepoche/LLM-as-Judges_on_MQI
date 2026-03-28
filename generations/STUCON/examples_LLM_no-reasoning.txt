@@ -1,0 +1,172 @@
+teacher: Okay.  We are going to be doing popcorn fractions today.  What I want you to do first is you should have a napkin at your desk.  Go ahead and unfold your napkin so it is completely out.  Okay.  Student M and Student S are bringing you a bag of popcorn.  What we’re going to do with this popcorn is have to imagine a little bit, have to pretend, okay?  Now realistically when you pop a bag of popcorn you have more popcorn in your bag than this, right?  But we’re going to have to use our imaginations and pretend this is a bag of popcorn you just took out of the microwave.  What I want you to do is at your table, pick a partner.  It has to be somebody sitting across from you or next to you, okay?  So we have a partnership here, here, an here, and my three ladies here, can you be a group of three?  So what’s going to happen is we’re going to practice adding fractions with unlike denominators. What I want you to do first is open up your bag of popcorn onto your napkin.  You may not eat it yet.  I promise you’ll get to eat it, but not yet.  What I’d like you to do is go ahead and count how many you have.  I will tell you when you can eat and what you can eat, nothing yet.  Okay.  Sometimes popcorn is kind of fragile and it breaks.  Everyone should have 24.  Raise your hand if you have 24.  Okay.  Raise your hand if you have more than 24.  If you have more than 24, I want you to eat as many pieces as you have to so you have 24.  Double check and make sure you have 24 pieces.  So you have exactly 24, yes?  You just counted them.  You’re trying to cheat and eat a piece.  I heard you.  You have 24.  How many do you have, Student K?  Oh my goodness.  Come on.  Okay. 1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Seriously?  1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Okay.  So how many pieces are there in all?
+multiple students: 24.
+teacher: So what is our denominator for how many we have here?
+multiple students: 24.
+teacher: Because our denominator is always what?  How many we have in all.  Now with your partner we’re going to practice adding fractions with unlike denominators.  Okay.  So what I want you to do is decide who is person A and person B in your group.  In my group over here, one of you is going to have to sit out for this one. Okay.  So establish who is person A and person B. Okay.  Person A, what I would like you to do is split your popcorn into groups of 8.  Okay.  So each group should have 8 kernels in them.  Person A, you’re splitting it so each person has 8 kernels in a group. See how everyone else has their napkins unfolded? Just person A.  Okay.  So my people that split them into groups of 8, you have how many groups in all? Three groups in all.  Everybody see that?  What I want you to do is put two of those groups back into your Ziploc bag.  Okay.  Person B, I would like you to split yours so you have 6 pieces of popcorn in each group.  6 in each group.  If you have 24 kernels, you should have 6 in each group.  Okay.  You did something wrong.  You don’t have 24 kernels. Okay.  My person B, if you’re a B person, I asked you to split it so you have 6 popcorn kernels in each group.  How many groups do you have?
+multiple students: Four.
+teacher: I would like you to put two of those groups into your bag, so you have two groups left out.  My A people, look up here.  So you had how many groups in all?
+multiple students: Three.
+{
+    "rating": 1
+}
+
+teacher: Okay.  So today we’re going to continue our discussion with Student L?  So if I’m trying to find an equivalent fraction, what do you Please come back to your seat.  Thank you.  If I’m trying to find the
+student: Find an equal fraction.
+teacher: We’re going to talk about what the means and how to do that mathematically today, okay?  I’m going to put up – all right.  So this is a word problem for today.  It says Mr. H bought a box of Girl Scout cookies.  He thought it would be best if he only ate three sixths of the box of Thin Mints.  When I asked why he ate so much, he replied, “Hey, I only ate half.”  Was Mr. H correct?  Turn and talk while I get myself ready. All right.  That does look hard.  See if you have one equal to A.  Is that A?  That’s better.  Okay.  Put them right there.  All right.  Later on today when you’re not in group, you’re going to have an opportunity to answer this question and use a picture to backup your statement.  So while we’re working today, I want you to be thinking about that question. Did he only eat half of the cookies?  I want you to think about it while we work today.  I want you to come sit in front of your spaces by the whiteboard. Can you push back?  You’re supposed to sit in your space.  Thank you, Student J.  Excuse me.  Equivalent fractions.  I want you to take a look at that.  Is it working?  All right.  Quiet.  If this apple were cut along the bottom line and you got one piece, what fraction would you have?  Student D?
+student: One half.
+teacher: Is that a unit fraction, one half?
+multiple students: Yes.
+teacher: It is a unit fraction, 1 over 2.  What does the unit represent? Raise your hand and I’ll call on you.
+student: It represents the numerator and the denominator.
+teacher: Which one does it represent?  The denominator or the numerator? Which one?
+student: The numerator.
+teacher: The bottom number is the denominator.  Why is the denominator important?  Why is it important, Student J?
+student: Tells you how many pieces there are.
+teacher: Exactly, tells you how many groups, how many pieces, and how many pieces are in this apple?
+student: 2.
+teacher: How many pieces did I get?
+multiple students: 1.
+teacher: Raise your hand.
+student: It was trying to figure out what’s half of the half.
+teacher: That might come up later.  Maybe you and Student P can draw the half and see what that is.  If you do the half and the half you might come up with something.  Later on this thing might help you.  All right.  My computer is not working.  If the apple were cut along the dotted lines and you got two pieces, what fraction of the apple would you have?  Can everybody see that apple?  Can you see it?  Calm down.  Excuse me.  Can everybody see that apple?  So what – I’m asking you a question and you’re not listening.  If this apple were cut in half, cut along the dotted lines and you got two pieces, what fraction of the apple would you have?  Student C?
+student: One fourth.
+teacher: If you got two pieces, you would have one fourth.  What does the denominator say in this fraction?
+student: Four pieces.
+teacher: There are four pieces.  Are there four pieces of this apple?
+multiple students: Yes.
+teacher: But what did the word problem say?
+student: Two pieces.
+teacher: I need two pieces.  Now is that a unit fraction if I put the 2 on top?
+multiple students: No.
+teacher: No, it’s not a unit fraction.  It’s one fourth plus one fourth that equals two fourths.  Now I have two fourths. What did you say, Student S?
+student: You want to know the half?
+teacher: Is it a half?  Did I get half of the apple?
+multiple students: Yes.
+teacher: Student S figured out that hey, Mrs. H, you have half of both apples.  Look here.  Two pieces, this is the first piece.  Here’s my second piece.  How much of that apple have I eaten?  Two.  In both cases you have a half of an apple.  That means because you’ve eaten half of an apple, you have found two equivalent fractions.  We’re going to talk about the math behind it.  Everybody understand what I just said?
+multiple students: Yes.
+teacher: Student D, you have a question?
+{
+    "rating": 2
+}
+
+teacher: All right.  Good morning.  How is everybody?
+multiple students: Good.
+teacher: I have a confession to make.  What is my favorite thing?
+multiple students: Pizza.
+teacher: You all know I love pizza, right?
+multiple students: Yes.
+teacher: Okay.  I have a confession.  I went home yesterday, and you know I love pizza, and I have a couple pizzas in my refrigerator, and I needed something to eat for dinner, then I made a pizza.  Then I was so hungry, so I made another pizza.  In fact, I’m too embarrassed.  I can’t even tell you how much I ate. I’m just going to show you how much I ate, because you know I love pizza, like I said.  I went to my refrigerator and cooked my first pizza.  I cut mine into fourths.  It’s a little pizza, a mini pizza, not a big pizza.  So I cut it into fourths.  All right. That much.  I was hungry.  They were mini pizzas.  I cut it into fourths again.  Last night I ate that much pizza.  Who can tell me how much I ate?  Student M?
+student: One whole of a pizza and three fourths of another pizza.
+teacher: Yes.  I ate one whole pizza, and three slices out of my four slices last night.  I was hungry.  So I ate one and three fourths pizza.  Can someone tell me a different way to represent this number, how much I ate?  Can anyone think of a different – how much did I eat? Student J?
+student: Four sevenths.
+teacher: Not four sevenths.
+student: Six sevenths.  No, two—
+teacher: You’re close.  Student C?
+student: Seven eighths?
+student: Seven fourths.
+teacher: Seven fourths.  I ate seven – if you count the slices I ate, 1, 2, 3, 4, 5, 6, 7.  I ate 7 slices, and how many cuts did I cut my pizza into?
+student: Four.
+teacher: Four.  So I ate one whole pizza and three fourths, or you can say I ate seven fourths.  That’s a lot of pizza.  You were close.  You were thinking in the right direction.  I think you said seven eighths.  Remember when we talked about fractions, how many pieces we cut it into?  Do you ever add the denominator?
+multiple students: No.
+teacher: No.  So when you did that, Student C, remember, you added all the cuts.  Good thinking though.  So I know I ate a lot of pizza.  I’m pizza-ed out.  I’m not going to eat anymore pizza for a while.  But are these equal amounts?  Are these the same thing?
+multiple students: Yes.
+teacher: It’s the same amount.  What do you call this type of number?
+student: A whole.
+teacher: No.
+student: A mixed number.
+teacher: Yes, a mixed number, because we have a whole number plus a fraction, so it’s mixed.  What do I call this type of number?  Some of us – I bet you know it, Student M. Student N?
+student: Improper.
+teacher: Improper.  Good job.  This is an improper fraction, and we have been studying Greek and Latin roots, and what Greek or Latin root do you notice that we’ve been studying?
+student: Im.
+teacher: Im.  What does “im” mean?
+student: Not.
+teacher: So improper means it is not proper.  Do you see fractions written this way?
+multiple students: No.
+teacher: No, because it’s improper, because we know a proper way to write fractions is to what?  What does a proper fraction look like?
+student: When the numerator is smaller – when—
+teacher: When the numerator – is a proper fraction the numerator being smaller or greater than the denominator.
+student: Greater.
+teacher: No, smaller.  So is this a proper fraction?
+multiple students: Yes.
+teacher: Yes.  All right.  So today we have done a lot with proper fractions, right?  You know how to simplify.  You know how to find equivalent fractions.  Yesterday we talked about how to add fractions, and we talked about adding fractions with like denominators.  Today we’re going to continue to talk about adding fractions, but this time we’re going to add another element.  We’re going to add mixed numbers and improper fractions to the mix, how to add these types of numbers.  So what do you think is going to be a difference when we add these types of numbers?  Okay. So yesterday we did three fifths plus one fifth, which would be four fifths.  Excellent.  So today what if I do one and three fifths plus two and one fifth?  You all have an idea?  What do you think, Student T?  One and three fifths plus two and one fifth.
+{
+    "rating": 3
+}
+
+teacher: Boys and girls, this morning you were supposed to solve this morning math problem.  Who would like to read the problem? Student M?
+student: Ms. T used an equal amount apples in each of six pies. She used 30 apples in all.  How many apples did she use in each pie.
+teacher: Good.  What was your mathematical thinking when you read problem eight?
+student: Division.
+teacher: Division.  Okay, why don't you come on up and show us how you used division for problem eight?  Thank you, Student M.
+teacher: Where did Student M get the 30 from, Student D?
+student: She got the 30 from the 30 apples in all.
+teacher: Why don't you underline 30 apples in all?  So that's how many apples that there are.  What does the six mean?  Tell me about the six, Student L.
+student: The six means per pie.
+teacher: All right, so that there's six apples per pie.  And well that says equal number of apples in each of six pies.  So six apples or six pies?
+student: Six pies.
+teacher: Six pies.  So what does the five mean?  The five is the quotient, but what does five represent?
+student: It represents how many apples she used in each pie.
+teacher: Is there another way that you could write a number sentence that you'd have an answer of five?  Student A, come on up. Thanks, Student M.  You are going to have to come back to write a sentence on the board.  What operation did Student A use, class?
+multiple students: Division.
+teacher: Division, good.  Is division the only way to solve this problem?
+student: No.
+teacher: All right, Student W, show me another way.
+student: It's probably going to take up a lot of space.
+teacher: Try not to, please.  Thank you, Student A.  Now, for the camera in case the camera can't see what Student W is write, Student W is writing 6 times 1 equals 6, 6 times 2 equals 12, 6 times 3 equals 18, 6 times 4 equals 24, 6 times 5 equals?
+multiple students: 30.
+teacher: 30.  All right, can you explain why you did that?
+student: I did it because it would be – because I know my multiplication facts and it would be easier for me to do multiplication to get the answer than to keep on just doing division because I'm better at multiplication.
+teacher: You also wrote down multiples.  What multiples were you writing?
+student: Multiples of six.
+teacher: Multiples of six, good.  Any other answers?  Student D?
+student: I got five with my strategy that I used.
+teacher: You got five as answer?  Did anybody use another operation?  Or like these both are saying the same thing.  These are both saying division.  This is multiplication, but it is multiples.  Multiples are when you're skip counting. Student L, what did you have?
+teacher: Okay.  So when I look at this and this problem and this problem, these are all division problems.  When I look at this problem, this is multiples.  Multiples are based on multiplication.  Did anybody show – can anybody show me another way that this could be a multiplication problem? We don't have enough information to make a full sentence, but we could make part of a sentence.  Student D?  I see a lot of mathematical thinking in this problem.
+student: Sorry, it'll be –
+teacher: Excellent.  Come on over here for a second, Student D, and let's take a look at this.  What was the six, class, in the problem?  Six means what?
+multiple students: Pies.
+teacher: Six pies.  And what was the 30?
+multiple students: 30 apples in all.
+teacher: All right, 30 apples in all.  And what does that missing number mean?
+student: The answer.
+teacher: The answer.  What is the answer?
+multiple students: Five.
+student: How many apples she used.
+teacher: Look at the question.
+student: Five apples.
+teacher: Would you like to write your sentence now?  This is a good way to put some closure.  Student D, excellent.  While she's writing the sentence, let's clap for all the thinking.
+teacher: Now we want a complete sentence.  Did anybody write Ms. T?  How many people said she instead?  Oh, good for you.  Hi, Student D.
+student: Can I show you the strategy I did?
+teacher: Sure, let me see.
+student: Yeah.
+teacher: Are you allowed to use TIPS?
+student: Yes.
+teacher: Who remembers what TIPS stand for?  TIPS?  And maybe you don't use TIPS, but maybe you do.  Student K?
+student: The T means thought.
+teacher: Yeah, and we recorded a thought up here.  I is?
+student: The I –
+teacher: Student A is going to help.
+student: Information.
+teacher: What's the I?
+student: Information.
+teacher: What's the P?
+student: P is the problem.
+student: No.
+teacher: Not problem.  Four letter word.  Too many letters.  Student A?
+student: Plan.
+teacher: It's the plan, all right.  So these are plans.  And then the S is?
+multiple students: Solution.
+teacher: Solution.  All right, that's where TIPS come from.  Thought, information, plan, and solution.  All right, excellent. Read your sentence.
+student: She used five apples in each pie.
+teacher: Good.  Anybody else want to share their sentence?  Student J?
+student: She used five apples in each pie.
+teacher: Yeah, that's good.  How about one more sentence, complete sentence, Student W?
+student: She put five apples in each pie.
+teacher: Very good.  Let me take this.  Clear everything and fold this down.  Let's get into a whole class lesson.  Today we're going to discuss, explore, practice, and use area models. So if you look at the board, is the objective the goal for the lesson?  Students will be able to – I want you to read the objective silently and then we'll read it out loud. Just take a moment to silently read it first.  Okay, now let's read this together.  Ready? solve a three digit by one digit as well as a two digit by two digit multiplication problem.
+{
+    "rating": 4
+}

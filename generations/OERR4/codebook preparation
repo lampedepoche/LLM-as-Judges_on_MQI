@@ -1,0 +1,16 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Overall Errors and Imprecision" which captures, on a four-point scale (Low, Low/Mid, Mid, High), the overall presence of teacher errors in doing and talking about mathematics.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Low
+  - Small, momentary error(s) occur. For example, small slips in language, a brief lack of clarity, or a minor error in solving an exercise. These typically do not obscure the mathematics of the segment.
+- 2 = Low/Mid
+- 3 = Mid
+  - One or more errors, for example, persistent misuse of language, a lack of clarity in a portion of the segment and/or mathematical errors, but these typically obscure the math for part of the segment.
+- 4 = High
+  - Either there are many small errors, a consistent lack of clarity, or one large error that obscures the mathematics of the segment.
+
+Provide a very concise reasoning and the integer corresponding to the score (1-4)

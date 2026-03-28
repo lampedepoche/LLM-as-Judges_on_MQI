@@ -1,0 +1,95 @@
+teacher: Okay.  We are going to be doing popcorn fractions today.  What I want you to do first is you should have a napkin at your desk.  Go ahead and unfold your napkin so it is completely out.  Okay.  Student M and Student S are bringing you a bag of popcorn.  What we’re going to do with this popcorn is have to imagine a little bit, have to pretend, okay?  Now realistically when you pop a bag of popcorn you have more popcorn in your bag than this, right?  But we’re going to have to use our imaginations and pretend this is a bag of popcorn you just took out of the microwave.  What I want you to do is at your table, pick a partner.  It has to be somebody sitting across from you or next to you, okay?  So we have a partnership here, here, an here, and my three ladies here, can you be a group of three?  So what’s going to happen is we’re going to practice adding fractions with unlike denominators. What I want you to do first is open up your bag of popcorn onto your napkin.  You may not eat it yet.  I promise you’ll get to eat it, but not yet.  What I’d like you to do is go ahead and count how many you have.  I will tell you when you can eat and what you can eat, nothing yet.  Okay.  Sometimes popcorn is kind of fragile and it breaks.  Everyone should have 24.  Raise your hand if you have 24.  Okay.  Raise your hand if you have more than 24.  If you have more than 24, I want you to eat as many pieces as you have to so you have 24.  Double check and make sure you have 24 pieces.  So you have exactly 24, yes?  You just counted them.  You’re trying to cheat and eat a piece.  I heard you.  You have 24.  How many do you have, Student K?  Oh my goodness.  Come on.  Okay. 1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Seriously?  1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Okay.  So how many pieces are there in all?
+multiple students: 24.
+teacher: So what is our denominator for how many we have here?
+multiple students: 24.
+teacher: Because our denominator is always what?  How many we have in all.  Now with your partner we’re going to practice adding fractions with unlike denominators.  Okay.  So what I want you to do is decide who is person A and person B in your group.  In my group over here, one of you is going to have to sit out for this one. Okay.  So establish who is person A and person B. Okay.  Person A, what I would like you to do is split your popcorn into groups of 8.  Okay.  So each group should have 8 kernels in them.  Person A, you’re splitting it so each person has 8 kernels in a group. See how everyone else has their napkins unfolded? Just person A.  Okay.  So my people that split them into groups of 8, you have how many groups in all? Three groups in all.  Everybody see that?  What I want you to do is put two of those groups back into your Ziploc bag.  Okay.  Person B, I would like you to split yours so you have 6 pieces of popcorn in each group.  6 in each group.  If you have 24 kernels, you should have 6 in each group.  Okay.  You did something wrong.  You don’t have 24 kernels. Okay.  My person B, if you’re a B person, I asked you to split it so you have 6 popcorn kernels in each group.  How many groups do you have?
+multiple students: Four.
+teacher: I would like you to put two of those groups into your bag, so you have two groups left out.  My A people, look up here.  So you had how many groups in all?
+multiple students: Three.
+{
+    "your_reasoning": "Students were placed into pairs and given roles (Person A and Person B), but no student-to-student talk is audible at any point. All recorded interactions are teacher directions or whole-class responses. Because there is no evidence of substantive exchanges within the pairs—only the teacher explaining tasks—the dimension cannot be coded as present."
+    "rating": 1
+}
+
+
+teacher: All right guys.  Give me five.  I put a question on the board I want you to think about for a second.  Tell you what. Before you think about it for a second, everybody grab a Lego or two from the table, just one or two. Give some to somebody else.  Sure.  I’m just going to give them a few more.  Pass them around.  Share the love.  Get a few more.  Give Student C a few.  Just play for a minute.  Get your play time out because we’re going to use them to learn in a minute.  Just thinking about it.  We’ll talk about it.  I want you to put all the Legos back on the desk of the person’s they were to start with.  I’m going to count down from 10.  You’ll get plenty of chances to play with them.  5, 4, 3, 2, 1.  Give me five =.  Put your hands in your lap.  Awesome.  Can you turn and talk to your neighbor right now?  How can Legos help us represent and solve multiplication?  What do you think?  How can they help us?  Could this be a multiplication problem right here?  What problem would it be?  Two rows of two?  What’s the other word?  Starts with a C.  Columns.  And those are factors.  That’s the other word.  Give me five. Awesome.  I gave a direction earlier about putting the Legos back on somebody’s desk.  I may not have said this.  At playtime with the Legos, I gave you the playtime so you don’t play when we should be learning.  If you have Legos on your desk and you’re not that person whose desk they were on, take them off your desk.  All right.  What I want to know is what did you say?  How can they help us represent multiplication?  I heard what Student L’s table said before, but I didn’t get to hear any other tables. Student J, what do you think?
+student: Because when you look at the back of one, you can use it for multiplication there, or you can use the top of them.
+teacher: Student J, you’re telling me two different things.  Let me put it up here and see if you can tell me for a second about it.  You said the back.  Can you tell me which side is the back?  This side right here with the big circles?  Let me zoom in.  How would that be multiplication?  Tell me about this one.  How is this multiplication?  You said the back.  Does this look like multiplication?  What do you think?  That’s what I’m asking you to explain.  What do you see?
+student: I see some dots.
+teacher: Some open circles maybe is what you’re seeing?  What do you see on this piece, Student J?
+student: 7.
+teacher: I see 7.  So could that be multiplication they’re showing us right there?  I’m asking Student J.  Could it be?  Is that multiplication?
+student: Look at the front.
+teacher: We’ll look at the front next.  You said the back.  I want to talk about the back.  I want you to explain.  What multiplication problem does that show?
+student: 7 times 1.
+teacher: Does it not show 7 times 1?
+multiple students: Yes.
+teacher: I would say more like 1 times 7, Student J, because there’s 1 row of 7.  Does that make sense?
+student: You can do 7 times 1.
+teacher: 7 times 1 would be more this way.  I’m thinking this is 1 row of 7 or 7 times 1.  No you don’t.  That’s using the back.  You know what, Student J?  I didn’t even think about using the back on multiplication until you said it.  I never even one time thought about using the back until you said it.  I have thought about using the front.  So I’m going to let somebody else – since you had a chance to explain, I’m going to let somebody else have a chance to explain what this is. Would you draw a name for me out of the cup?  I left my cup over there on the chair.  Draw a name for us and let’s see how the other side is multiplication, this side.
+student: Student N.
+teacher: Okay, Student N.  How is this side multiplication?
+student: It’s like an array.
+teacher: Be specific.  How is it like an array?
+student: It’s 2 times 6, I think.
+teacher: Are you saying it’s 2 this way?  1, 2, 3, 4, 5, 6, 7, 8.  So Student N, does this have 8 rows or 8 columns?
+student: 8 rows.
+teacher: Which direction does rows go?  I’m not saying you’re right or wrong.  I’m just saying, which direction do the rows go?  Which direction do the columns go?  Rows go across, horizontal, columns go vertical.  So how many vertical columns do you see?  That’s columns.  How many vertical columns?
+student: 8.
+{
+    "your_reasoning": "A brief “turn and talk to your neighbor” is initiated, and students are explicitly directed to discuss how Legos can represent multiplication. However, no student-to-student dialogue is actually recorded, and the teacher rapidly regathers the class, shifting back to whole-group questioning. The presence of pair discussion is therefore minimal and short-lived, with no audible evidence of substantive exchanges."
+    "rating": 2
+}
+
+
+teacher: Okay.  Boys and girls, today we’re going to be continuing our work with decimals we’ve been working on for the last few days.  Our essential question that we are going to be working on today is how can we use base 10 blocks to help us solve problems with decimals?  If you can go ahead and write that essential question down into your journal.  At the end of class today where we do a little closing at the end, a little reflection, I’m going to ask you to answer this question in your journal at the end.  So today with all of our activities, I want you to be thinking, how can we use those base 10 blocks to help us?  We’re going to start all together with a problem.  You don’t have to copy this whole problem down word for word, but you might want to take a few notes, and I’ll put a few notes up here on the board for us.  We have a bicycle race with a thousand participants that are competing in this bicycle race.  They are going to be divided into eight teams.  You’re going to have an equal number of cyclists in each one of those eight teams.  Each team is going to start their portion of the race at a different time.  So the first group will start at 8:00 AM.  The second group, 8:15 AM, third group, 8:30 AM.  Anybody notice a pattern?  Any of you have a brother or sister who runs cross country?  If you do you might have seen this.  My daughter in high school runs cross country, and we were just at a race last weekend.  The varsity girls started at 8:00, then the junior varsity girls started their race at 8:30, then the varsity boys ran their race at 9:00 and so on and so forth, because they all share the same race course.  They’re running on the same course.  I imagine it’s the same thing with the cyclists.  So they’re going to kind of stagger them out so they’re not all bunched together. Okay.  So this will be our pattern, and so on, every how many minutes apart?
+multiple students: 15.
+teacher: Every 15 minutes apart until we have 8 teams that finish. We’re going to use the base 10 blocks at your table to help us figure out how many participants we’re going to put on each of the 8 teams.  You can also use your journals if you need to do some scratch work.  This block will represent our 1,000 participants.  Why would I choose this for 1,000 participants?
+student: Because there’s a thousand pieces and it’s in thousand blocks.
+teacher: It’s a thousand block.  There’s a thousand pieces.  You all figured that out last year in 4th grade or 3rd grade, learned there were 10 rows of 10 in here, correct?
+multiple students: Yes.
+teacher: Which makes it – no, a hundred.  You all said correct.  We’ve got to be thinking, how many – it’s not 10 rows of 10.  The hundreds block would be 10 rows of 10.  This is 10 rows of 100.  So there will be 1,000 in here. This is everyone participating in the race.  We’re going to think of this as our whole.  This is our whole group.  So if this is the one, all of these other pieces, what we normally think of as the hundreds, the tens, and the ones, are going to be pieces of our cycling team.  Okay.  So if you want to, you started out with 10 and if you need more pieces when you’re working, we have more pieces in the bag.  In fact, Student G, would you go ahead and get hundreds blocks from back there and start giving everyone hundreds blocks?  You’re probably going to need them.  We’re not calling these hundreds blocks today.  We’re calling these groups of cyclists in our race.  These are cyclists in our race.  Okay.  You could start out by building it up, making it the same as the whole cube, and that’s how many you have and now you have to take them and split them into 8 groups.  So would we have to do some trading maybe?
+multiple students: Yes.
+{
+    "your_reasoning": "Students are directed to work at their tables with shared base-10 blocks to determine how to divide 1,000 participants into 8 teams. The teacher explicitly instructs them to use the materials collaboratively and allows them to use journals alongside the manipulatives. Although no student-to-student dialogue is audible, the task is clearly structured for sustained small-group problem solving with shared materials and a non-trivial goal, making substantive peer interaction reasonably inferable."
+    "rating": 3
+}
+
+
+student: I’m trying to figure out how to group these two.
+teacher: I see only 6 groups.  My directions were to – I don’t see 7 groups.  The remainder?  Okay.  All right.  So – any strays in your group?  Anything left out?  Yes, you have something leftover?  Okay.  So we take this number 50, and we make 7 groups.  What did you end up with, Student M?
+student: We got—
+teacher: What did you have in your 7 groups?
+student: 7 and a remainder of 1.
+teacher: So 7 groups of 7 plus 1 leftover?
+student: Yes.
+teacher: Did I hear you call that a remainder?
+student: Yes.
+teacher: Okay.  All right.  What about you guys?
+student: We had the same thing.
+teacher: So you have 7 groups of 7 with one leftover?  What about you guys?
+student: The same.
+teacher: Okay.  So what did you just do?
+multiple students: Divide.
+teacher: You divided it.  So dividing is just making groups, right?
+student: Yes.
+teacher: Let’s try another one.  Let’s take – we’re going to take our number 50 and this time we’re going to make 6 groups. Wow.  Okay.  I said 6 groups.  Okay, girls.  Are you still working on it or are you finished?  I’m sorry?
+student: We’re counting them.
+teacher: Okay.  You are your mother’s daughter, aren’t you?
+student: Yes.
+teacher: [Laughter]  So this group, tell me what you got when you took 50 and had to make 6 groups?
+student: We divided the 6.  We put each tile into a group to start it off and started adding them up and got 6 groups of 6 and we had 15 remainders leftover.
+teacher: Interesting.  You made 6 groups of 6, and then you had 15 leftover.  Is that what you said?  I wonder, if these 15 could go in some of the other groups.
+student: They can be reduced.
+teacher: Well I don’t know if it would be reducing since it’s not a fraction that we’re making smaller, but that’s a big number, 15.  That number is larger than the number of groups that I have.  So what that tells me is that I can take these 15 and still spread them out some more.  You guys work on that.  What do you guys have?
+student: 6 groups of 8 and remainder 2.
+teacher: 6 groups of 8 and a remainder of 2?
+student: Mm-hmm.
+{
+    "your_reasoning": "Students are actively working in small groups to create equal groups from a given number, and multiple groups report their results. The teacher circulates and interacts with individual groups, and students’ reasoning is audible as they describe how they formed their groups and handled remainders. Substantive peer collaboration is clearly occurring and sustained across the task."
+    "rating": 4
+}

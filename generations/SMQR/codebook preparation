@@ -1,0 +1,25 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Student Mathematical Questioning and Reasoning" which captures, on a three-point scale (Low, Mid, High), the extent to which students engage in mathematical thinking that has features of important mathematical practices. There must be clear evidence of students engaging in such practices. Examples include but are not limited to:
+- Students provide counter-claims in response to a proposed mathematical statement or idea (whether from another student, the teacher, or a text)
+- Students ask mathematically motivated questions requesting explanations (e.g., “Why does this rule work?” “What happens if all the numbers are negative?”)
+- Students make conjectures about the mathematics discussed in the lesson (e.g., “I’ve been trying to make a triangle with two obtuse angles, and I don’t think you can.”)
+- Students form conclusions based on patterns they identify or on other forms of evidence (e.g., “It looks like, for polygons, every time we add a side we add another 180 degrees.”)
+- Students engage in reasoning about a hypothetical or general case (e.g., “Because the sum of the angles of any triangle is 180 degrees, a triangle should have at least two acute angles.”)
+- Students use ideas from a different mathematical topic to reason about the content of the lesson (e.g., student uses ideas from symmetry to reason about equivalent fractions in a pie chart)
+- Students make a connection between the topic of the lesson and another mathematical area (e.g., a student notes the connection between area models for multiplication and area in measurement)
+- Students comment on the mathematics of one another’s contributions (this must go beyond stating “I did it another way” or simply agreeing or disagreeing)
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+- Students’ contributions do not have to be complete or correct
+- Only give credit for things you actually "hear" students say
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Low
+   - One or two instances of brief student mathematical questioning or reasoning are present.
+- 2 = Mid
+   - Student mathematical questioning or reasoning is more sustained or more frequent, but it is not characteristic of the segment.
+- 3 = High
+   - Student mathematical questioning or reasoning characterizes much of the segment.
+
+Provide a very concise reasoning and the integer corresponding to the score (1-3)

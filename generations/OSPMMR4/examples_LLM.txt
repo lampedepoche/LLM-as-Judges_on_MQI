@@ -1,0 +1,146 @@
+teacher: Okay.  We are going to be doing popcorn fractions today.  What I want you to do first is you should have a napkin at your desk.  Go ahead and unfold your napkin so it is completely out.  Okay.  Student M and Student S are bringing you a bag of popcorn.  What we’re going to do with this popcorn is have to imagine a little bit, have to pretend, okay?  Now realistically when you pop a bag of popcorn you have more popcorn in your bag than this, right?  But we’re going to have to use our imaginations and pretend this is a bag of popcorn you just took out of the microwave.  What I want you to do is at your table, pick a partner.  It has to be somebody sitting across from you or next to you, okay?  So we have a partnership here, here, an here, and my three ladies here, can you be a group of three?  So what’s going to happen is we’re going to practice adding fractions with unlike denominators. What I want you to do first is open up your bag of popcorn onto your napkin.  You may not eat it yet.  I promise you’ll get to eat it, but not yet.  What I’d like you to do is go ahead and count how many you have.  I will tell you when you can eat and what you can eat, nothing yet.  Okay.  Sometimes popcorn is kind of fragile and it breaks.  Everyone should have 24.  Raise your hand if you have 24.  Okay.  Raise your hand if you have more than 24.  If you have more than 24, I want you to eat as many pieces as you have to so you have 24.  Double check and make sure you have 24 pieces.  So you have exactly 24, yes?  You just counted them.  You’re trying to cheat and eat a piece.  I heard you.  You have 24.  How many do you have, Student K?  Oh my goodness.  Come on.  Okay. 1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Seriously?  1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Okay.  So how many pieces are there in all?
+multiple students: 24.
+teacher: So what is our denominator for how many we have here?
+multiple students: 24.
+teacher: Because our denominator is always what?  How many we have in all.  Now with your partner we’re going to practice adding fractions with unlike denominators.  Okay.  So what I want you to do is decide who is person A and person B in your group.  In my group over here, one of you is going to have to sit out for this one. Okay.  So establish who is person A and person B. Okay.  Person A, what I would like you to do is split your popcorn into groups of 8.  Okay.  So each group should have 8 kernels in them.  Person A, you’re splitting it so each person has 8 kernels in a group. See how everyone else has their napkins unfolded? Just person A.  Okay.  So my people that split them into groups of 8, you have how many groups in all? Three groups in all.  Everybody see that?  What I want you to do is put two of those groups back into your Ziploc bag.  Okay.  Person B, I would like you to split yours so you have 6 pieces of popcorn in each group.  6 in each group.  If you have 24 kernels, you should have 6 in each group.  Okay.  You did something wrong.  You don’t have 24 kernels. Okay.  My person B, if you’re a B person, I asked you to split it so you have 6 popcorn kernels in each group.  How many groups do you have?
+multiple students: Four.
+teacher: I would like you to put two of those groups into your bag, so you have two groups left out.  My A people, look up here.  So you had how many groups in all?
+multiple students: Three.
+{
+    "your_reasoning": "Student activity is almost entirely procedural: counting kernels, forming equal groups, and following step-by-step directions. There is no student-initiated reasoning, explanation, or questioning. The task is tightly scaffolded, leaves no space for conjecture or meaning-making, and student contributions are limited to stating counts. This yields minimal evidence of engagement in mathematical practices."
+    "rating": 1
+}
+
+
+teacher: Three fourths.  Good.  May be hard to see from back there, but shade in your last box.  What does one whole represent, Student L?
+student: Four fourths.
+teacher: Four fourths, excellent.  Does everybody have that?  When you have this on your paper, please stand up so I know you're ready to move on.  Okay.  So this is just a closer look of what we did, and we came up with three fourths.  Now, we're going to practice some more.  Where would one fourth be on the number line?  We just finished doing it.  Where would one fourth be on the number line?  Can somebody go up there and mark it for me?  And if you agree with Student M, please stand.  If you disagree, stay seated.  Where would one fourth be?
+student: Can I draw a line right here?
+teacher: Why did you draw a line?
+student: Because one fourth is a little bit backwards.  Like it's not that close to one half.
+teacher: Huh, okay.  What do we think?  What does someone else think? Is Student M correct?  Where do you think one fourth goes, Student T?  Where do you think it goes?  Come up here. Right there?  So Student T thinks one fourth goes right here.  What do you think about that?  So what can you say about one fourth in regards to one half?  What is one fourth and one half have in common?  Student T?
+student: One fourth is half of one half.
+teacher: One fourth is half of one half.  Student M, look at your representation that you just created.  It's the same exact number line, isn't it?  So Student T, you were correct. One fourth is right there.  Very nice.  And where does four fourths go?  If you were paying attention to Student L before, you would know where it goes.  Student H?  Four fourths.  Excellent, Student H.  Can you erase that, honey? Excellent.  Uh-oh, we have more pieces this time.  So I want you to draw this number line in your notebooks.  Make sure you have the same amount of pieces that I have up there.  Does it go past one?  Make sure you have the same amount of lines between zero and one half and one half to one.  How many lines between zero and a half?  How many lines between zero and a half?
+student: Four.
+teacher: Hm?
+student: Four.
+teacher: Point to them.  Between zero and one half?  How many lines is that in between?
+student: Three.
+teacher: Mm-hmm.  Keep going.  What you have on this side, you need on that side.  So how many do you need on that side?  Hm?  Mm- hmm.  And then one more we have one.  Okay, with your groups, I want you to create a rectangle on top of your number line and break that rectangle into the same amount of pieces as your number line with your groups, not by yourself.  Come on, come on.
+teacher: Can you put this on the desk?  Okay.  Keep going.  So how many pieces does your rectangle break off into?
+student: Eight.
+student: One, two, three, four, eight.
+teacher: Break them up.  After you're done breaking it up, you should know what your denominator is.  What's your denominator on this number line?  Count the amount of boxes in your rectangle.  It matches the lines.  Student H, you have to make sure that you're working as a group and not by yourself and I'm counting on you to support your group, okay?
+student: Yes.
+teacher: Thank you.  Okay, what's our denominator here?  How many pieces in your rectangle?  Student T?
+student: Eight.
+{
+    "your_reasoning": "Students occasionally offer mathematical ideas—placing 1/4 on the number line, explaining its relation to 1/2, identifying denominators—and some peers critique or build on these contributions. However, most activity is teacher-directed: students follow instructions to draw number lines and rectangles, with limited autonomy in reasoning or questioning. The mathematical work is primarily procedural, and substantive student-generated explanations appear only intermittently."
+    "rating": 2
+}
+
+
+teacher: Okay, good.  Okay, so let me slip away from the homework page and we'll get started.  Okay, so just like yesterday to warm us up a little bit before we go, a little mental math estimation.  Can somebody solve for me, in your head, 35 times 4?  Student A, what are you thinking, 35 times 4?
+student: Hundred forty?
+teacher: How'd you get 140?
+student: Because I did 2 times 35 is 70 and then – okay, 2 times 35 equals 70.  So I added 70 plus 70 or 2 times 70 and took away the 0.
+teacher: Seven and seven is?
+student: Two times seven is fourteen and I added the zero.
+teacher: Excellent.  So she used doubles, right?  She doubled 35 and got 70 and doubled it again.  Is there a different way you could've done 35 times 4 in your head?  Student C, what else could you have done?
+student: Thirty times four equals a hundred and twenty.  Five times four equals twenty.  A hundred twenty plus twenty equals one forty.
+teacher: Okay, really good mental math.  Two different strategies.  What if you do 55 times 3?  Student E?
+student: One hundred sixty-five.
+teacher: And where'd the 165 come from?
+student: I know that 50 times 3 equals 150 and 3 times 5 equals 15.  So 150 plus 15 equals 165.
+teacher: Excellent.  Gosh, your mental math is really, really, really amazing compared to the beginning of the year when we were still working on, like, 6 times 7 and now we're doing 55 times 3, 45 times 4.  All right, one more.  Can you do – let's make a larger number – can you do 75 times 4? Student S, can you do 75 times 4?
+student: I'm not sure it's right but –
+teacher: What would you think in your head for 75 times 4?
+student: Five times four.  Four times five which is twenty and then seventy times four is twenty-eight.  Add the zeros, it's 280.
+teacher: So you did 280 and you have the 20?
+student: Two hundred eight plus twenty is three hundred.
+teacher: Who agrees with that?  Three hundred?
+student: Me.
+teacher: For 75 times 4, breaking it up, multiplying the tens, multiplying the ones, and then combining it make for some good mental math.  Good work.  Okay, so yesterday we did some estimating, right?  And we worked on estimating and comparing.  Let me make this bigger.  A number to an equation.  And we used estimation to see which is bigger. We didn’t solve it exactly, but we estimated to see which would be the larger number.  We compared them.  If you look at 250 and we're comparing that to 5 times 48, I don't want you to solve it exactly.  I want you to think.
+student: I see which one's bigger.
+teacher: Which is bigger?  Without solving exactly, do you know in your head a way to figure this out mentally?  One, two, three, four, five, six, seven – seven people have an idea.  What are you thinking in your head, Student C?  I see you looking at it.  What are you thinking about?
+student: I can split the 48 up to explain.
+teacher: So you're thinking you could split the 48 and do some mental math.  Mm-hmm, one way would be to do like we were just practicing, some mental math with the 5 times 48.  Can you do it without having to solve 5 times 48?  What do you think, Student J?
+student: You could estimate 48 to 50 and then multiply 5 times 50 which would get you to a friendly.  And 5 times 50 –
+teacher: You said 5 times 50 is a friendly estimation.  You rounded it?
+student: Yeah, and 5 times 5 equals 25 and then put the 0 on the back would give you 250, but that's not the exact equation that we're using.  The number is a little bit lower so we know that 250 has to be larger.
+teacher: Excellent.  So can somebody repeat what Student J just said and make sure this makes sense to us?  He told us that the 250 is going to be larger and why was that, Student C?
+student: Because 40 is lower than 50.
+teacher: Forty is less than fifty or our forty-eight is less than the fifty?
+student: Our 48 is less than the 50.
+teacher: Okay, Student J, can you explain that again?  That's true, Student C.
+student: Two things.  One that he said that 48 rounded to 50 will make a close estimate.  He said 5 times 5 is 25; add the 0 is 250. Since it's lower because the actual equation is lower, that he knows that 250 is greater.  Another thing I was going to say is like we could 5 times 40 and try to figure out with just 250 and then you could sort of do 5 times 8 which is easier.  I think it's a little bit easier.
+teacher: Okay, that'd be solving it exactly, right?  But I like what you said about Student J noticed this friendly fact.  He kind of did a mental estimate and said, wait a minute, 5 times 50 is 250.  So I know that this is 5 times 50.  And like you said, the real problem is lower, right?  This was an overestimate.  So we know that 5 times 48 will be less.  So we need to have the sign eating the larger number, right? Two hundred fifty is greater than five times forty-eight.
+student: How come –
+teacher: Will you close the window for me, please?
+student: How come that's a plus instead of an equals?
+teacher: Great question.  It should’ve been an equals sign, right? Okay.  Last one like this, 3 times 27 or 90?  Which one would be larger, the 90 or the 3 times 27?  That's good. Thank you.  All set.  Student X, what are you thinking?
+student: You can estimate the 27 to the 30.  So 3 times 30 is 90.
+teacher: You said 3 times 30 is?
+student: Ninety.
+teacher: Interesting.
+student: So that one wasn’t bad because if you round it up, it was going –
+teacher: So you know 3 times 30 is 90.  This is like equivalent – equal to 3 times 30 over here.  That would be equal to 90.  So 3 times 27?
+{
+    "your_reasoning": "Students consistently offer their own strategies for mental multiplication and estimation, explain their reasoning, compare methods, and comment on peers’ ideas. The teacher prompts them to articulate and justify thinking, and multiple students contribute substantive mathematical explanations. Although the content is routine, the reasoning is active and varied, showing meaningful engagement in mathematical thinking."
+    "rating": 3
+}
+
+
+student: Do we do if 45 divided by something equals—
+teacher: What is this?
+student: It is 45.
+teacher: 45 what?  I didn't make 45 cookies.  Look at the board.  What did I make?
+student: 45 M&Ms.
+teacher: I didn't make 45 M&Ms either.  What did I make?
+student: I made a dozen cookies.
+teacher: Which is?
+student: 12 cookies.  45 cookies shouldn't be on your paper.  How many cookies do I have?
+student: 12.
+teacher: If you're going to draw cookies, draw only 12 cookies.  You don't have 45 cookies.  What do you have 45 of?
+student: M&Ms.
+teacher: And where are those M&Ms?  In the 12 cookies.  You have to see how you can divide the 45 M&Ms between the 12 cookies.  It doesn't say that they have to have equal amounts.  It says they have to have at least 3, no more than 5, right?  So if I have at least 3 in each cookie, it means all 12 cookies will have at least how many?
+student: 3, or 4.
+teacher: Every cookie will have at least 3, then maybe another 1 or 2.
+student: If you do that, you will have some remainders.
+teacher: You will have some remainders.  That's what I'm telling you. You're not going to have all your cookies with the same number.  45 does not divide evenly by 12, correct?  You have 12 cookies, right?  You're saying 45 divided by 12. It doesn't divide evenly.  You're going to have remainders no matter what, okay?  You're trying to figure out how many combinations of M&Ms can be in there.  Have you ever baked cookies before?
+multiple students: Yes.
+teacher: Like with chocolate chips?  My favorites are the ones with all the chocolate chips.  If I'm making cookies, and I'm stirring up my batter, am I counting to make sure that every cookie has the exact same number of chocolate chips, or the exact same number of M&Ms?
+student: No.
+teacher: It's going to happen however it happens. I'm not counting. That's what you're looking at. It's going to have at least 3, but there might be some with 4 or 5, as long as you only have how many total in all the cookies?
+student: 45.
+student: My mom makes ones with peanut butter cups in them.
+teacher: Those are so good.  How are we doing over here?  What do you have going on?  What does that mean?
+student: How much cookies there are.
+teacher: What's 6 and 2?
+student: There's going to be 6 cookies with 2 in there.
+teacher: 2 what?
+student: 2 M&Ms.
+teacher: Can you have 2?  You're making possible groups of the cookies. I don't want groups of cookies.  I want M&Ms in cookies. What am I going to be doing?  Tell me the facts I know again.  I have 12 cookies.  Have you made cookies before? Even if you've gotten a tube of cookie dough, when you've gotten that tube, does it say count how many M&Ms are going to be in each cookie?  You stir all those M&Ms up in the batter.  You don’t have a way to count and make sure everyone has the same number, right?  So when you're plopping them out onto the tray, on the pan to go into the oven, are you going, "Oh, this one only has 4.  Let me add another one."?  No.  It's going to happen however it happens.  How many M&Ms are in the 12 cookies?  45.  Does 45 divide by 12 evenly?
+multiple students: No.
+teacher: Let's name multiples of 12.  12, 24.  What comes next?  What's before that?  12, 24, 36, and then 48.  So 36 is not enough, 48 is too much.  We know we're going to have a remainder, right?  There's not going to be any that are even.  This group over here, self control.  So we know there's not going to be an even number in every one. You're going to have to split that number up somehow.  You know ever cookie is going to have at least what?
+student: 3.
+teacher: Can some have 3 and some have 4?
+multiple students: Yes.
+teacher: Can some have 3, 4, and 5?
+multiple students: Yes.
+teacher: Okay.  So you've got to see how many different combinations you can make doing that.  Make sense?
+student: I think we're done.
+teacher: You've got to see how many different combinations.  That's one way.  How else could you do it?
+student: Can we write on the back?
+teacher: Yes.  When you flip over on the back, you might want to do it a little bit smaller.  Okay.
+student: They're saying if you divide, that would be the answer.
+teacher: Right.  45 M&Ms divided by 9 in each gives you what?  If this is the total M&Ms in each cookie, this is what?  How many cookies?  Do you have 9 cookies?
+student: No.  We have 12.
+{
+    "your_reasoning": "Students engage in sustained reasoning about an open, non-routine combinatorics task. They pose questions, test interpretations, analyze constraints (totals, minimums, maximums), consider remainders, and explore possible distributions. The teacher prompts but does not dictate methods, and multiple students contribute mathematical ideas that advance the collective understanding. The segment is dominated by student meaning-making rather than procedural execution."
+    "rating": 4
+}

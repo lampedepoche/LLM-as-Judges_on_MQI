@@ -1,0 +1,116 @@
+teacher: Okay.  We are going to be doing popcorn fractions today.  What I want you to do first is you should have a napkin at your desk.  Go ahead and unfold your napkin so it is completely out.  Okay.  Student M and Student S are bringing you a bag of popcorn.  What we’re going to do with this popcorn is have to imagine a little bit, have to pretend, okay?  Now realistically when you pop a bag of popcorn you have more popcorn in your bag than this, right?  But we’re going to have to use our imaginations and pretend this is a bag of popcorn you just took out of the microwave.  What I want you to do is at your table, pick a partner.  It has to be somebody sitting across from you or next to you, okay?  So we have a partnership here, here, an here, and my three ladies here, can you be a group of three?  So what’s going to happen is we’re going to practice adding fractions with unlike denominators. What I want you to do first is open up your bag of popcorn onto your napkin.  You may not eat it yet.  I promise you’ll get to eat it, but not yet.  What I’d like you to do is go ahead and count how many you have.  I will tell you when you can eat and what you can eat, nothing yet.  Okay.  Sometimes popcorn is kind of fragile and it breaks.  Everyone should have 24.  Raise your hand if you have 24.  Okay.  Raise your hand if you have more than 24.  If you have more than 24, I want you to eat as many pieces as you have to so you have 24.  Double check and make sure you have 24 pieces.  So you have exactly 24, yes?  You just counted them.  You’re trying to cheat and eat a piece.  I heard you.  You have 24.  How many do you have, Student K?  Oh my goodness.  Come on.  Okay. 1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Seriously?  1, 2, 3, eyes on me.
+multiple students: 1, 2, eyes on you.
+teacher: Okay.  So how many pieces are there in all?
+multiple students: 24.
+teacher: So what is our denominator for how many we have here?
+multiple students: 24.
+teacher: Because our denominator is always what?  How many we have in all.  Now with your partner we’re going to practice adding fractions with unlike denominators.  Okay.  So what I want you to do is decide who is person A and person B in your group.  In my group over here, one of you is going to have to sit out for this one. Okay.  So establish who is person A and person B. Okay.  Person A, what I would like you to do is split your popcorn into groups of 8.  Okay.  So each group should have 8 kernels in them.  Person A, you’re splitting it so each person has 8 kernels in a group. See how everyone else has their napkins unfolded? Just person A.  Okay.  So my people that split them into groups of 8, you have how many groups in all? Three groups in all.  Everybody see that?  What I want you to do is put two of those groups back into your Ziploc bag.  Okay.  Person B, I would like you to split yours so you have 6 pieces of popcorn in each group.  6 in each group.  If you have 24 kernels, you should have 6 in each group.  Okay.  You did something wrong.  You don’t have 24 kernels. Okay.  My person B, if you’re a B person, I asked you to split it so you have 6 popcorn kernels in each group.  How many groups do you have?
+multiple students: Four.
+teacher: I would like you to put two of those groups into your bag, so you have two groups left out.  My A people, look up here.  So you had how many groups in all?
+multiple students: Three.
+{
+    "your_reasoning": "The segment contains only a minor issue: students who had more than 24 popcorn pieces were told to “eat until they have 24.” This is not a mathematical error about fractions or denominators; it is simply a way to standardize the total count. All mathematical statements about denominators, grouping into 8 or 6, and counting groups are correct. No incorrect definitions or fraction rules are given, and no student errors are endorsed. Therefore, the segment contains only a brief, non-mathematical irregularity and no substantive mathematical content error."
+    "rating": 1
+}
+
+
+teacher: Okay.  So we have been working on fractions and looking at fractional parts.  Depending on the whole, we realize that the fractional part can be different.  By that I mean when we looked at our 5 x 12 rectangle, and I’ll just draw an open array here, we know that the area of this rectangle will be 60 units.  Correct?
+student: Yes.
+teacher: 60 square units, correct.  5 times 12 equals 60 square units. Therefore, we know if we should cut this in half each half will have –
+student: 30 square units.
+teacher: 30 square units.  The area of each half would be 30 square units.  We also looked at another figure that we looked at. There’s a 4 by 6.  Remember that one?
+student: Yes.
+teacher: So we know the area of this is what?
+student: 24.
+teacher: 24.
+student: Square units.
+teacher: Square units, the whole thing, which is 4 times 6 equals 24 square units.  And we know a half of this one, for example, would be how many units?
+teacher: 12.
+student: Square units.
+teacher: So if we were to divide this in half, side A and side B, you’d have 12 units, 12 units.  Agree?
+teacher: So here is a half over here.  Here is a half over here.  And we have learned that we would be better off, pretending these are [brownies], we’d be better off sharing the brownies on the 5 by 12.  We’ll get a better half than if we shared the 6 by 4.  Agreed?
+student: Yes.
+teacher: So we know that depending on the whole, the fractional part is gonna be different.  Correct?
+student: Yes.
+teacher: All right, good.  So that’s reviewing what we did before. Today what we are gonna look at is how to combine fractional parts to make a whole.  So we are gonna use our – let me take this off the board. is that?
+teacher: Okay.  So we’re gonna use a 5 by 12 and we want to see how we can cut this up using different – we have worked with fourths.  We have worked with thirds.  We have worked with halves and fourths.  Did I say fourths?
+student: Yes.
+teacher: Okay.  And you work with eighths?
+student: Yes.
+teacher: Okay, and sixes.  How can I cut this fraction, this whole up into different fractions to equal one whole?  Where would you like to start?
+student: At a half.
+teacher: Okay.  So if I do a half, I have to – 1, 2, 3, 4, 5.  What would a half be of this 5 by 12?
+teacher: How would I come up with it?
+student: You should probably shade it down the middle.
+teacher: Yeah, but –
+student: You can [count in the sides].
+teacher: I know I have 5 here.
+student: So do 5 by column.
+teacher: So I have to do 5 by 6.  Very good.  1, 2, 3, 4, 5, 6.  So I know right here would be my half.  So I’m gonna just color it.  I’m not gonna color it all in.  So this is one-half. Plus what else can I cut in?
+student: One and a half.  Wait, two-fourths.
+teacher: Well two-fourths is the same as –
+student: One-half.
+teacher: One-half, so I would prefer to use a different fraction.  Could I use one-half plus one-fourth plus one-fourth equals one whole?
+teacher: Okay.  So if 40 is one-half, how many units do I need to have to make a fourth?
+student: 15.
+teacher: 15.  So I can do 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15.  Did I do that right?  1, 2, 3, 4, 5.
+student: Yeah, those three are 15, yeah, those three.
+teacher: So this is one-fourth.  Agree?
+student: Yes.
+teacher: 15 units.
+student: Teacher, that’s 13 units.
+{
+    "your_reasoning": "A substantive mathematical error appears when the teacher treats “40 units” as one-half of the 5×12 rectangle. The correct half-area is 30, not 40. This incorrect value is then used to determine one-fourth, leading to further incorrect counting on the diagram. The teacher moves forward with this incorrect half and begins constructing fractional parts from it, which obscures the mathematics for part of the segment. The student later flags a counting error, but the underlying incorrect half-area remains uncorrected within the segment."
+    "rating": 2
+}
+
+
+student: Milli.
+teacher: Okay milli, okay these are all prefixes so they should have that little dash behind them so you can add the base unit. But if I take that base unit and let’s say I do a millimeter. If I add this prefix that would be the centimeter, over here that would be the?
+student: Kilometer.
+teacher: Kilometer or Kilometer. Okay the way this would work because we’re gonna do this in a little bit. So I’ll go ahead and show it to you right now. Let’s say I have 3000 centimeters and I wanna know how many meters that is. Do I have to know numbers like 16, 3, 36, 1760?
+student: No.
+teacher: No. Very simple and there’s no – what we’re trying to look at is I’ll show you exactly this. Every time I move I’m going to multiply or divide by what number?
+student: 10
+teacher: By 10 depending on which way I’m going. Okay so I’m going from my small unit to a larger unit. So do you think I multiply or divide?
+student: Multiple, divide, multiple.
+teacher: I’m going from smaller to larger than I need to divide. And each time I move, okay I can do divide by 10 divide by 10 or I could say well that’s 2 times, what’s 10 times 10?
+student: 100.
+teacher: 100 so if I wanna know how many meters in 300 centimeters then I would divide by 10 times 10 which is the same as?
+student: 100.
+teacher: 100 so what’s 300 divided by 100?
+student: 3
+teacher: 3. So 300 centimeters equals how many meters? You just told me.
+student: 3.
+teacher: 3. If I do it one step at a time. If I go this way to decimeters then 300 centimeters would be the same as?
+student: 30
+teacher: 30 decimeters because 300 divided by 10 is what?
+student: 30
+teacher: 300 divided by 10?
+student: oh, 30.
+teacher: That’s 30 the answer is right in front of you. Okay than 30 divided by 10 would be?
+student: 3.
+teacher: 3. So 300 centimeters is the same as 30 decimeters which is the same as 3 meters. If I were going in the opposite direction I – say I have 5 meters and I wanna know how many centimeters? Since I’m going from a large unit to a smaller unit now what am I gonna do?
+student: Multiply
+teacher: Multiply how many spaces am I moving?
+student: 2
+teacher: 2. So I’m gonna multiply by what?
+student: 10
+teacher: No. it’s gotta be by some form of 10. How many hops did I just make?
+student: 2
+teacher: 2 hops which means I’m gonna multiply by 10 and then multiply by 10 again. Which is the same as multiplying by what?
+student: 20
+teacher: That’s not the same as multiplying by 20. That’s 2 times 10. 10 times 10. 100. Okay so when I say 5 meters, if I have 5 meters how many centimeters is that? 5 meters, how many centimeters? What are you multiplying by?
+student: 10
+teacher: 10 if I’m only moving one time but I’m moving 2 times so we gotta multiply by 10s so that’s the same as multiplying by 100. So what’s 5 times 100?
+student: 500
+teacher: 500 are we awake? Did we fall back asleep? It’s afternoon we shouldn’t be asleep. Okay this just shows basically what sort of combinations of measurements there are for length, millimeter, centimeter, decimeter, meter, and kilometer. Okay and we’re not really gonna worry about that. Okay then liter like I said you’ll see more of that next year but as you see well – then gonna have the same prefixes but do you really think things like centiliter and deciliter are used a lot?
+student: No.
+teacher: No milliliter is used quite about; liter is used quite a bit. And that’s what you see right here. The person who created this they even crossed out centiliter and deciliter because it’s not really a common measurement that you use often.
+teacher: Okay and then mass which is really what we wanna focus on. Okay a milligram, centigram, decigram and kilogram. And of course like we said there are those other two right there, decagram and hectogram but we’re not gonna worry about those because those aren’t something real common especially I don’t know maybe when you get to high school math you might see a little bit more of it. But not a whole lot. Okay up there it gives you an example of 1 gram is the same as a paper clip. Okay yesterday we talked about an ounce being about what? We gave a couple examples for an ounce. A toy car like a hot wheels or what else?
+{
+    "your_reasoning": "The segment contains multiple mathematical inaccuracies that persist throughout the instruction and shape the lesson. The teacher begins with “3000 centimeters” but immediately treats the value as “300 centimeters,” without acknowledging the discrepancy, and all subsequent conversions are based on the wrong quantity. The teacher also provides inconsistent guidance on when to multiply or divide, accepting incorrect student responses without clarifying the underlying principle. These errors recur across examples and obscure the structure of metric-unit relationships, affecting most of the segment’s mathematical content."
+    "rating": 3
+}

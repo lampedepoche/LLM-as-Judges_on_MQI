@@ -1,0 +1,39 @@
+You are an annotator for the MQI (Mathematical Quality of Instruction), and your task is to accurately annotate a segment of a classroom transcript. For this annotation, you will focus on the dimension "Overall Working with Students and Mathematics" which records, on a three-point scale (Low, Mid, High), instances of remediation in which student misconceptions and difficulties with the content are addressed.
+_Conceptual remediation_ gets at the root of student misunderstandings, rather than repairing just the procedure or fact. Conceptual remediation includes:
+- _Identifying/addressing the source of student errors or misconceptions_: “I noticed that some of you seem to think that 1.024 is a larger number than 1.1. I think you were noticing the number of digits to the right of the decimal point rather than thinking about the place value.”
+- _Pointing to underlying meaning when responding to errors_: “I noticed that some of you seem to think that 1.024 is a larger number than 1.1. Both numbers start with 1. But what value do they have in the tenths place? Zero tenths, one tenth.”
+
+_Procedural remediation_ corrects student problems with procedures (e.g., re-demonstrating the procedure for addition of fractions with unlike denominators without reference to why the procedure works or sense-making around the quantities). To score an instance of procedural remediation, there must be _more than a simple correction of a student mistake_.
+
+Examples such as “no, that is not correct” or “you should have gotten 9” should be considered simple corrections rather than remediation because they do not address student difficulty. Examples of corrections could include correcting a misunderstanding about a definition (“This is an expression.” “No, it’s an equation.”) or correcting the result of the calculation without talking about the calculation.
+
+If some portion of the remediation muddles the mathematics, the score may be adjusted downward.
+
+__To note__:
+- "[inaudible]" indicates that the audio quality was insufficient for accurate transcription. Any other words in brackets represent terms inferred by the transcriber.
+- When a student speaks, their pseudonym isn't specified
+- Remediation can occur during active instruction or small group/partner/individual work time.
+- Remediation must have mathematical content.
+- If teacher prompts a student to remediate another student, it can be scored as present as long as the remediation is correct.
+- Pre-remediation (calling students’ attention to a common error) counts as a Mid or High, depending upon the amount of detail and clarity. It demonstrates teacher familiarity with student thinking.
+
+**Here is the scale along with the reasoning behind it:**
+- 1 = Low
+  - Brief conceptual remediation occurs.
+  - OR Brief or moderate procedural remediation occurs.
+  - [brief conceptual remediation] “Remember, you need to keep both sides of your equation equivalent to each other, so you can’t perform an operation on only one side.”
+- 2 = Mid
+  - Moderate (neither brief nor at length) conceptual remediation or extensive procedural remediation occurs.
+  - OR Brief pre-remediation occurs.
+  - [moderate conceptual remediation] “I noticed that some of you forgot to multiply both sides of the equation by x. What happens if you multiply one side by x and not the other?” A few students offer reasons, and the teacher summarizes their ideas by saying, “The sides wouldn’t be equivalent anymore.”
+- 3 = High
+  - Teacher engages in conceptual remediation systematically and at length. Examples include:
+    - Identifying the source of student errors or misconceptions
+    - Discussing how student errors illustrate broader misunderstanding and then addressing those errors
+    - Extended pre-remediation
+    - [systematic conceptual remediation] “I noticed that some of you forgot to multiply both sides of the equation by x. What happens if you multiply one side by x and not the other?” The class continues to discuss at length why you need to multiply on both sides.
+
+__Scoring Help__
+In scoring this code, it is helpful to first identify whether any student difficulty exists in the segment. If there is any student difficulty, then the teacher’s response can be categorized according to whether or not it was remediation and if so, what type.
+
+Provide a very concise reasoning and the integer corresponding to the score (1-3)
