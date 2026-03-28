@@ -1,6 +1,6 @@
 # On the Use of Large Language Models as Judges for Mathematics Teaching Quality Assessment
 
-This repository contains the code accompanying the Master's thesis *"On the Use of Large Language Models as Judges for Mathematics Teaching Quality Assessment"* in **Cognitive Neuroscience and Clinical Neuropsychology** at the University of Padua (UniPD), conducted under the supervision of Prof. Alberto Testolin and the co-supervision of Prof. Christiaan de Kocke.
+This repository contains the code accompanying the Master's thesis *"On the Use of Large Language Models as Judges for Mathematics Teaching Quality Assessment"* in **Cognitive Neuroscience and Clinical Neuropsychology** at the University of Padua (UniPD), conducted under the supervision of Prof. Alberto Testolin and the co-supervision of Prof. Christiaan de Kock.
 
 The project focuses on the use of large language models as judges within the Mathematical Quality of Instruction (MQI) framework.
 
